@@ -49,8 +49,6 @@ https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Unifranz.bo@HD" tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="Education;Entertainment;News",Unifranz (720p)
 https://live.enhdtv.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-id="UnitelSantaCruz.bo@SD" tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="General",Unitel Santa Cruz
-https://master.tucableip.com/tvhome/index.m3u8
 #EXTINF:-1 tvg-id="UnivalleTelevision.bo@SD" tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Undefined",Univalle Televisión (1080p)
 https://master.tucableip.com/univalletv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" http-referrer="https://tvu.umsa.bo/en-vivo" group-title="Undefined",UniversidadMayordeSanAndres (1080p) [Not 24/7]
@@ -72,3 +70,5 @@ https://mio.zoymilton.com/ZoyEventos/index.m3u8
 https://mio.zoymilton.com/ZoyTurcas/index.m3u8
 #EXTINF:-1 tvg-id="ZoyTVPlus.bo@HD" tvg-logo="https://i.imgur.com/JPNPH3x.png" group-title="Entertainment",ZoyTV Plus (720p)
 https://mio.zoymilton.com/ZoyPlus/index.m3u8
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo@SD" tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="General",Unitel Santa Cruz (720p) [Not 24/7]
+https://xtream.videx.lol/Yoshiro/admin/338.m3u8

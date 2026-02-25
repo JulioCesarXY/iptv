@@ -1220,6 +1220,8 @@ http://79.127.207.193/ORF2/playlist.m3u8
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1 tvg-id="ORFKids.at@SD" tvg-logo="https://i.imgur.com/Zxuah2b.png" group-title="Kids",ORF Kids (720p)
 https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
+#EXTINF:-1 tvg-id="ORFSportPlus.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/512px-ORF_Sport%2B.svg.png" group-title="Sports",ORF Sport+ HD (720p)
+http://87.106.2.165:8443/orfsporthd/index.m3u8
 #EXTINF:-1 tvg-id="ORTSTV.nl@SD" tvg-logo="https://i.imgur.com/RZM4Myo.png" group-title="General",ORTS (480p) [Not 24/7]
 https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="P2MTV.fr@SD" tvg-logo="https://i.imgur.com/TrecSeG.png" group-title="Music",P2M TV (720p)
@@ -1346,6 +1348,8 @@ http://79.232.88.203:9981/stream/channelid/1038721938
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/publicsenat.m3u8
 #EXTINF:-1 tvg-id="PuissanceTV.fr@SD" tvg-logo="https://pbs.twimg.com/profile_images/1274572654016675842/A6v8Qo_X_400x400.jpg" group-title="General",Puissance TV
 https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
+#EXTINF:-1 tvg-id="Puls4.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Puls4.svg/512px-Puls4.svg.png" group-title="Undefined",Puls 4 (576p)
+http://87.106.2.165:8443/puls4/index.m3u8
 #EXTINF:-1 tvg-id="PUNKTumFernsehen.de@SD" tvg-logo="https://i.imgur.com/3yamOmw.png" group-title="Undefined",PUNKTum Fernsehen (1080p) [Not 24/7]
 http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
 #EXTINF:-1 tvg-id="QMusic.be@SD" tvg-logo="https://i.imgur.com/VX5e9Xt.png" group-title="Music",Q-Music (Belgium) (1080p)
@@ -2027,8 +2031,8 @@ https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c
 https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
 #EXTINF:-1 tvg-id="StuBru.be@SD" tvg-logo="https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png" group-title="Music",VRT Radio StuBru (720p)
 https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
-#EXTINF:-1 tvg-id="W9.fr@SD" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="Entertainment",W9 [Geo-blocked] [Geo-Blocked]
-https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+#EXTINF:-1 tvg-id="W9.fr@SD" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="Entertainment",W9 [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
 #EXTINF:-1 tvg-id="W24.at@SD" tvg-logo="https://i.imgur.com/FpVNrxk.png" group-title="Undefined",W24 (720p) [Not 24/7]
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WDR1Live.de@SD" tvg-logo="https://i.imgur.com/RbqDMYx.png" group-title="Entertainment",WDR 1 Live (720p)

@@ -106,9 +106,9 @@ https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 #EXTINF:-1 tvg-id="AsiaTV.lk@HD" tvg-logo="https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png" group-title="Entertainment;Family;General",Asia TV (720p)
 https://stream.asiatvnet.com/1/live/master.m3u8
-#EXTINF:-1 tvg-id="AsianBox.mn@SD" tvg-logo="https://i.imgur.com/WAYZSgx.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",AsianBox (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
+#EXTINF:-1 tvg-id="AsianBox.mn@SD" tvg-logo="https://i.imgur.com/WAYZSgx.png" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",AsianBox (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
 #EXTINF:-1 tvg-id="Asianet.in@HD" tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Entertainment",Asianet HD (720p)
 http://217.20.112.199/asianet/index.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entertainment",Azteca Internacional (1080p)
@@ -230,8 +230,8 @@ https://mlb.essastream.com:8081/canalcocotv/playlist.m3u8
 https://streamer2.nexgen.bz/12-CBTV/index.m3u8
 #EXTINF:-1 tvg-id="Colors.in@SD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors (576p)
 http://103.229.254.25:7001/play/a077/index.m3u8
-#EXTINF:-1 tvg-id="ColorsBangla.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png" group-title="Entertainment",Colors Bangla HD (720p)
-https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png" group-title="Entertainment",Colors Bangla HD (1080p)
+http://103.229.254.25:7001/play/a0ds/index.m3u8
 #EXTINF:-1 tvg-id="Colors.in@HD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors HD (1080p)
 http://103.229.254.25:7001/play/a0a1/index.m3u8
 #EXTINF:-1 tvg-id="ColorsInfinity.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png" group-title="Entertainment",Colors Infinity HD (1080p)
@@ -252,6 +252,8 @@ http://173.225.32.123/Cozi-2358/index.m3u8
 https://tvpass.org/live/CrimePlusInvestigation/hd
 #EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Entertainment",Crime + Investigation Asia HD (720p) [Geo-blocked]
 https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
+#EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl@SD" tvg-logo="https://i.imgur.com/kSZCvah.png" group-title="Entertainment",Crime + Investigation Polsat (1080p)
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc107/polsatcihdraw/polsatcihdraw.m3u8
 #EXTINF:-1 tvg-id="Dabangg.in@SD" tvg-logo="https://i.imgur.com/6ChpxLy.png" group-title="Entertainment",Dabangg (576p)
 https://mumt01.tangotv.in/DABANGG/index.m3u8
 #EXTINF:-1 tvg-id="Dangal2.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dangal-2-in.png" group-title="Entertainment",Dangal 2 (720p)
@@ -272,9 +274,13 @@ https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 https://tv.num221tech.com:5443/LiveApp/streams/dntv.m3u8
 #EXTINF:-1 tvg-id="DongNaiTV2.vn@SD" tvg-logo="https://i.imgur.com/tNKPSkO.png" group-title="Entertainment;Sports",Đồng Nai 2 (480p) [Not 24/7]
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DreamTV.mn@SD" tvg-logo="https://i.imgur.com/YPbvzgV.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",Dream TV (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8
+#EXTINF:-1 tvg-id="DreamTV.mn@SD" tvg-logo="https://i.imgur.com/YPbvzgV.png" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",Dream TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd
+#EXTINF:-1 tvg-id="DTRZona1.ru@HD" tvg-logo="https://i.imgur.com/ddPUnpQ.png" group-title="Entertainment",DTR Zona 1 (720p)
+https://kino-stream.online/hls/DTRZONA1.m3u8
+#EXTINF:-1 tvg-id="DTRZona2.ru@HD" tvg-logo="https://i.imgur.com/odKqEZu.png" group-title="Entertainment",DTR Zona 2 (720p)
+https://kino-stream.online/hls/DTRZONA2.m3u8
 #EXTINF:-1 tvg-id="E24.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_E24/images/LOGO_HD/image.png" group-title="Entertainment",E 24 (576p)
 https://mumt04.tangotv.in/E24/index.m3u8
 #EXTINF:-1 tvg-id="E.us@East" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Entertainment",E! East (1080p) [Not 24/7]
@@ -348,7 +354,7 @@ http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
 https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
 #EXTINF:-1 tvg-id="FujairahTV.ae@SD" tvg-logo="https://i.imgur.com/D2tOhbE.png" group-title="Entertainment",Fujairah TV (720p)
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FujiTVNEXT.jp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Next-fujitv_logo.jpg/revision/latest" group-title="Entertainment",Fuji TV NEXT (544p)
+#EXTINF:-1 tvg-id="FujiTVNEXT.jp@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Next-fujitv_logo.jpg/revision/latest" group-title="Entertainment",Fuji TV NEXT (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
 #EXTINF:-1 tvg-id="Fuse.us@East" tvg-logo="https://i.imgur.com/mijRpPQ.jpg" group-title="Entertainment",Fuse East (1080p) [Not 24/7]
 https://tvpass.org/live/FuseEast/hd
@@ -424,7 +430,7 @@ https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 #EXTINF:-1 tvg-id="HollyWire.us@SD" tvg-logo="https://i.imgur.com/oVNjFoj.png" group-title="Entertainment;News",HollyWire (720p)
 https://bozztv.com/hwotta/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="HomeDramaChannel.jp" tvg-logo="https://i.imgur.com/iNkKh7w.png" group-title="Entertainment",Home Drama Channel (544p)
+#EXTINF:-1 tvg-id="HomeDramaChannel.jp@SD" tvg-logo="https://i.imgur.com/iNkKh7w.png" group-title="Entertainment",Home Drama Channel (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
 #EXTINF:-1 tvg-id="HTV3.vn@SD" tvg-logo="" group-title="Entertainment;General;Series",HTV3 (720p)
 https://vc.101vn.com/htv/htvcmb.php?id=2535
@@ -471,7 +477,7 @@ https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8
 https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 #EXTINF:-1 tvg-id="JayaTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_TV/images/LOGO_HD/image.png" group-title="Culture;Entertainment",Jaya TV (360p)
 http://198.27.83.207:2550/JAYA_TV_SD/index.m3u8
-#EXTINF:-1 tvg-id="JidaigekiSenmonChannel.jp" tvg-logo="https://i.imgur.com/8T72RIH.png" group-title="Entertainment",Jidaigeki Senmon (544p)
+#EXTINF:-1 tvg-id="JidaigekiSenmonChannel.jp@SD" tvg-logo="https://i.imgur.com/8T72RIH.png" group-title="Entertainment",Jidaigeki Senmon (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
 #EXTINF:-1 tvg-id="Jim.fi@SD" tvg-logo="https://i.imgur.com/PkMgY0K.png" group-title="Entertainment",Jim (720p)
 https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
@@ -678,7 +684,7 @@ https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
 https://live-fi.tvkaista.net/ava/live.m3u8
 #EXTINF:-1 tvg-id="MTVenEspanol.us@SD" tvg-logo="https://i.imgur.com/vQWWfyW.png" group-title="Entertainment",MTV en español
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=a793d444-cf6d-40a2-8d01-6167e77ae410
-#EXTINF:-1 tvg-id="MTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV Japan (544p)
+#EXTINF:-1 tvg-id="MTV.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV Japan (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 tvg-id="MTVPlutoTV.us@Austria" tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="Entertainment",MTV Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1eea50-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d91aa96f-4975-4e0e-ae56-4a7f2e2383b7
@@ -722,7 +728,7 @@ http://176.65.146.237:8401/play/a0ag/index.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
 #EXTINF:-1 tvg-id="NetmaxTV.gr@SD" tvg-logo="https://i.imgur.com/dLvRD4k.png" group-title="Entertainment",Netmax TV (720p) [Not 24/7]
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-logo="https://i.imgur.com/uvPpFo5.png" group-title="Entertainment",NHK BSP4K (1080p)
+#EXTINF:-1 tvg-id="NHKBSP4K.jp@SD" tvg-logo="https://i.imgur.com/uvPpFo5.png" group-title="Entertainment",NHK BSP4K (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp@SD" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Entertainment",NHK World Premium (720p) [Not 24/7]
 https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
@@ -734,7 +740,7 @@ https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
 #EXTINF:-1 tvg-id="Nitro.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/512px-Nitro_Logo.svg.png" group-title="Entertainment",Nitro HD (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
-#EXTINF:-1 tvg-id="NortenaTv.ve" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU" group-title="Entertainment",Norteña TV
+#EXTINF:-1 tvg-id="NortenaTv.ve@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU" group-title="Entertainment",Norteña TV
 https://vs20.live.opencaster.com/nortena933fm_00010364/index.m3u8
 #EXTINF:-1 tvg-id="NosIslaTV.aw@SD" tvg-logo="https://i.imgur.com/sH7ZkPx.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" group-title="Entertainment",Nos Isla TV (1080p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
@@ -910,8 +916,6 @@ https://stream.solmediaeg.com/soltv/soltv.m3u8
 http://103.229.254.25:7001/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png" group-title="Entertainment",Sony Entertainment Television HD (720p)
 http://217.20.112.199/sethd/index.m3u8
-#EXTINF:-1 tvg-id="SonyPal.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PAL/images/LOGO_HD/image.png" group-title="Entertainment",SONY PAL (576p)
-http://103.78.149.54:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment",Sony SAB (720p)
 http://103.229.254.25:7001/play/a09s/index.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment",Sony SAB HD (1080p)
@@ -929,7 +933,7 @@ https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 tvg-id="StarUtsav.in@SD" tvg-logo="https://i.imgur.com/H1jhHDl.png" group-title="Entertainment",Star Utsav (576p)
 http://103.78.149.54:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="StarVijay.in@HD" tvg-logo="https://i.imgur.com/dZtJHAe.png" group-title="Entertainment",Star Vijay HD (360p)
-http://198.27.83.207:8888/STAR_VIJAY_SD/index.m3u8
+http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in@SD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment",StarPlus (576p)
 http://103.229.254.25:7001/play/a09p/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment",StarPlus HD (1080p)
@@ -944,7 +948,7 @@ https://stream.galaxyott.live/live/subintv/index.m3u8
 http://103.78.149.54:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="SunNeo.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_NEO/images/LOGO_HD/image.png" group-title="Entertainment",Sun Neo (576p)
 http://163.61.227.29:8000/play/a04t/index.m3u8
-#EXTINF:-1 tvg-id="JOUHDTV.jp" tvg-logo="https://i.imgur.com/0qtXIRM.png" group-title="Entertainment",Sun TV (544p)
+#EXTINF:-1 tvg-id="JOUHDTV.jp@SD" tvg-logo="https://i.imgur.com/0qtXIRM.png" group-title="Entertainment",Sun TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 #EXTINF:-1 tvg-id="SunTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_TV/images/LOGO_HD/image.png" group-title="Entertainment",Sun TV (576p)
 http://103.229.254.25:7001/play/a06x/index.m3u8
@@ -1104,8 +1108,8 @@ https://hls.vox1.live/hls/stream.m3u8
 https://tv.westream.cloud/VozdiBonaireTV/VozdiBonaireTV.m3u8
 #EXTINF:-1 tvg-id="VRTChannel.br@SD" tvg-logo="https://i.imgur.com/crszh3d.png" group-title="Entertainment",VRT Channel (720p)
 https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
-#EXTINF:-1 tvg-id="W9.fr@SD" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="Entertainment",W9 [Geo-blocked] [Geo-Blocked]
-https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+#EXTINF:-1 tvg-id="W9.fr@SD" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="Entertainment",W9 [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
 #EXTINF:-1 tvg-id="WDR1Live.de@SD" tvg-logo="https://i.imgur.com/RbqDMYx.png" group-title="Entertainment",WDR 1 Live (720p)
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 #EXTINF:-1 tvg-id="WipeoutXtra.us@SD" tvg-logo="https://i.imgur.com/UDeCRW1.png" group-title="Entertainment",Wipeout Xtra (1080p)
@@ -1145,7 +1149,7 @@ https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 tvg-id="ZeePunjabi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_PUNJABI/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee Punjabi (576p)
 http://161.248.38.40:8000/play/a0at/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTamil.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TAMIL_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee Tamil HD (360p)
-http://198.27.83.207:8888/ZEE_TAMIL_SD/index.m3u8
+http://198.27.83.207:2550/ZEE_TAMIL_SD/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee TV (576p)
 http://161.248.38.40:8000/play/a08v/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee TV HD (1080p)

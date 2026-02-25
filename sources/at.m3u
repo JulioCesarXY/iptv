@@ -39,8 +39,12 @@ http://79.127.207.193/ORF2/playlist.m3u8
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1 tvg-id="ORFKids.at@SD" tvg-logo="https://i.imgur.com/Zxuah2b.png" group-title="Kids",ORF Kids (720p)
 https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
+#EXTINF:-1 tvg-id="ORFSportPlus.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/512px-ORF_Sport%2B.svg.png" group-title="Sports",ORF Sport+ HD (720p)
+http://87.106.2.165:8443/orfsporthd/index.m3u8
 #EXTINF:-1 tvg-id="P3tv.at@SD" tvg-logo="https://i.imgur.com/qUOFiEe.png" group-title="General",P3tv (720p) [Not 24/7]
 http://p3-6.mov.at:1935/live/weekstream/master.m3u8
+#EXTINF:-1 tvg-id="Puls4.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Puls4.svg/512px-Puls4.svg.png" group-title="Undefined",Puls 4 (576p)
+http://87.106.2.165:8443/puls4/index.m3u8
 #EXTINF:-1 tvg-id="R9.at@SD" tvg-logo="https://i.imgur.com/SVJiXxh.png" group-title="Undefined",R9 (720p) [Not 24/7]
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="Sports",Red Bull TV (1080p)

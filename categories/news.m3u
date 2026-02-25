@@ -577,9 +577,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 #EXTINF:-1 tvg-id="DY365.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DY365/images/LOGO_HD/image.png" group-title="News",DY 365 (360p)
 https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
-#EXTINF:-1 tvg-id="EagleNews.mn@SD" tvg-logo="https://i.imgur.com/2oqXpve.jpg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="News",Eagle News HD (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8
+#EXTINF:-1 tvg-id="EagleNews.mn@SD" tvg-logo="https://i.imgur.com/2oqXpve.jpg" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="News",Eagle News HD (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd
 #EXTINF:-1 tvg-id="EBCFinancialNews.tw@SD" tvg-logo="https://i.imgur.com/uFDkOhV.png" group-title="News",EBC Financial News (東森財經新聞台) (1080p) [Not 24/7]
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-id="EBCNews.tw@SD" tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="News",EBC News (東森新聞台) (1080p) [Not 24/7]
@@ -603,9 +603,9 @@ https://liveovh009.cda.pl/2mwlMj_cpciQwY9XKkuwooIeujskIie828C5uElA/1760154894/24
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EtnaEspressoChannel.it@SD" tvg-logo="https://i.imgur.com/lSI5QgV.png" group-title="News",Etna Espresso Channel (720p)
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
-#EXTINF:-1 tvg-id="ETV.mn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/512px-ETV_Mongolia_logo.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="News",ETV (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8
+#EXTINF:-1 tvg-id="ETV.mn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/512px-ETV_Mongolia_logo.png" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="News",ETV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in@SD" tvg-logo="https://i.imgur.com/pFNCRnf.png" group-title="News",ETV Andhra Pradesh (1080p)
 https://d14vo2b97spizt.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264-3_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="eTvMarche.it@SD" tvg-logo="https://i.imgur.com/U6OW577.png" group-title="News",èTv Marche (720p)
@@ -800,8 +800,8 @@ https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
 https://newsxott.in/hls/indianewspunjab.m3u8
 #EXTINF:-1 tvg-id="IndiaNewsUttarPradesh.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_UP.png" group-title="News",India News Uttar Pradesh (1080p)
 https://newsxott.in/hls/indianewsupuk.m3u8
-#EXTINF:-1 tvg-id="IndiaToday.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TODAY/images/LOGO_HD/image.png" group-title="News",India Today (720p) [Not 24/7]
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 tvg-id="IndiaToday.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TODAY/images/LOGO_HD/image.png" group-title="News",India Today (720p) [Geo-blocked]
+https://amg00644-amg00644c1-ondemandkorea-amesia-10266.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-ondemandkoreaamesia/playlist.m3u8
 #EXTINF:-1 tvg-id="IndiaTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TV/images/LOGO_HD/image.png" group-title="News",India TV (720p)
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
 #EXTINF:-1 tvg-id="IndiaTVAapKiAdalat.in@SD" tvg-logo="https://play-lh.googleusercontent.com/2IlBX3IQHna8g4g-56vwGWb14K38spcviIh3i7uJCJ32ydfhcKZdOsacgijPkPeerEA" group-title="Documentary;News",India TV Aap Ki Adalat (1080p) [Geo-blocked]
@@ -994,9 +994,9 @@ https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 #EXTINF:-1 tvg-id="MirrorNow.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MIRROR_NOW/images/LOGO_HD/image.png" http-referrer="https://www.timesnownews.com/" group-title="News",Mirror Now (720p)
 #EXTVLCOPT:http-referrer=https://www.timesnownews.com/
 https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8
-#EXTINF:-1 tvg-id="MongolianNewsChannel.mn@SD" tvg-logo="https://i.imgur.com/gMVqbwU.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="News",MNC (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8
+#EXTINF:-1 tvg-id="MongolianNewsChannel.mn@SD" tvg-logo="https://i.imgur.com/gMVqbwU.png" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="News",MNC (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
 #EXTINF:-1 tvg-id="MonacoInfo.mc@SD" tvg-logo="https://i.imgur.com/FPyPaL1.png" group-title="News",Monaco Info (1080p)
 https://webtv.monacoinfo.com/live/prod/index.m3u8
 #EXTINF:-1 tvg-id="MoonTV.in@SD" tvg-logo="https://i.imgur.com/3l25EZI.png" group-title="News",Moon TV (720p)
@@ -1415,6 +1415,8 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-id="SNNTV.ir@SD" tvg-logo="https://i.imgur.com/V8DYqMJ.png" group-title="News",SNN TV [Not 24/7]
 https://live2.snn.ir/hls/snn2_hd720/index.m3u8
+#EXTINF:-1 tvg-id="StarBharat.in@SD" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="News",Star Bharat (576p)
+http://103.113.103.202:8001/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="StarKentrikisElladas.gr@SD" tvg-logo="https://i.imgur.com/ZBt6beo.png" http-referrer="https://player.castr.com" group-title="General;News",Star Kentrikis Elladas (720p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://player.castr.com
 https://stream.castr.com/651d8d36a57bf232bc830464/live_01fd9e80636111eebd0da35d4eac7f71/index.m3u8
@@ -1452,7 +1454,7 @@ https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76
 https://cdn-1.pishow.tv/live/385/master.m3u8
 #EXTINF:-1 tvg-id="TamilJanam.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Janam_Tamil.png" group-title="News",Tamil Janam (720p)
 https://app.ashokadigital.net/app/324ea1b0/index.m3u8
-#EXTINF:-1 tvg-id="TBSNewsCS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TBS_News_2020_logo.png/512px-TBS_News_2020_logo.png" group-title="News",TBS News (544p)
+#EXTINF:-1 tvg-id="TBSNewsCS.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TBS_News_2020_logo.png/512px-TBS_News_2020_logo.png" group-title="News",TBS News (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 #EXTINF:-1 tvg-id="TCM10HD.br@SD" tvg-logo="https://i.imgur.com/aMuMVvB.png" group-title="News",TCM 10 HD (1080p)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8

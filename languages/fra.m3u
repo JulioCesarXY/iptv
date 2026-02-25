@@ -816,8 +816,8 @@ https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 #EXTINF:-1 tvg-id="VoxAfrica.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Voxafrica-1.png/512px-Voxafrica-1.png" group-title="Undefined",VoxAfrica
 http://69.64.57.208/voxafrica/playlist.m3u8
-#EXTINF:-1 tvg-id="W9.fr@SD" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="Entertainment",W9 [Geo-blocked] [Geo-Blocked]
-https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+#EXTINF:-1 tvg-id="W9.fr@SD" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="Entertainment",W9 [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
 #EXTINF:-1 tvg-id="WalfTV.sn@SD" tvg-logo="https://i.imgur.com/IrBAqIJ.png" group-title="General",Walf TV (360p)
 http://69.64.57.208/walftv/playlist.m3u8
 #EXTINF:-1 tvg-id="WildSideTV.fr@SD" tvg-logo="https://i.imgur.com/cQkfRhH.png" group-title="Movies",Wildside TV (720p)

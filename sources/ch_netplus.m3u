@@ -254,8 +254,8 @@ https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-dash/tvpolonia.mpd
 https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrinternational.mpd
 #EXTINF:-1 tvg-id="VOX.de@SD" tvg-logo="https://i.imgur.com/QPcmfZb.png" group-title="Undefined",VOX (576p) [Geo-blocked] [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
-#EXTINF:-1 tvg-id="W9.fr@SD" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="Entertainment",W9 [Geo-blocked] [Geo-Blocked]
-https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+#EXTINF:-1 tvg-id="W9.fr@SD" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="Entertainment",W9 [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
 #EXTINF:-1 tvg-id="WDRFernsehen.de@Koln" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="General",WDR Fernsehen (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
 #EXTINF:-1 tvg-id="WELT.de@SD" tvg-logo="https://i.imgur.com/s4TZoxx.png" group-title="News",WELT (1080p) [Geo-Blocked]

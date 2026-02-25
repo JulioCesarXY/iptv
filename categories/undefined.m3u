@@ -73,6 +73,9 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67dd13af63d0008257f17/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8293f0-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b751f03-945e-4e30-a909-d3e4de858fa8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",90210
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67dd13af63d0008257f17/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e8ba6507-b72a-429e-bd1c-feb575a81a37
+#EXTINF:-1 tvg-id="TV4.mn@SD" tvg-logo="https://i.imgur.com/WSvUsxy.png" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",(1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TV4/DASH-FTA/TV4.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",A Caçadora de Relíquias
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67e59a6557487a8b7fe73e23/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=f739f7cc-7a4f-4da9-9134-c843facb292c
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",A Feiticeira
@@ -683,8 +686,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
 #EXTINF:-1 tvg-id="BestTV.gr@SD" tvg-logo="https://i.imgur.com/AeeeDUc.png" group-title="Undefined",Best TV (720p) [Not 24/7]
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BestClasicosTV.cr@SD" tvg-logo="https://i.imgur.com/a/BRb8AVL.png" group-title="Undefined",BestClasicosTV (576p) [Not 24/7]
-https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8
+#EXTINF:-1 tvg-id="BestClasicosTV.cr@SD" tvg-logo="https://i.imgur.com/a/BRb8AVL.png" group-title="Undefined",BestClasicosTV (720p) [Not 24/7]
+https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BET
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61c1939b8929e40007ff6382/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=78b29450-7022-4485-b983-23f30e23925f&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=557ec5a1-e668-4af4-9099-7cbf655147ab
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BET
@@ -916,7 +919,7 @@ https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Bruzz.be@SD" tvg-logo="https://i.imgur.com/OYlYidF.png" group-title="Undefined",Bruzz (720p)
 https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BSShochikuTokyu.jp" tvg-logo="https://i.imgur.com/pSKCgvv.png" group-title="Undefined",BS Shochiku Tokyu (1080p)
+#EXTINF:-1 tvg-id="BSShochikuTokyu.jp@SD" tvg-logo="https://i.imgur.com/pSKCgvv.png" group-title="Undefined",BS Shochiku Tokyu (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BS TV (576p)
 https://mumt02.tangotv.in/BSTV/index.m3u8
@@ -1074,6 +1077,8 @@ https://videos.canal56.com/directe/stream/index.m3u8
 https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal79LaCosta.ar@SD" tvg-logo="https://i.imgur.com/HYuSqJy.png" group-title="Undefined",Canal 79 La Costa (240p)
 https://streamconex.com:19360/lacosta/lacosta.m3u8
+#EXTINF:-1 tvg-id="Canal79MardelPlata.ar@SD" tvg-logo="https://i.imgur.com/I93ypGY.png" group-title="Undefined",Canal 79 Mar del Plata
+https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 #EXTINF:-1 tvg-id="Canal79Puan.ar@SD" tvg-logo="https://i.imgur.com/HYuSqJy.png" group-title="Undefined",Canal 79 Puan (240p)
 https://streamconex.com:19360/puan/puan.m3u8
 #EXTINF:-1 tvg-id="Canal79SantaClaradelMar.ar@SD" tvg-logo="https://i.imgur.com/I93ypGY.png" group-title="Undefined",Canal 79 Santa Clara del Mar (240p)
@@ -2395,9 +2400,9 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663a440c8ea5560008a4db8a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=13a07cf5-9cd9-48a5-8101-764fc4a1e908&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=74249662-f087-489e-bb24-4f6e24cc7e43
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Gaming Central: Shooters
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6618e22624e1d000087a111c/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=13a07cf5-9cd9-48a5-8101-764fc4a1e908&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=c08fe557-ea73-4c7f-b323-7291f1f50668
-#EXTINF:-1 tvg-id="GTV.mn@SD" tvg-logo="https://i.imgur.com/z18PSIo.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Gandan TV (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/GTV/HLSv3-FTA/GTV.m3u8
+#EXTINF:-1 tvg-id="GTV.mn@SD" tvg-logo="https://i.imgur.com/z18PSIo.png" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Gandan TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/GTV/DASH-FTA/GTV.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Gardening with Monty Don
 https://all3media-gardening-with-monty-don-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Gardening With Monty Don (720p)
@@ -2452,9 +2457,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6536608b4f123d000876b78b/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=3730278c-5efe-42f9-9d31-0f7a0c5d906d&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=3070dec8-8293-4df6-be42-5ada9f5a6530
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Global News National
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbef9ebb857100072fc187/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=32de4823-7501-4845-ba26-8699462954dd&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=95f1bbf2-0fc2-488a-a437-5e87127fd22a
-#EXTINF:-1 tvg-id="GlobalTV.mn@SD" tvg-logo="https://i.imgur.com/Es5FX4z.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Global TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/GlobalTV/HLSv3-FTA/GlobalTV.m3u8
+#EXTINF:-1 tvg-id="GlobalTV.mn@SD" tvg-logo="https://i.imgur.com/Es5FX4z.png" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Global TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/GlobalTV/DASH-FTA/GlobalTV.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Glory Kickboxing
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65e9b6498b24c8000806b982/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=78b29450-7022-4485-b983-23f30e23925f&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=3bbba322-cf79-41f3-b9e7-326a3bcfd1c4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Glory Kickboxing
@@ -3711,12 +3716,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 #EXTINF:-1 tvg-id="MnauTV.cz@SD" tvg-logo="https://i.imgur.com/deVHJKS.png" group-title="Undefined",Mňau TV (1080p)
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",MNB Гэр бүл (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/MNB_Family/HLSv3-FTA/MNB_Family.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",MNB Гэр бүл (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNB_Family/DASH-FTA/MNB_Family.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",MNB Гэр бүл (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNB_Family/HLSv3-FTA/MNB_Family.m3u8
 #EXTINF:-1 tvg-id="MNBMongoliinMedee.mn@SD" tvg-logo="https://i.imgur.com/KUvJzUD.png" group-title="Undefined",MNB Монголын Мэдээ (576p)
 https://live.mnb.mn/hls/mn2.stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MO Channel
@@ -5532,6 +5537,8 @@ https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
 https://v6.siar.us/pujatv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="Puls2.pl@SD" tvg-logo="https://i.imgur.com/EOnzPiZ.png" group-title="Undefined",Puls 2 (1080p)
 https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
+#EXTINF:-1 tvg-id="Puls4.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Puls4.svg/512px-Puls4.svg.png" group-title="Undefined",Puls 4 (576p)
+http://87.106.2.165:8443/puls4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pulse (1080p)
 https://amg01076-lightningintern-pulse-samsungau-4a45e.amagi.tv/playlist/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="Pulse95Radio.ae@SD" tvg-logo="https://maraya.faulio.com/storage/mediagallery/60/26/fullhd_d5c3c81b0562a76bc63f073a5e0947f309b0215b.png" group-title="Undefined",Pulse95 Radio (1080p)
@@ -5688,14 +5695,12 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai5.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/512px-Rai_5_-_Logo_2017.svg.png" group-title="Undefined",Rai 5 (576p) [Geo-blocked]
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
-#EXTINF:-1 tvg-id="RaiGulp.it@SD" tvg-logo="https://i.imgur.com/irAhPJM.png" group-title="Undefined",Rai Gulp (1080p)
-http://188.60.179.180:8000/play/xxRaiGulpxx
+#EXTINF:-1 tvg-id="RaiGulp.it@SD" tvg-logo="https://i.imgur.com/irAhPJM.png" group-title="Undefined",Rai Gulp (576p)
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
 #EXTINF:-1 tvg-id="RaiGulp.it@HD" tvg-logo="https://i.imgur.com/irAhPJM.png" group-title="Undefined",Rai Gulp HD [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
-#EXTINF:-1 tvg-id="RaiItalia.it@Asia" tvg-logo="https://i.imgur.com/1nN4rEP.png" group-title="Undefined",RAI Italia Asia (576p)
-http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
-#EXTINF:-1 tvg-id="RaiPremium.it@SD" tvg-logo="https://i.imgur.com/40g5Urz.png" group-title="Undefined",Rai Premium (1080p)
-http://188.60.179.180:8000/play/a0oy
+#EXTINF:-1 tvg-id="RaiPremium.it@SD" tvg-logo="https://i.imgur.com/40g5Urz.png" group-title="Undefined",Rai Premium (576p) [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rai Sport 2
 http://originstream12.rai.it/italy/raisport2_1200/master.m3u8
 #EXTINF:-1 tvg-id="RaiStoria.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png" group-title="Undefined",Rai Storia (576p) [Geo-blocked]
@@ -6551,7 +6556,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 https://open-cdn.lanet.tv/play/skrypin.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Skull Bound TV
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/E93PS4KYXIWU8QT6LONU/hls3/now,-1m/m.m3u8?ads.vf=tDK02xsUhG0
-#EXTINF:-1 tvg-id="SkyA.jp" tvg-logo="https://i.imgur.com/JU3wZ0k.png" group-title="Undefined",Sky A (544p)
+#EXTINF:-1 tvg-id="SkyA.jp@SD" tvg-logo="https://i.imgur.com/JU3wZ0k.png" group-title="Undefined",Sky A (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
 #EXTINF:-1 tvg-id="SkyOpen.nz@SD" tvg-logo="https://i.imgur.com/eYyYojh.png" group-title="Undefined",Sky Open (1080p) [Geo-blocked]
 https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8
@@ -6979,9 +6984,9 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/sudr
 https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="SukanRTM.my@SD" tvg-logo="https://i.imgur.com/1pYYSu2.png" group-title="Undefined",Sukan RTM [Geo-blocked]
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1 tvg-id="SuldTV.mn@SD" tvg-logo="https://i.imgur.com/CnLxehv.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Suld TV (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/SuldTV/HLSv3-FTA/SuldTV.m3u8
+#EXTINF:-1 tvg-id="SuldTV.mn@SD" tvg-logo="https://i.imgur.com/CnLxehv.png" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Suld TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Sulle tracce del crimine
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66d9a98961dbf00008efb5fc/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=3730278c-5efe-42f9-9d31-0f7a0c5d906d&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=a6cbc39c-3979-4ad8-b026-dd52a9d2fc2a
 #EXTINF:-1 tvg-id="SultraTV.id@SD" tvg-logo="https://i.imgur.com/cmpbNJz.png" group-title="Undefined",Sultra TV (720p) [Not 24/7]
@@ -7105,7 +7110,7 @@ http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-id="TaiwanPlusTV.tw@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Taiwan_Plus.png" group-title="Undefined",Taiwan Plus TV (1080p)
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 tvg-id="TAKARAZUKASKYSTAGE.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/38/takarazuka-skystage_logo.jpg" group-title="Undefined",TAKARAZUKA SKY STAGE (1080p)
+#EXTINF:-1 tvg-id="TAKARAZUKASKYSTAGE.jp@SD" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/38/takarazuka-skystage_logo.jpg" group-title="Undefined",TAKARAZUKA SKY STAGE (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Takeshi's Castle
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6054a9f4bc8a5f000771504c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc866487-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=57bdd710-d72d-475b-8580-91d21df76905
@@ -7680,7 +7685,7 @@ http://103.78.149.54:8000/play/a03a/index.m3u8
 https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Todo Novelas más Pasiones (1080p)
 https://aegis-cloudfront-1.tubi.video/36a6c30a-f42c-41db-a5de-106a9b067638/playlist.m3u8
-#EXTINF:-1 tvg-id="ToeiChannel.jp" tvg-logo="https://i.imgur.com/QsTjHDU.jpeg" group-title="Undefined",Toei Channel (1080p)
+#EXTINF:-1 tvg-id="ToeiChannel.jp@SD" tvg-logo="https://i.imgur.com/QsTjHDU.jpeg" group-title="Undefined",Toei Channel (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 #EXTINF:-1 tvg-id="TogetherTV.uk@SD" tvg-logo="https://i.imgur.com/wf62HhM.png" group-title="Undefined",Together TV (576p)
 http://92.114.85.72:8000/play/a0j8
@@ -7932,9 +7937,6 @@ https://adesa.tv/live/tv3_AdesaAdb.m3u8
 https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8
 #EXTINF:-1 tvg-id="TV3CAT.es@Originals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="Undefined",TV3CAT Originals (1080p)
 https://directes-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
-#EXTINF:-1 tvg-id="TV4.mn@SD" tvg-logo="https://i.imgur.com/WSvUsxy.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",TV 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/TV4/HLSv3-FTA/TV4.m3u8
 #EXTINF:-1 tvg-id="TV4.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png" group-title="Undefined",TV4 (1080p) [Geo-blocked]
 https://lb2-e2-32.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
 #EXTINF:-1 tvg-id="TV4.tr@SD" tvg-logo="https://i.imgur.com/UpsQsbd.png" group-title="Undefined",TV4 (720p)
@@ -8225,6 +8227,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
 #EXTINF:-1 tvg-id="TVP2.pl@SD" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="Undefined",TVP2 (1080p)
 https://lowa8026-cmyk.github.io/tvpvod/399698.m3u8
+#EXTINF:-1 tvg-id="TVPHD.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/512px-TVP_HD_logo.svg.png" group-title="Undefined",TVP HD (1080p)
+http://78.130.250.2:8023/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="TVPHistoria.pl@SD" tvg-logo="https://i.imgur.com/Bc4QZiy.png" group-title="Undefined",TVP Historia (1080p) [Geo-blocked]
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvphistoria.m3u8
 #EXTINF:-1 tvg-id="TVPInfo.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/512px-TVP_Info_logo.svg.png" group-title="Undefined",TVP Info (1080p)
@@ -8877,8 +8881,8 @@ http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8
 https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8
 #EXTINF:-1 tvg-id="WMPTDT2.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/512px-Create_TV_network_logo.svg.png" group-title="Undefined",WMPT-DT2 (PBS Create)
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
-#EXTINF:-1 tvg-id="WNBCDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png" group-title="Undefined",WNBC-DT1 (720p) [Not 24/7]
-https://tvpass.org/live/WNBCDT1/hd
+#EXTINF:-1 tvg-id="WNBCDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png" group-title="Undefined",WNBC-DT1
+http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlK3DzxwnjkoBkTl59dVAmBE/m3u8
 #EXTINF:-1 tvg-id="WNETDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" group-title="Undefined",WNET-DT1 (1080p) [Not 24/7]
 https://tvpass.org/live/WNET/hd
 #EXTINF:-1 tvg-id="WNJUDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Undefined",WNJU-DT1
@@ -8941,7 +8945,7 @@ https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
 https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WOWOWLive.jp@SD" tvg-logo="https://i.imgur.com/jPAYT5F.png" group-title="Undefined",WOWOW Live
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-#EXTINF:-1 tvg-id="WOWOWPrime.jp" tvg-logo="https://i.imgur.com/vACq7w8.png" group-title="Undefined",WOWOW Prime (544p)
+#EXTINF:-1 tvg-id="WOWOWPrime.jp@SD" tvg-logo="https://i.imgur.com/vACq7w8.png" group-title="Undefined",WOWOW Prime (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
 #EXTINF:-1 tvg-id="WPTV.pl@SD" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/NIbkrRsb2dvLW1pZ3JhdGVkL3dwLnBuZ5KVAmQAwsOVAgAowsM" group-title="Undefined",WP TV (1080p)
 https://liveovh011.cda.pl/P8IjbpepCvx7lF8FyJcdAQ/1755751084/2430238/enc109/wphdraw/wphdraw.m3u8
@@ -9160,7 +9164,7 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 tvg-id="Volgograd24.ru@SD" tvg-logo="https://i.imgur.com/gFMnaU5.png" group-title="Undefined",Волгоград 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="Vremya.ru" tvg-logo="https://i.imgur.com/jZlj3ga.png" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Время (720p)
+#EXTINF:-1 tvg-id="Vremya.ru@SD" tvg-logo="https://i.imgur.com/jZlj3ga.png" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Время (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
 #EXTINF:-1 tvg-id="Dagestan.ru@SD" tvg-logo="https://i.imgur.com/jumkRvc.png" group-title="Undefined",Дагестан (1080p)
@@ -9183,7 +9187,7 @@ https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 https://cdn.ntv.ru/th_pravo/playlist.m3u8
 #EXTINF:-1 tvg-id="OTV.ua@SD" tvg-logo="https://i.imgur.com/TkGGGAj.png" group-title="Undefined",ОТВ (Днепр) (576p)
 http://91.193.128.233:1935/live/otv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Pobeda.ru" tvg-logo="https://i.imgur.com/4KiYSln.png" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Победа 720p
+#EXTINF:-1 tvg-id="Pobeda.ru@SD" tvg-logo="https://i.imgur.com/4KiYSln.png" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Победа 720p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
 #EXTINF:-1 tvg-id="PravdaTUT.ua@SD" tvg-logo="https://i.imgur.com/gvgFoFB.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0" group-title="Undefined",ПравдаТУТ (720p)
@@ -9223,7 +9227,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 https://video1.in-news.ru/c24/index.m3u8
 #EXTINF:-1 tvg-id="TVCentr.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/7/72/TV_Tsentr_2013_Logo.svg" group-title="Undefined",ТВ Центр
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCentrInternational.ru" tvg-logo="https://i.imgur.com/tsCOnBW.png" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",ТВ Центр International (720p)
+#EXTINF:-1 tvg-id="TVCentrInternational.ru@SD" tvg-logo="https://i.imgur.com/tsCOnBW.png" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",ТВ Центр International (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8
 #EXTINF:-1 tvg-id="TVA.ua@SD" tvg-logo="https://i.imgur.com/PtTQ5lv.png" group-title="Undefined",ТВА (Чернiвцi) (576p)

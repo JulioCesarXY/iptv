@@ -81,3 +81,15 @@ https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_ad
 http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
 #EXTINF:-1 tvg-id="W24.at@SD" tvg-logo="https://i.imgur.com/FpVNrxk.png" group-title="Undefined",W24 (720p) [Not 24/7]
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Puls4.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Puls4.svg/512px-Puls4.svg.png" group-title="Undefined",Puls 4 (576p)
+http://87.106.2.165:8443/puls4/index.m3u8
+#EXTINF:-1 tvg-id="ATV.at@HD" tvg-logo="https://i.imgur.com/1pA0Tid.png" group-title="General",ATV HD (720p)
+http://87.106.2.165:8443/atvhd/index.m3u8
+#EXTINF:-1 tvg-id="ORFSportPlus.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/512px-ORF_Sport%2B.svg.png" group-title="Sports",ORF Sport+ HD (720p)
+http://87.106.2.165:8443/orfsporthd/index.m3u8
+#EXTINF:-1 tvg-id="ORFIII.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/512px-ORF_III_Logo_Monochrom.svg.png" group-title="Culture",ORF III HD (720p)
+http://87.106.2.165:8443/orf3hd/index.m3u8
+#EXTINF:-1 tvg-id="ORF2.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/ORF2_logo_n.svg" group-title="General",ORF 2 (720p)
+http://87.106.2.165:8443/orf2hd/index.m3u8
+#EXTINF:-1 tvg-id="ORF1.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/512px-ORF_1_2019.svg.png" group-title="General",ORF 1 (720p)
+http://87.106.2.165:8443/orf1hd/index.m3u8

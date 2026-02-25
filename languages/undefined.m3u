@@ -3172,12 +3172,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=9bc042e1-a517-43b3-8a52-f92f028b040f
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mit plastikmareridt
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/643814ef479f6400086ff043/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=78b29450-7022-4485-b983-23f30e23925f&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=d340eded-f2b3-42ee-a5e8-70bf8df70d68
-#EXTINF:-1 tvg-id="" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",MNB Гэр бүл (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/MNB_Family/HLSv3-FTA/MNB_Family.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",MNB Гэр бүл (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNB_Family/DASH-FTA/MNB_Family.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",MNB Гэр бүл (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNB_Family/HLSv3-FTA/MNB_Family.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MO Channel
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Modern Marvels

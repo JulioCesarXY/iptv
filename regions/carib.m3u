@@ -174,6 +174,8 @@ https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us@SD" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Culture;Education",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-id="CNTMasTV.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/ctnmas.jpg" group-title="General",CNT Mas TV (720p) [Not 24/7]
+https://mlb.essastream.com:8081/cntmas/playlist.m3u8
 #EXTINF:-1 tvg-id="COCOTV.do@SD" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="Entertainment",COCO TV (1080p) [Not 24/7]
 https://mlb.essastream.com:8081/canalcocotv/playlist.m3u8
 #EXTINF:-1 tvg-id="CodigoTV.do@HD" tvg-logo="https://imgur.com/DbjywI3.png" group-title="General",Codigo TV (1080p) [Not 24/7]
@@ -366,6 +368,8 @@ https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
 #EXTINF:-1 tvg-id="JPDTV.do@HD" tvg-logo="https://i0.wp.com/juanpabloduartetv.com/wp-content/uploads/2024/08/logo-JPDTV-100-x-100.png" group-title="General",JPD TV [Not 24/7]
 https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8
+#EXTINF:-1 tvg-id="JuniorTechnologiaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3812-294x165-FFFFFF.jpg" group-title="General",Junior Technologia TV (1080p) [Not 24/7]
+https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
 #EXTINF:-1 tvg-id="KajouTV.us@SD" tvg-logo="https://i.imgur.com/2XzghdT.png" group-title="Culture",Kajou TV (720p) [Not 24/7]
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 #EXTINF:-1 tvg-id="KaloopyTV.us@SD" tvg-logo="https://i.ibb.co/Kcg56MFt/long-logo-kaloopy.jpg" group-title="Lifestyle",Kaloopy
@@ -644,7 +648,7 @@ https://streamunoapp.com:3809/live/siembratvlive.m3u8
 #EXTINF:-1 tvg-id="SimavisionCanal18.do@SD" tvg-logo="https://i.imgur.com/io9o30K.jpg" group-title="General",Sima Vision TV (720p)
 https://soportedvb.click:3668/live/simavisiontvlive.m3u8
 #EXTINF:-1 tvg-id="SistesurCanal49.do@SD" tvg-logo="https://i.imgur.com/AXUGTAy.png" group-title="General",Sistesur Canal 49 (1080p) [Not 24/7]
-https://5790d294af2dc.streamlock.net:443/SISTESUR/SISTESUR/playlist.m3u8
+https://5790d294af2dc.streamlock.net/SISTESUR/SISTESUR/playlist.m3u8
 #EXTINF:-1 tvg-id="SKITV.ch@SD" tvg-logo="https://i.imgur.com/S6qgwLG.png" group-title="Sports",SKI TV (1080p) [Not 24/7]
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
 #EXTINF:-1 tvg-id="SolucionTV.do@SD" tvg-logo="https://rdomint.com/images/station/domint1705img07-27-20221658956991.jpeg" group-title="General",Solucion TV (720p) [Not 24/7]
@@ -831,7 +835,7 @@ https://streamunoapp.com:3086/live/telemileniolive.m3u8
 #EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr@SD" tvg-logo="https://i.imgur.com/x8rjGhp.png" group-title="General",TV5Monde Latin America
 http://45.235.0.78/TV5_Monde/index.m3u8
 #EXTINF:-1 tvg-id="TV10SanJuan.do@SD" tvg-logo="https://i.imgur.com/e2BXUdH.png" group-title="General",TV 10 San Juan (720p) [Not 24/7]
-https://59d39900ebfb8.streamlock.net:443/tv10sanjuan/tv10sanjuan/playlist.m3u8
+https://59d39900ebfb8.streamlock.net/tv10sanjuan/tv10sanjuan/playlist.m3u8
 #EXTINF:-1 tvg-id="TV15.sx@SD" tvg-logo="https://i.imgur.com/2taY722.png" group-title="General",TV15 (720p)
 http://198.255.80.170/FTX9_SXM-TV/index.m3u8
 #EXTINF:-1 tvg-id="TVCanalSur.do@SD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-canal-sur-do.png" group-title="Entertainment",TV Canal Sur (1080p)
