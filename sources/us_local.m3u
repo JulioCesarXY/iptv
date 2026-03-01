@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Jacksonville Freedom Fountain Camera Live
-https://reflect-jacksonville.cablecast.tv/live-7/live/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Sound View Community Media Government (480p)
-https://livestream.telvue.com/soundviewcmt3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cox Meriden Public Access Channel 15 (Meriden CT) (720p)
 http://applevalley.coxctv.com/live-1/live/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Sound View Community Media Government (480p)
+https://livestream.telvue.com/soundviewcmt3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Jacksonville Freedom Fountain Camera Live
+https://reflect-jacksonville.cablecast.tv/live-7/live/live.m3u8
 #EXTINF:-1 tvg-id="AccessHumboldt.us@SD" tvg-logo="https://i.imgur.com/tJl43uM.png" group-title="General",Access Humboldt (1080p)
 https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/f08fcd45-1d04-9a8c-39ca-f56091820e5c.m3u8
 #EXTINF:-1 tvg-id="AccessSacramentoChannel17.us@SD" tvg-logo="https://i.imgur.com/j0UC4ke.png" group-title="General",Access Sacramento Channel 17
@@ -135,6 +135,8 @@ http://66.242.170.53/hls/live/temp/index.m3u8
 https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-id="KCPTDT1.us@SD" tvg-logo="https://image.pbs.org/bento3-prod/kcpt/2020-kcpt-brand/3cc5c4bdd6_kansascitypbs_primary_blue.png?resize=512x" group-title="Education",KCPT-DT1 (720p)
 https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
+#EXTINF:-1 tvg-id="KCTVDT1.us@SD" tvg-logo="https://i.imgur.com/7bfi9oA.png" group-title="General",KCTV-DT1 (720p)
+https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
 #EXTINF:-1 tvg-id="KCWEDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png" group-title="Entertainment",KCWE-DT1 (720p)
 https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
 #EXTINF:-1 tvg-id="KCWXDT1.us@SD" tvg-logo="" group-title="Entertainment",myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]
@@ -161,8 +163,6 @@ https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
 https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
 #EXTINF:-1 tvg-id="KMIZDT3.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/MyZouTV_logo.png/200px-MyZouTV_logo.png" group-title="Entertainment",KMIZ-DT3 (720p)
 https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
-#EXTINF:-1 tvg-id="KMOSDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" group-title="Education",KMOS-DT1 (720p)
-https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
 #EXTINF:-1 tvg-id="KNLJDT1.us@SD" tvg-logo="https://i.imgur.com/42UdwD0.png" group-title="Undefined",KNLJ-DT1 (720p)
 https://cvtv.cvalley.net/hls/KNLJ/KNLJ.m3u8
 #EXTINF:-1 tvg-id="KNOVCD1.us@SD" tvg-logo="https://i.imgur.com/D7Lzqyl.png" group-title="Travel",NOTV New Orleans TV (720p)

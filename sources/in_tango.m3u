@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",1S News (576p)
+https://mumt03.tangotv.in/1SNEWS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BS TV (576p)
+https://mumt02.tangotv.in/BSTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Chaukas TV (576p)
+https://mumt02.tangotv.in/CHAUKASTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",DA News Plus (576p)
+https://mumt01.tangotv.in/HORNBILLTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Goldmines Bollywood (576p)
+https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Guarantee News (576p)
+https://mumt02.tangotv.in/GUARANTEENEWS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Live Times (576p)
+https://mumt01.tangotv.in/LIVETIMES/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mojo TV (576p)
+https://mumt02.tangotv.in/MOJOTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pear TV (576p)
+https://mumt01.tangotv.in/PEARTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Anandam Abi TV
 https://mumt02.tangotv.in/ABITV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Anandam TV
@@ -35,26 +53,12 @@ https://mumt02.tangotv.in/SAANGTV/index.m3u8
 https://mumt03.tangotv.in/TADKA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",UTV Anandam
 https://mumt02.tangotv.in/UTVANANDAM/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",1S News (576p)
-https://mumt03.tangotv.in/1SNEWS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BS TV (576p)
-https://mumt02.tangotv.in/BSTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Chaukas TV (576p)
-https://mumt02.tangotv.in/CHAUKASTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",DA News Plus (576p)
-https://mumt01.tangotv.in/HORNBILLTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Goldmines Bollywood (576p)
-https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Guarantee News (576p)
-https://mumt02.tangotv.in/GUARANTEENEWS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Live Times (576p)
-https://mumt01.tangotv.in/LIVETIMES/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mojo TV (576p)
-https://mumt02.tangotv.in/MOJOTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pear TV (576p)
-https://mumt01.tangotv.in/PEARTV/index.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="Music",7S Music (576p)
 https://mumt03.tangotv.in/7SMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="AadinathTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AADINATH_TV/images/LOGO_HD/image.png" group-title="Religious",Aadinath TV (576p)
+https://mumt01.tangotv.in/AADINATHTV/index.m3u8
+#EXTINF:-1 tvg-id="ANBNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANB_NEWS/images/LOGO_HD/image.png" group-title="News",ANB News (576p)
+https://mumt05.tangotv.in/ANBNEWSNATIONAL/index.m3u8
 #EXTINF:-1 tvg-id="APN.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/APN.png" group-title="News",APN (576p)
 https://mumt01.tangotv.in/APN/index.m3u8
 #EXTINF:-1 tvg-id="AryanTVNational.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ARYAN_TV_NATIONAL/images/LOGO_HD/image.png" group-title="Undefined",Aryan TV National (576p)
@@ -81,12 +85,20 @@ https://mumt05.tangotv.in/DARSHAN24/index.m3u8
 https://mumt05.tangotv.in/DHARMSANDESH/index.m3u8
 #EXTINF:-1 tvg-id="DishaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disha_tv.png" group-title="Undefined",Disha TV (576p)
 https://mumt04.tangotv.in/DISHATV/index.m3u8
+#EXTINF:-1 tvg-id="DY365.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DY365/images/LOGO_HD/image.png" group-title="News",DY 365 (576p)
+https://mumt04.tangotv.in/DY365/index.m3u8
 #EXTINF:-1 tvg-id="E24.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_E24/images/LOGO_HD/image.png" group-title="Entertainment",E 24 (576p)
 https://mumt04.tangotv.in/E24/index.m3u8
+#EXTINF:-1 tvg-id="FatehTV.in@SD" tvg-logo="https://i.imgur.com/c4ItNkB.png" group-title="Religious",Fateh TV (576p)
+https://mumt05.tangotv.in/FATEHTV/index.m3u8
+#EXTINF:-1 tvg-id="FirstIndiaNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FIRST_INDIA_NEWS_RAJASTHAN/images/LOGO_HD/image.png" group-title="News",First India News (576p)
+https://mumt03.tangotv.in/1STINDIANEWS/index.m3u8
 #EXTINF:-1 tvg-id="GraceTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Grace_TV.png" group-title="Religious",Grace TV (576p)
 https://mumt03.tangotv.in/GRACETV/index.m3u8
 #EXTINF:-1 tvg-id="GSTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/GS_TV.png" group-title="News",GS TV (576p)
 https://mumt05.tangotv.in/GSTV/index.m3u8
+#EXTINF:-1 tvg-id="HareKrsnaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Harekrsna.png" group-title="Religious",Hare Krsna TV (576p)
+https://mumt05.tangotv.in/HAREKRSNA/index.m3u8
 #EXTINF:-1 tvg-id="HarKhabar.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HARKHABAR/images/LOGO_HD/LOGO_HD_image.png" group-title="News",Har Khabar (576p)
 https://mumt01.tangotv.in/HARKHABAR/index.m3u8
 #EXTINF:-1 tvg-id="HopeChannelIndia.in@SD" tvg-logo="https://i.imgur.com/wPzPUrK.png" group-title="Religious",Hope Channel India (576p)
@@ -97,8 +109,12 @@ https://mumt02.tangotv.in/IND24/index.m3u8
 https://mumt05.tangotv.in/INDIAAHEAD/index.m3u8
 #EXTINF:-1 tvg-id="IndiaVoice.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Voice.png" group-title="News",India Voice (576p)
 https://mumt04.tangotv.in/INDIAVOICE/index.m3u8
+#EXTINF:-1 tvg-id="INH24x7.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INH_24X7/images/LOGO_HD/image.png" group-title="News",INH 24x7 (576p)
+https://mumt01.tangotv.in/INH24X7/index.m3u8
 #EXTINF:-1 tvg-id="Insync.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png" group-title="Music",Insync (576p)
 https://mumt04.tangotv.in/INSYNC/index.m3u8
+#EXTINF:-1 tvg-id="JaihindTV.in@SD" tvg-logo="https://i.imgur.com/NaiA73p.png" group-title="Entertainment",Jaihind TV (576p)
+https://mumt03.tangotv.in/JAIHIND/index.m3u8
 #EXTINF:-1 tvg-id="KairaliTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/512px-Kairali_TV.svg.png" group-title="General",Kairali TV (576p)
 https://mumt01.tangotv.in/KAIRALI/index.m3u8
 #EXTINF:-1 tvg-id="KeralaVision.in@SD" tvg-logo="https://i.imgur.com/SWNjyyp.png" group-title="Entertainment",Kerala Vision (576p)
@@ -111,6 +127,8 @@ https://mumt05.tangotv.in/KHABRAINABHITAK/index.m3u8
 https://mumt01.tangotv.in/MAIBOLI/index.m3u8
 #EXTINF:-1 tvg-id="Mastiii.in@SD" tvg-logo="https://i.imgur.com/lxgXHx4.png" group-title="Music",Mastiii (576p)
 https://mumt02.tangotv.in/MASTIII/index.m3u8
+#EXTINF:-1 tvg-id="MathrubhumiNews.in@SD" tvg-logo="https://i.imgur.com/diQftzP.png" group-title="News",Mathrubhumi News (576p)
+https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8
 #EXTINF:-1 tvg-id="MBCTV.in@SD" tvg-logo="https://i.imgur.com/Z4PlPUg.png" group-title="General",MBC TV (576p)
 https://mumt03.tangotv.in/MBCTV/index.m3u8
 #EXTINF:-1 tvg-id="MelodyHits.ca" tvg-logo="https://i.imgur.com/OOMkVrU.png" group-title="Music",Melody Hits
@@ -147,6 +165,8 @@ https://mumt01.tangotv.in/RAMDHENU/index.m3u8
 https://mumt01.tangotv.in/RANG/index.m3u8
 #EXTINF:-1 tvg-id="SahanaNews.in@SD" tvg-logo="https://i.imgur.com/3odbJJq.png" group-title="News",Sahana News (576p)
 https://mumt03.tangotv.in/SAHANANEWS/index.m3u8
+#EXTINF:-1 tvg-id="ShemarooUmang.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG/images/LOGO_HD/image.png" group-title="Entertainment",Shemaroo Umang (720p)
+https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
 #EXTINF:-1 tvg-id="SindhTV.pk" tvg-logo="https://i.imgur.com/izpeOsx.png" group-title="Undefined",Sindh TV
 https://mumt01.tangotv.in/SINDHTV/index.m3u8
 #EXTINF:-1 tvg-id="SiriKannada.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sirikannada.png" group-title="Entertainment",Siri Kannada (576p)
