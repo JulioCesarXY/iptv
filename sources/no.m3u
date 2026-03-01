@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NRK 1 (Agder) (1080i) [Geo-blocked]
-https://nrk-live-no.akamaized.net/nrk1_dk8/muxed.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NRK 1 (Innlandet) (1080i) [Geo-blocked]
-https://nrk-live-no.akamaized.net/nrk1_dk10/muxed.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NRK 1 (Midtnytt) (1080i) [Geo-blocked]
-https://nrk-live-no.akamaized.net/nrk1_dk4/muxed.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NRK 1 (Møre og Romsdal) (1080i) [Geo-blocked]
-https://nrk-live-no.akamaized.net/nrk1_dk5/muxed.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NRK 1 (Nordland) (1080i) [Geo-blocked]
-https://nrk-live-no.akamaized.net/nrk1_dk3/muxed.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NRK 1 (Nordnytt) (1080i) [Geo-blocked]
-https://nrk-live-no.akamaized.net/nrk1_dk2/muxed.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NRK 1 (Rogaland) (1080i) [Geo-blocked]
-https://nrk-live-no.akamaized.net/nrk1_dk7/muxed.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NRK 1 (Vestfold og Telemark) (1080i) [Geo-blocked]
-https://nrk-live-no.akamaized.net/nrk1_dk9/muxed.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NRK 1 (Vestlandsrevyen) (1080i) [Geo-blocked]
-https://nrk-live-no.akamaized.net/nrk1_dk6/muxed.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NRK Tegnspråk (1080i) [Geo-blocked]
-https://nrk-live-no.akamaized.net/nrk_tegnspraak/muxed.m3u8
 #EXTINF:-1 tvg-id="CanalMotor.no@SD" tvg-logo="https://i.imgur.com/nCAt3QN.png" group-title="Auto",Canal Motor (720p)
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 tvg-id="Frikanalen.no@SD" tvg-logo="https://i.imgur.com/rY3Owxl.png" group-title="General",Frikanalen (720p)
@@ -33,6 +13,8 @@ https://nrk-live-no.akamaized.net/nrk2/muxed.m3u8
 https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8
 #EXTINF:-1 tvg-id="NRKSuper.no@SD" tvg-logo="https://i.imgur.com/xIATe2T.png" group-title="Kids",NRK Super (1080i) [Geo-blocked]
 https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8
+#EXTINF:-1 tvg-id="NRKTegnsprak.no" tvg-logo="https://i.imgur.com/VCpWG3h.png" group-title="General",NRK Tegnspråk (1080i) [Geo-blocked]
+https://nrk-live-no.akamaized.net/nrk_tegnspraak/muxed.m3u8
 #EXTINF:-1 tvg-id="TVModum.no@SD" tvg-logo="https://i.imgur.com/kljua5X.png" group-title="General",TV Modum (720p)
 https://cdn010.panaccess.com/5677_streams/TVMODUM/index.m3u8
 #EXTINF:-1 tvg-id="TVOstfold.no@SD" tvg-logo="https://i.ibb.co/HHxGQGD/TVO-kanalbanner-page-0002-1-removebg-preview-300x94.png" group-title="General",TV Østfold (1080p)
