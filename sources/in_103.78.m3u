@@ -105,7 +105,7 @@ http://103.78.149.54:8000/play/a03g/index.m3u8
 http://103.78.149.54:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="MHOneDilSe.in@SD" tvg-logo="https://dilse.mhone.in/wp-content/uploads/2022/02/MH-ONE-dil-se-LOGO-white-copy.png" group-title="Entertainment",MH One Dil Se (576p)
 http://103.78.149.54:8000/play/a03i/index.m3u8
-#EXTINF:-1 tvg-id="MoviePlex.in" tvg-logo="https://i.imgur.com/THJEAqJ.png" group-title="Movies",Movieplex (576p)
+#EXTINF:-1 tvg-id="MoviePlex.in@SD" tvg-logo="https://i.imgur.com/THJEAqJ.png" group-title="Movies",Movieplex (576p)
 http://103.78.149.54:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="NDTVIndia.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/LOGO_HD/image.png" group-title="News",NDTV India (576p)
 http://103.78.149.54:8000/play/a01m/index.m3u8

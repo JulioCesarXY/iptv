@@ -39,9 +39,9 @@ https://tvpass.org/live/FoxBusiness/sd
 https://tvpass.org/live/FoxNewsChannel/hd
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel (360p) [Not 24/7]
 https://tvpass.org/live/FoxNewsChannel/sd
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2 (720p) [Not 24/7]
 https://tvpass.org/live/FoxSports2/hd
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2 (360p) [Not 24/7]
 https://tvpass.org/live/FoxSports2/sd
 #EXTINF:-1 tvg-id="Fuse.us@East" tvg-logo="https://i.imgur.com/mijRpPQ.jpg" group-title="Entertainment",Fuse East (1080p) [Not 24/7]
 https://tvpass.org/live/FuseEast/hd
@@ -113,9 +113,9 @@ https://tvpass.org/live/msg-madison-square-gardens/sd
 https://tvpass.org/live/msg-plus/hd
 #EXTINF:-1 tvg-id="MSGPlus.us@SD" tvg-logo="https://i.imgur.com/7suDpSK.png" group-title="Sports",MSG Plus (360p) [Not 24/7]
 https://tvpass.org/live/msg-plus/sd
-#EXTINF:-1 tvg-id="MSNOW.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/1280px-MS_NOW_logo.svg.png" group-title="News",MSNBC (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MSNOW.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/1280px-MS_NOW_logo.svg.png" group-title="News",MSNBC (720p) [Not 24/7]
 https://tvpass.org/live/MSNBC/hd
-#EXTINF:-1 tvg-id="MSNOW.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/1280px-MS_NOW_logo.svg.png" group-title="News",MSNBC (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="MSNOW.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/1280px-MS_NOW_logo.svg.png" group-title="News",MSNBC (360p) [Not 24/7]
 https://tvpass.org/live/MSNBC/sd
 #EXTINF:-1 tvg-id="NationalGeographic.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic HD East (720p) [Not 24/7]
 https://tvpass.org/live/NationalGeographicEast/hd
