@@ -1143,3 +1143,11 @@ http://111.88.78.21:8000/play/a0z4/index.m3u8
 http://111.88.78.21:8000/play/a0zk/index.m3u8
 #EXTINF:-1 tvg-id="Asianet.in@HD" tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Entertainment",Asianet HD (1080p)
 http://111.88.78.21:8000/play/a0pf/index.m3u8
+#EXTINF:-1 tvg-id="OliTV.in@SD" tvg-logo="https://i.ibb.co/XfvTQyJn/main-removebg-preview.png" group-title="Entertainment",Oli TV (1080p)
+https://live.olidigital.in/olitv/olitv/index.m3u8
+#EXTINF:-1 tvg-id="MaxMusic.in@HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732168750_WhatsApp%20Image%202024-11-21%20at%2011.05.55%20AM%20(1).jpeg" group-title="Music",Max Music (1080p)
+https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
+#EXTINF:-1 tvg-id="MaxMovies.in@HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732168422_WhatsApp%20Image%202024-11-21%20at%2010.18.47%20AM.jpeg" group-title="Movies",Max Movies (1080p)
+https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
+#EXTINF:-1 tvg-id="KairaliArabia.in@SD" tvg-logo="https://i.imgur.com/BBEfplL.png" group-title="General",Kairali Arabia (576p)
+https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8

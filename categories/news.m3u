@@ -1689,6 +1689,8 @@ https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
 https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
 #EXTINF:-1 tvg-id="WION.in@SD" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="News",WION (1080p)
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-id="WSOCNow.us@SD" tvg-logo="https://i.imgur.com/tUb1mdc.png" group-title="News",WSOC Now (1080p) [Geo-blocked]
+https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="WTMOCD1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telemundo_31_(2019).svg/512px-Telemundo_31_(2019).svg.png" group-title="News",WTMO-CD1
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 #EXTINF:-1 tvg-id="YES.mv@SD" tvg-logo="https://i.imgur.com/HARIGQl.png" group-title="News",YES

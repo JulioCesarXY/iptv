@@ -31,8 +31,9 @@ https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
 #EXTINF:-1 tvg-id="RetroxTV.cr@SD" tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Classic",Retrox TV (720p) [Not 24/7]
 https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8
-#EXTINF:-1 tvg-id="RotanaClassic.sa@SD" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="Classic",Rotana Classic (1080p)
-https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaClassic.sa@SD" tvg-logo="https://i.imgur.com/pMMUvkt.png" http-referrer="https://rotana.net/" group-title="Classic",Rotana Classic (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-id="SamuelGoldwynClassics.us@SD" tvg-logo="https://i.imgur.com/XC30JAF.png" group-title="Classic",Samuel Goldwyn Classics (1080p)
 https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheArchive.us@SD" tvg-logo="" group-title="Classic",The Archive (1080p)

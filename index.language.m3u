@@ -710,10 +710,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg@SD" tvg-logo="https://i.imgur.com/dGlKoLW.png" http-referrer="https://rotana.net/" group-title="Arabic",Rotana Cinema Egypt (1080p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa@SD" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="Arabic",Rotana Cinema KSA (1080p)
-https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaClassic.sa@SD" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="Arabic",Rotana Classic (1080p)
-https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa@SD" tvg-logo="https://i.imgur.com/pGgp38I.png" http-referrer="https://rotana.net/" group-title="Arabic",Rotana Cinema KSA (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaClassic.sa@SD" tvg-logo="https://i.imgur.com/pMMUvkt.png" http-referrer="https://rotana.net/" group-title="Arabic",Rotana Classic (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaClip.sa@SD" tvg-logo="https://i.imgur.com/nhREk0o.png" http-referrer="https://rotana.net/" group-title="Arabic",Rotana Clip (1080p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
@@ -2931,8 +2933,8 @@ https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bless-tv/master.m3u8?ads.vf=hNDXxFtFEya
 #EXTINF:-1 tvg-id="BloombergOriginals.us@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="English",Bloomberg Originals (1080p)
 https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergQuicktake.us@SD" tvg-logo="https://i.imgur.com/T4HwPUn.png" group-title="English",Bloomberg Quicktake (1080p)
-https://bloomberg.com/media-manifest/streams/qt.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals.us@US" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="English",Bloomberg Originals (1080p)
+https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@Plus" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="English",Bloomberg TV + (2160p)
 https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="English",Bloomberg TV Asia (720p)
@@ -4360,7 +4362,7 @@ https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playl
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveTelevision.bz@SD" tvg-logo="https://i.imgur.com/nT3Wxr6.png" group-title="English",Love Television (720p)
 https://streamer2.nexgen.bz/01-LOVE/index.m3u8
-#EXTINF:-1 tvg-id="LoveThePlanet.es@SD" tvg-logo="https://i.imgur.com/RBcD49X.png" group-title="English",Love The Planet (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="LoveThePlanet.es@EN" tvg-logo="https://i.imgur.com/RBcD49X.png" group-title="English",Love The Planet (1080p) [Geo-blocked]
 https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CityofLovelandTV.us@SD" tvg-logo="https://i.imgur.com/K9eCdXD.png" group-title="English",Loveland TV (Loveland CO) (1080p)
 https://reflect-cityofloveland-co.cablecast.tv/live-3/live/live.m3u8
@@ -6238,6 +6240,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 #EXTINF:-1 tvg-id="WSCVDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="English",WSCV-DT1
 http://181.114.57.246:4000/play/NnnBAHA2yQc4AG82/index.m3u8
+#EXTINF:-1 tvg-id="WSOCNow.us@SD" tvg-logo="https://i.imgur.com/tUb1mdc.png" group-title="English",WSOC Now (1080p) [Geo-blocked]
+https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="WSOCDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="English",WSOC-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="WTNHDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="English",WTNH-DT1 (720p)
@@ -9174,6 +9178,8 @@ https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-id="MagnaChannel.id@SD" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="Indonesian",Magna Channel (1080p) [Not 24/7]
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MBGTV.id@FHD" tvg-logo="https://i.imgur.com/t7GsFJN.jpeg" group-title="Indonesian",MBG TV (1080p)
+https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MDTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png" group-title="Indonesian",MDTV (1080p)
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 #EXTINF:-1 tvg-id="MetroGlobeNetwork.id@SD" tvg-logo="https://i.imgur.com/aiiinzg.png" group-title="Indonesian",Metro Globe Network (1080p) [Not 24/7]
@@ -10791,6 +10797,8 @@ https://mumt03.tangotv.in/JAIHIND/index.m3u8
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="JeevanTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jeevan_TV.png" group-title="Malayalam",Jeevan TV (576p)
 https://cdn-3.pishow.tv/live/1467/master.m3u8
+#EXTINF:-1 tvg-id="KairaliArabia.in@SD" tvg-logo="https://i.imgur.com/BBEfplL.png" group-title="Malayalam",Kairali Arabia (576p)
+https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8
 #EXTINF:-1 tvg-id="KairaliNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_NEWS/images/LOGO_HD/image.png" group-title="Malayalam",Kairali News (720p)
 https://cdn-3.pishow.tv/live/1469/master.m3u8
 #EXTINF:-1 tvg-id="KairaliTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/512px-Kairali_TV.svg.png" group-title="Malayalam",Kairali TV (576p)
@@ -11871,8 +11879,6 @@ http://78.130.250.2:8023/play/a03b/index.m3u8
 https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8
 #EXTINF:-1 tvg-id="TVPSport.pl@SD" tvg-logo="https://i.imgur.com/JUZDOCO.png" group-title="Polish",TVP Sport (1080p)
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-id="TVS.pl@SD" tvg-logo="https://i.imgur.com/RHwlp35.png" group-title="Polish",TVS (576p) [Geo-blocked]
-https://vs2129.vcdn.biz/01c0d67a9f854c6858817f6891f744ec_megogo/live/hls/b/700_2490/u_sid/0/o/157767001/rsid/c6ef76cc-cde3-4b96-8684-3828e229c6d4/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.163.147*asn/u_srvc/81255/u_did/web_13KAuOjcvMvSypM1dvXHzz0O9IIFWwyq/type.live/chunklist-sid2756675719062283008-b2490000.m3u8
 #EXTINF:-1 tvg-id="TVT.pl@SD" tvg-logo="https://i.imgur.com/oZyeUzG.png" group-title="Polish",TVT (720p)
 https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
 #EXTINF:-1 tvg-id="TVTZgorzelec.pl@SD" tvg-logo="https://i.imgur.com/zhzVpgf.jpg" group-title="Polish",TVT Zgorzelec (576p) [Not 24/7]
@@ -12741,6 +12747,8 @@ https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 #EXTINF:-1 tvg-id="TravelPlusAdventure.ru@SD" tvg-logo="https://i.imgur.com/AlpdXC4.png" group-title="Russian",Travel+Adventure
 http://31.148.48.15/Travel_Adventure_HD/index.m3u8
+#EXTINF:-1 tvg-id="TsargradTV.ru@SD" tvg-logo="https://i.imgur.com/34RINpb.png" group-title="Russian",Tsargrad TV (1080p) [Geo-blocked]
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=is_mLq_kjPYLsOJ4qj85tw&e=2070278263&scheme=https
 #EXTINF:-1 tvg-id="Turkmenistan.tm@SD" tvg-logo="https://i.imgur.com/iBBpBx4.png" group-title="Russian",Türkmenistan (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch007.m3u8
 #EXTINF:-1 tvg-id="TV1KG.kg@SD" tvg-logo="https://i.imgur.com/Mti9t9C.png" group-title="Russian",TV1 KG (1080p)
@@ -16957,6 +16965,10 @@ https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66
 https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="MalarTV.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/malar-tv-in.png" group-title="Tamil",Malar TV (720p) [Not 24/7]
 https://cdn-3.pishow.tv/live/473/master.m3u8
+#EXTINF:-1 tvg-id="MaxMovies.in@HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732168422_WhatsApp%20Image%202024-11-21%20at%2010.18.47%20AM.jpeg" group-title="Tamil",Max Movies (1080p)
+https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
+#EXTINF:-1 tvg-id="MaxMusic.in@HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732168750_WhatsApp%20Image%202024-11-21%20at%2011.05.55%20AM%20(1).jpeg" group-title="Tamil",Max Music (1080p)
+https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
 #EXTINF:-1 tvg-id="MKSix.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MK_Six.png" group-title="Tamil",MK Six (720p) [Not 24/7]
 https://cdn-3.pishow.tv/live/1253/master.m3u8
 #EXTINF:-1 tvg-id="MarutamTV.in@SD" tvg-logo="https://i.imgur.com/cFNw4Af.png" group-title="Tamil",MNTV (1080p)
@@ -16995,6 +17007,8 @@ https://d18a8tqmogafg2.cloudfront.net/newstamil/index.m3u8
 http://103.229.254.25:7001/play/a0cq/index.m3u8
 #EXTINF:-1 tvg-id="NTCTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png" group-title="Tamil",NTC TV (720p)
 https://galaxyott.live/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="OliTV.in@SD" tvg-logo="https://i.ibb.co/XfvTQyJn/main-removebg-preview.png" group-title="Tamil",Oli TV (1080p)
+https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="OMTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" group-title="Tamil",OM TV (576p)
 https://mumt01.tangotv.in/OMTV/index.m3u8
 #EXTINF:-1 tvg-id="PeppersTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV.png" group-title="Tamil",Peppers TV (751p)

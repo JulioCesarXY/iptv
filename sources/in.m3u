@@ -338,6 +338,8 @@ http://161.248.38.40:8000/play/a09p/index.m3u8
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1 tvg-id="JothiTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JOTHI_TV/images/LOGO_HD/image.png" group-title="Religious",Jothi TV (576p)
 http://111.88.78.21:8000/play/a0yr/index.m3u8
+#EXTINF:-1 tvg-id="KairaliArabia.in@SD" tvg-logo="https://i.imgur.com/BBEfplL.png" group-title="General",Kairali Arabia (576p)
+https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8
 #EXTINF:-1 tvg-id="KalaignarMurasu.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MURASU/images/LOGO_HD/image.png" group-title="Entertainment",Kalaignar Murasu (396p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
 #EXTINF:-1 tvg-id="KalaignarSeithigal.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SEITHIGAL_24X7/images/LOGO_HD/image.png" group-title="News",Kalaignar Seithigal (720p)
@@ -392,6 +394,10 @@ https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab
 https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-id="MarutamTV.in@SD" tvg-logo="https://i.imgur.com/cFNw4Af.png" group-title="Entertainment",MNTV (1080p)
 https://mntv.livebox.co.in/mntvhls/live.m3u8
+#EXTINF:-1 tvg-id="MaxMovies.in@HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732168422_WhatsApp%20Image%202024-11-21%20at%2010.18.47%20AM.jpeg" group-title="Movies",Max Movies (1080p)
+https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
+#EXTINF:-1 tvg-id="MaxMusic.in@HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732168750_WhatsApp%20Image%202024-11-21%20at%2011.05.55%20AM%20(1).jpeg" group-title="Music",Max Music (1080p)
+https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
 #EXTINF:-1 tvg-id="Mayyazhi.in@SD" tvg-logo="https://i.imgur.com/E3WYWF5.jpg" group-title="General",Mayyazhi (720p) [Not 24/7]
 http://131.153.22.8:1935/MAYYAZHI/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MazhavilManorama.in@SD" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Entertainment",Mazhavil Manorama (396p)
@@ -522,6 +528,8 @@ https://galaxyott.live/hls/ntv.m3u8
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
 #EXTINF:-1 tvg-id="OdishaTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_OTV/images/LOGO_HD/image.png" group-title="Culture",Odisha TV (720p)
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-id="OliTV.in@SD" tvg-logo="https://i.ibb.co/XfvTQyJn/main-removebg-preview.png" group-title="Entertainment",Oli TV (1080p)
+https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png" group-title="Movies",Pitaara (720p)
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 #EXTINF:-1 tvg-id="PMCTelugu.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PMC_Telugu.png" group-title="Religious",PMC Telugu (1080p)
