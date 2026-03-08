@@ -27,8 +27,6 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0305/master.m3u8
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-id="GarshomTV.uk@SD" tvg-logo="https://i.imgur.com/KnbwUyb.png" group-title="Culture",Garshom TV (360p) [Not 24/7]
 https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Gubbare.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png" group-title="Kids",Gubbare (1080p)
-https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 tvg-id="HarvestTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HARVEST_TV_24X7/images/LOGO_HD/image.png" group-title="Religious",Harvest TV (720p)
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
 #EXTINF:-1 tvg-id="HarvestTVKeralam.in@SD" tvg-logo="https://i.imgur.com/1DyPuIt.png" group-title="Religious",Harvest TV Keralam (720p)
@@ -85,6 +83,8 @@ https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 http://iptvcasomsapi.jprdigital.in/x-media/C0426/master.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540" group-title="Documentary",National Geographic HD (1080p)
 http://103.113.103.202:8001/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png" group-title="Documentary",National Geographic Wild (576p)
+http://103.229.254.25:7001/play/a06r/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png" group-title="Documentary",National Geographic Wild HD (1080p)
 http://103.113.103.202:8001/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="News18Kerala.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_KERALA/images/LOGO_HD/image.png" group-title="News",News18 Kerala (1080p)
