@@ -485,8 +485,6 @@ https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/h
 https://d3537vnymvfque.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="DogWhisperer.us@UK" tvg-logo="https://i.imgur.com/tgWypVJ.png" group-title="Series",Dog Whisperer (1080p) [Geo-blocked]
 https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8
-#EXTINF:-1 tvg-id="DoveChannel.us" tvg-logo="" group-title="Family",Dove Channel (1080p)
-https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="DraftKingsNetwork.us" tvg-logo="https://i.imgur.com/SFYhgrt.png" group-title="Sports",DraftKings Network (1080p)
 https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8
 #EXTINF:-1 tvg-id="DUST.us" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Movies",Alien Nation by DUST (1080p)
@@ -515,8 +513,6 @@ https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="IONTV.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="Entertainment",ION (1080p) [Geo-blocked]
 https://pb-xhb3ic8b61whm.akamaized.net/Ion_US.m3u8
-#EXTINF:-1 tvg-id="Journy.us" tvg-logo="https://i.imgur.com/1JNrLxq.png" group-title="Travel",JOURNY TV (720p)
-https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="KidoodleTV.ca" tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="Kids",Kidoodle.TV (1080p)
 https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",LiveNOW from FOX (1080p) [Geo-blocked]
@@ -547,8 +543,6 @@ https://d265y4sk8257lt.cloudfront.net/nh.m3u8
 https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-logo="https://i.imgur.com/UKfimFD.png" group-title="Outdoor",Outdoor America (1080p)
 https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="OutsideTV.us" tvg-logo="https://i.imgur.com/0UMmG41.png" group-title="Outdoor",Outside TV (1080p)
-https://desdobebr2wri.cloudfront.net/Outside.m3u8
 #EXTINF:-1 tvg-id="Overtime.us" tvg-logo="https://i.imgur.com/9S9k4IK.png" group-title="Sports",Overtime (1080p)
 https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8
 #EXTINF:-1 tvg-id="PBSNature.us" tvg-logo="https://i.imgur.com/Brry7cZ.png" group-title="Series",PBS Nature (1080p)
@@ -567,14 +561,10 @@ https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8
 https://d85qrcmltdfp8.cloudfront.net/MAVTV_Select.m3u8
 #EXTINF:-1 tvg-id="RainbowRuby.us" tvg-logo="https://i.imgur.com/eHNU2OQ.png" group-title="Undefined",Rainbow Ruby (720p)
 https://dt9mwqwe98q7o.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="RealAmericasVoice.us" tvg-logo="https://i.imgur.com/l7tmTjX.png" group-title="Undefined",Real America's Voice (720p)
-https://d2jiqiw4g5lj5k.cloudfront.net/AVSamsung/AVSamsung.m3u8
 #EXTINF:-1 tvg-id="Reelz.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png" group-title="Documentary",REELZ Famous & Infamous (1080p)
 https://d3serb1fmh623s.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="RevandRoll.us" tvg-logo="" group-title="Undefined",Rev and Roll (720p)
 https://d39nqr4d4h6cv6.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="Revry.us" tvg-logo="https://i.imgur.com/XuTUaq4.png" group-title="Lifestyle",Revry (1080p)
-https://d36jpyyja698yd.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="RiffTrax.us@US" tvg-logo="https://i.imgur.com/hM4yKMn.png" group-title="Comedy",RiffTrax (720p)
 https://wurlrifftrax.global.transmit.live/hls/68222b9cbe836edbe6f39e74/playlist.m3u8
 #EXTINF:-1 tvg-id="RugbyPassTV.uk" tvg-logo="" group-title="Undefined",RugbyPass TV (720p)
