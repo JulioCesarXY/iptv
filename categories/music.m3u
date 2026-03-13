@@ -74,6 +74,8 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="ARYMusik.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" http-referrer="https://live.arydigital.tv/" group-title="Music",ARY Musik (1080p)
 #EXTVLCOPT:http-referrer=https://live.arydigital.tv/
 https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
+#EXTINF:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681" group-title="Music",ATN Music (360p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AtomicAcademyTV.ro@SD" tvg-logo="https://i.imgur.com/ZbrDIbZ.png" group-title="Music",Atomic Academy TV (480p)
 https://atomic.streamnet.ro/academia.m3u8
 #EXTINF:-1 tvg-id="AtomicTV.ro@SD" tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="Music",Atomic TV (360p)
@@ -135,6 +137,8 @@ https://busuioctv.iforward.eu/hls/busuioc.m3u8
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-id="Canal3KMKTV.cr@SD" tvg-logo="https://i.imgur.com/sgRDRBK.jpg" group-title="Music",Canal 3 KMK TV (720p)
 https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
+#EXTINF:-1 tvg-id="CanalClave.cu@SD" tvg-logo="https://i.imgur.com/7tMkA4Z.png" group-title="Music",Canal Clave (480p) [Not 24/7]
+https://tv.picta.cu/clave/clave_0.m3u8
 #EXTINF:-1 tvg-id="CCTV11.cn@SD" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="Music",CCTV-11 (576p) [Geo-blocked]
 http://123.175.209.52:9003/hls/12/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15.cn@SD" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="Music",CCTV-15 (576p)
@@ -976,7 +980,7 @@ https://t2hls.wns.live/hls/stream.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/index.m3u8?ads.vf=n1xb6TPm9sa
 #EXTINF:-1 tvg-id="Tarab.sa@SD" tvg-logo="https://assets.mbcmood.com/channels/1738059679TARAB_Logo.png" group-title="Music",Tarab (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
-#EXTINF:-1 tvg-id="TarangMusic.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Tarang_Miusic.tif/lossless-page1-512px-Tarang_Miusic.tif.png" group-title="Music",Tarang Music (720p)
+#EXTINF:-1 tvg-id="TarangMusic.in@SD" tvg-logo="https://i.imgur.com/oSm8zFD.png" group-title="Music",Tarang Music (720p)
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TDIRadioTV.rs@SD" tvg-logo="https://i.imgur.com/POdTmaD.png" group-title="Music",TDI Radio TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8

@@ -16,8 +16,9 @@ http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
 http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="PujaTVAceh.id@SD" tvg-logo="https://i.imgur.com/0TqABCL.png" group-title="Undefined",Puja TV Aceh (1080p) [Not 24/7]
 https://v6.siar.us/pujatv/live/chunks.m3u8
-#EXTINF:-1 tvg-id="RadarLampungTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/42/Logo_RadarTV_Lampung.png" group-title="Undefined",Radar TV Lampung (480p) [Not 24/7]
-http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="RadarLampungTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/42/Logo_RadarTV_Lampung.png" http-referrer="https://radartvnews.com/live-streaming/" group-title="Undefined",Radar Lampung TV (480p)
+#EXTVLCOPT:http-referrer=https://radartvnews.com/live-streaming/
+https://www.streaming.radartv.co.id/hls/test.m3u8
 #EXTINF:-1 tvg-id="RakyatBengkuluTV.id@SD" tvg-logo="https://i.imgur.com/5L2q081.png" http-referrer="https://youtv.live/" group-title="Undefined",Rakyat Bengkulu TV (720p)
 #EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch59.m3u8

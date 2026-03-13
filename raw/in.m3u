@@ -968,7 +968,7 @@ https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
 https://app.ashokadigital.net/app/324ea1b0/index.m3u8
 #EXTINF:-1 tvg-id="TamilanTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tamilan_Television.png" group-title="Undefined",Tamilan TV (1080p)
 https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TarangMusic.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Tarang_Miusic.tif/lossless-page1-512px-Tarang_Miusic.tif.png" group-title="Music",Tarang Music (720p)
+#EXTINF:-1 tvg-id="TarangMusic.in@SD" tvg-logo="https://i.imgur.com/oSm8zFD.png" group-title="Music",Tarang Music (720p)
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TarangTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TARANG/images/LOGO_HD/image.png" group-title="Entertainment",Tarang TV (720p)
 https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
@@ -1403,3 +1403,5 @@ https://edge2.roarzone.info:8447/roarzone/edge3/b4u-movies-apac/index.m3u8
 https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax1.in@SD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1822_2.png" group-title="Movies",Sony Max 1 (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0357/master.m3u8
+#EXTINF:-1 tvg-id="AamarBangla.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png" group-title="Entertainment",Aamar Bangla (720p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8

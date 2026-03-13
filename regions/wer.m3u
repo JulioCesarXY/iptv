@@ -119,6 +119,8 @@ https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live
 #EXTINF:-1 tvg-id="AT5.nl@SD" tvg-logo="https://i.imgur.com/iAiSlEL.png" group-title="General",AT5
 https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="ATNBanglaUK.uk@SD" tvg-logo="https://i.imgur.com/vFpjggf.png" group-title="General",ATN Bangla UK (576p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.be@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ATV_Belgium_logo.svg/960px-ATV_Belgium_logo.svg.png" group-title="General",ATV (1080p)
 https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
 #EXTINF:-1 tvg-id="ATV2.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_ATV2.svg/960px-Logo_ATV2.svg.png" group-title="General",ATV2 HD [Geo-Blocked]
@@ -438,8 +440,8 @@ https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 https://x.canlitvapp.com/u-channel-5/index.m3u8
 #EXTINF:-1 tvg-id="Channel5.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png" group-title="General",Channel 5 HD (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
-#EXTINF:-1 tvg-id="ChannelS.uk@SD" tvg-logo="https://i.imgur.com/hJxFLvF.png" group-title="Culture",Channel S (576p) [Not 24/7]
-https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelS.uk@SD" tvg-logo="https://i.imgur.com/hJxFLvF.png" group-title="Culture",Channel S (576p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SachsenFernsehenChemnitz.de@SD" tvg-logo="https://i.imgur.com/4SEAbVf.png" group-title="Undefined",Chemnitz Fernsehen (1080p)
 https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="ChinaTravel.cn@SD" tvg-logo="https://i.imgur.com/vSgY3CD.png" group-title="Culture;Documentary;Travel",China Travel (1080p)
@@ -1174,22 +1176,20 @@ https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
 https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8
 #EXTINF:-1 tvg-id="OPENRotterdamTV.nl@SD" tvg-logo="https://i.imgur.com/nWahRAb.png" group-title="General",Open Rotterdam (480p) [Not 24/7]
 https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ORF1.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/960px-ORF_1_2019.svg.png" group-title="General",ORF 1 (720p)
-http://87.106.2.165:8443/orf1hd/index.m3u8
+#EXTINF:-1 tvg-id="ORF1.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/960px-ORF_1_2019.svg.png" group-title="General",ORF 1
+https://dash2.antik.sk/live/test_orf_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="ORF1.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/960px-ORF_1_2019.svg.png" group-title="General",ORF 1 HD (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
-#EXTINF:-1 tvg-id="ORF2.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/ORF2_logo_n.svg" group-title="General",ORF 2 (720p)
-http://87.106.2.165:8443/orf2hd/index.m3u8
+#EXTINF:-1 tvg-id="ORF2.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/ORF2_logo_n.svg" group-title="General",ORF 2
+https://dash4.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="ORF2Tirol.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png" group-title="General",ORF 2 Tirol HD (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 #EXTINF:-1 tvg-id="ORF2Wien.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png" group-title="General",ORF 2 Wien (1080p)
 http://79.127.207.193/ORF2/playlist.m3u8
 #EXTINF:-1 tvg-id="ORFIII.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/960px-ORF_III_Logo_Monochrom.svg.png" group-title="Culture",ORF III HD (720p)
-http://87.106.2.165:8443/orf3hd/index.m3u8
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1 tvg-id="ORFKids.at@SD" tvg-logo="https://i.imgur.com/Zxuah2b.png" group-title="Kids",ORF Kids (720p)
 https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
-#EXTINF:-1 tvg-id="ORFSportPlus.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/960px-ORF_Sport%2B.svg.png" group-title="Sports",ORF Sport+ HD (720p)
-http://87.106.2.165:8443/orfsporthd/index.m3u8
 #EXTINF:-1 tvg-id="ORTSTV.nl@SD" tvg-logo="https://i.imgur.com/RZM4Myo.png" group-title="General",ORTS (480p) [Not 24/7]
 https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="P2MTV.fr@SD" tvg-logo="https://i.imgur.com/TrecSeG.png" group-title="Music",P2M TV (720p)
@@ -1242,8 +1242,6 @@ http://79.232.88.203:9981/stream/channelid/1038721938
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/publicsenat.m3u8
 #EXTINF:-1 tvg-id="PuissanceTV.fr@SD" tvg-logo="https://pbs.twimg.com/profile_images/1274572654016675842/A6v8Qo_X_400x400.jpg" group-title="General",Puissance TV
 https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
-#EXTINF:-1 tvg-id="Puls4.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Puls4.svg/960px-Puls4.svg.png" group-title="Undefined",Puls 4 (576p)
-http://87.106.2.165:8443/puls4/index.m3u8
 #EXTINF:-1 tvg-id="PUNKTumFernsehen.de@SD" tvg-logo="https://i.imgur.com/3yamOmw.png" group-title="Undefined",PUNKTum Fernsehen (1080p) [Not 24/7]
 http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
 #EXTINF:-1 tvg-id="QMusic.be@SD" tvg-logo="https://i.imgur.com/VX5e9Xt.png" group-title="Music",Q-Music (Belgium) (1080p)

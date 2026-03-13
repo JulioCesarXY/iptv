@@ -411,7 +411,7 @@ https://stream.castr.com/5da89a909db964293ad13301/live_3cb3e4400c2d11f19b89efdef
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_35cdedd0092a11f089a6e578a102a00d/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Televida.do@SD" tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="Religious",Televida (1080p) [Not 24/7]
-https://cnn.hostlagarto.com:8081/televida/playlist.m3u8
+https://cnn.hostlagarto.com/televida/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisiondelEste.do@SD" tvg-logo="https://i.imgur.com/mmjbcGr.png" group-title="News",Television del Este (1080p) [Not 24/7]
 https://mlb.essastream.com:8081/televisiondeleste/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TenarensesTV.do@SD" tvg-logo="https://i.imgur.com/cPIgs0v.png" group-title="General",Tenarenses TV (1080p) [Not 24/7]

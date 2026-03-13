@@ -41,6 +41,8 @@ http://115.42.65.142:9981/stream/channelid/113328724
 http://115.42.65.142:9981/stream/channelid/1435007953
 #EXTINF:-1 tvg-id="AakaashAath.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" group-title="Entertainment",Aakaash Aath (720p)
 https://cdn-4.pishow.tv/live/969/master.m3u8
+#EXTINF:-1 tvg-id="AamarBangla.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png" group-title="Entertainment",Aamar Bangla (720p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AathavanTV.uk@SD" tvg-logo="https://i.imgur.com/LEVEhTH.png" group-title="Entertainment",Aathavan TV (720p) [Not 24/7]
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AB1.fr@SD" tvg-logo="https://i.imgur.com/9C7UsOe.png" group-title="Entertainment",AB1 [Geo-Blocked]
@@ -192,7 +194,7 @@ https://d3cx6yargdnl7q.cloudfront.net/canelatv.m3u8
 #EXTINF:-1 tvg-id="CanicaTV.co@SD" tvg-logo="https://i.imgur.com/RuQDwTt.jpeg" group-title="Entertainment",Canica TV (240p)
 https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Capital21.mx@SD" tvg-logo="https://i.imgur.com/8ign49i.png" group-title="Culture;Entertainment",Capital 21 (1080p) [Not 24/7]
-hhttps://video.cdmx.gob.mx/redes/stream.m3u8
+https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:-1 tvg-id="Captain.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0029CNNM.png?lock=720x540" group-title="Entertainment",Captain (576p)
 https://mumt01.tangotv.in/CAPTAIN/index.m3u8
 #EXTINF:-1 tvg-id="Carac1.ch@SD" tvg-logo="https://i.imgur.com/TSc35U6.png" group-title="Entertainment",Carac 1 (1080p)

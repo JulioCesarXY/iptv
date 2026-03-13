@@ -2231,8 +2231,8 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
 #EXTINF:-1 tvg-id="TamilEntertainmentTelevision.ca@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Tamil_Entertainment_Television.png" group-title="Entertainment",Tamil Entertainment Television (1080p)
 https://origin-de-y376549.cdn.nextologies.com:444/4c3caf7294b3/fbbd0aee3d9a8260/playlist.m3u8
-#EXTINF:-1 tvg-id="TamilVisionTV.ca@SD" tvg-logo="https://i.imgur.com/DodsLuW.png" group-title="Undefined",Tamil Vision TV (1080p)
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 tvg-id="TamilVisionTV.ca@SD" tvg-logo="https://i.imgur.com/DodsLuW.png" group-title="Undefined",TamilVision-TV (1080p)
+https://live.cmr24.fm/TVI/HD/chunks.m3u8
 #EXTINF:-1 tvg-id="TBCN.us@SD" tvg-logo="https://i.imgur.com/nNxl3F4.png" group-title="General",Tampa Bay Communnity Network TBCN (Tampa Bay FL) (480p)
 https://reflect-tampa-bay-community.cablecast.tv/live-16/live/live.m3u8
 #EXTINF:-1 tvg-id="Tapesh2.us@SD" tvg-logo="https://i.imgur.com/q0rCXDs.png" group-title="Undefined",Tapesh 2

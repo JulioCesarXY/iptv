@@ -3,6 +3,8 @@
 https://edge2.roarzone.info:8447/roarzone/edge3/ananda-tv/index.m3u8
 #EXTINF:-1 tvg-id="AsianTV.bd@SD" tvg-logo="https://i.imgur.com/k2adSjA.png" group-title="Entertainment",Asian TV (1080p)
 https://edge2.roarzone.info:8447/roarzone/edge3/asian-tv/index.m3u8
+#EXTINF:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681" group-title="Music",ATN Music (360p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BanglaTV.bd@SD" tvg-logo="https://i.imgur.com/DLGjTfI.png" group-title="General",Bangla TV (720p)
 https://edge2.roarzone.info:8447/roarzone/edge3/bangla-tv/index.m3u8
 #EXTINF:-1 tvg-id="BijoyTV.bd@SD" tvg-logo="https://i.imgur.com/Faetm0C.png" group-title="News",Bijoy TV (720p)
@@ -27,6 +29,12 @@ https://tvsen4.aynaott.com/durontotv/index.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-id="GaanBangla.bd@SD" tvg-logo="https://i.imgur.com/XS9mq4n.png" group-title="Music",Gaan Bangla
 http://vmi3039524.contaboserver.net:5050/music/index.m3u8
+#EXTINF:-1 tvg-id="GaziTV.bd@SD" tvg-logo="https://i.imgur.com/2Lzhiq6.png" group-title="General",Gazi TV (1080p)
+http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
+#EXTINF:-1 tvg-id="GreenTV.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg" group-title="Family",Green TV (1080p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV.bd@SD" tvg-logo="https://i.imgur.com/yu8ugqt.png" group-title="General",RTV (480p)
+http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8
 #EXTINF:-1 tvg-id="SangsadTV.bd@SD" tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="Legislative",Sangsad TV (1080p)
 https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/9ee3b4f9-fd0a-47c5-a135-2575c5691613/9ee3b4f9-fd0a-47c5-a135-2575c5691613_3_playlist.m3u8
 #EXTINF:-1 tvg-id="TSports.bd@SD" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports",T Sports (720p)

@@ -163,8 +163,8 @@ https://cdn.streamhispanatv.net:3921/live/candetvlive.m3u8
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 #EXTINF:-1 tvg-id="CarinosaTV.gt@SD" tvg-logo="https://i.imgur.com/13Kb6Lp.png" group-title="General",Cariñosa TV (720p) [Not 24/7]
 https://cdn.streamhispanatv.net:3110/live/carinosatvlive.m3u8
-#EXTINF:-1 tvg-id="CartagoMediosTV.cr@SD" tvg-logo="https://i.imgur.com/Vcd40AL.png" group-title="General",Cartago Medios TV (576p)
-https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8
+#EXTINF:-1 tvg-id="CartagoMediosTV.cr@SD" tvg-logo="https://i.imgur.com/Vcd40AL.png" group-title="General",Cartago Medios TV (720p) [Not 24/7]
+https://acceso.mediosdecostarica.com:3511/stream/play.m3u8
 #EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="General",CCTV-4 America (1080p)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-id="CDNN23.ni@SD" tvg-logo="https://i.imgur.com/7CNzlB6.png" group-title="News",CDNN 23 (1080p) [Not 24/7]
@@ -207,8 +207,8 @@ https://cloudvideo.servers10.com:8081/8030/index.m3u8
 https://stream.oursnetworktv.com/latin/CristoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="CTV3.bz@SD" tvg-logo="https://i.imgur.com/8UlIKtS.png" group-title="News",CTV3 (720p)
 https://streamer2.nexgen.bz/03-CTVOW/index.m3u8
-#EXTINF:-1 tvg-id="CubavisionInternacional.cu@SD" tvg-logo="https://i.imgur.com/0ZHm9f6.png" group-title="General",Cubavision Internacional
-https://dvrfl06.bozztv.com/astv-cubavisionint/index.m3u8
+#EXTINF:-1 tvg-id="CubavisionInternacional.cu@SD" tvg-logo="https://i.imgur.com/0ZHm9f6.png" group-title="General",Cubavision Internacional (480p)
+https://tv.picta.cu/cvi/cvi_0.m3u8
 #EXTINF:-1 tvg-id="CVATV.hn@SD" tvg-logo="https://i.imgur.com/R8P5enu.jpg" group-title="General",CVA TV (480p) [Not 24/7]
 http://190.124.161.21:8086/cvatv/live.m3u8
 #EXTINF:-1 tvg-id="DiosTeVe.hn@SD" tvg-logo="https://i.imgur.com/7hNwUV2.png" group-title="Religious",Dios Te Ve (720p)

@@ -103,10 +103,18 @@ https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8
 https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="CanalCatorce.do@SD" tvg-logo="https://i.imgur.com/iKLGBbA.png" group-title="General",Canal Catorce (720p)
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
+#EXTINF:-1 tvg-id="CanalClave.cu@SD" tvg-logo="https://i.imgur.com/7tMkA4Z.png" group-title="Music",Canal Clave (480p) [Not 24/7]
+https://tv.picta.cu/clave/clave_0.m3u8
 #EXTINF:-1 tvg-id="CanaldelSol.do@SD" tvg-logo="https://i.imgur.com/gK0M1jB.png" group-title="General",Canal del Sol (1080p) [Not 24/7]
 https://stream.canaldelsol.com/sol26/live_1080.m3u8
 #EXTINF:-1 tvg-id="CanalDTV.do@SD" tvg-logo="https://i.imgur.com/JO5yuNC.png" group-title="General",Canal DTV (720p)
 https://s.emisoras.tv:8081/dtv/index.m3u8
+#EXTINF:-1 tvg-id="CanalEducativo.cu@SD" tvg-logo="https://i.imgur.com/huBxZpP.png" group-title="Education",Canal Educativo (480p) [Not 24/7]
+https://tv.picta.cu/educativo/educativo_0.m3u8
+#EXTINF:-1 tvg-id="CanalEducativo2.cu@SD" tvg-logo="https://i.imgur.com/nOl3H5X.png" group-title="Education",Canal Educativo 2 (480p) [Not 24/7]
+https://tv.picta.cu/educativo2/educativo2_0.m3u8
+#EXTINF:-1 tvg-id="CanalHabana.cu@SD" tvg-logo="https://i.imgur.com/0EUc52w.png" group-title="General",Canal Habana (480p) [Not 24/7]
+https://tv.picta.cu/infantil/infantil_0.m3u8
 #EXTINF:-1 tvg-id="CanalMultivision.do@SD" tvg-logo="https://i.imgur.com/puOrL7B.jpg" group-title="General",Canal Multivision (720p) [Not 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalPlusHaiti.ht@SD" tvg-logo="https://i.imgur.com/Gad5qrd.png" group-title="Entertainment",Canal+ Haiti [Geo-blocked]
@@ -191,8 +199,10 @@ https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="WELUDT1.pr@SD" tvg-logo="https://i.imgur.com/42UdwD0.png" group-title="Religious",CTNi (Christian Television Network International) (480p) [Not 24/7]
 https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
-#EXTINF:-1 tvg-id="CubavisionInternacional.cu@SD" tvg-logo="https://i.imgur.com/0ZHm9f6.png" group-title="General",Cubavision Internacional
-https://dvrfl06.bozztv.com/astv-cubavisionint/index.m3u8
+#EXTINF:-1 tvg-id="Cubavision.cu@SD" tvg-logo="https://i.imgur.com/ki9ipMU.png" group-title="General",Cubavision (480p) [Not 24/7]
+https://tv.picta.cu/cubavision/cubavision_0.m3u8
+#EXTINF:-1 tvg-id="CubavisionInternacional.cu@SD" tvg-logo="https://i.imgur.com/0ZHm9f6.png" group-title="General",Cubavision Internacional (480p)
+https://tv.picta.cu/cvi/cvi_0.m3u8
 #EXTINF:-1 tvg-id="CVVisionTV.do@SD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/ccviison-1.png" group-title="General",CV Vision TV [Geo-blocked]
 https://eu1.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-id="DANTV.do@SD" tvg-logo="https://i.imgur.com/vWKtPDJ.png" group-title="General",DAN TV (1080p) [Not 24/7]
@@ -468,6 +478,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8
 #EXTINF:-1 tvg-id="MTV.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
+#EXTINF:-1 tvg-id="Multivision.cu@SD" tvg-logo="https://i.imgur.com/wBX0GNs.png" group-title="General",Multivision (480p) [Not 24/7]
+https://tv.picta.cu/multivision/multivision_1.m3u8
 #EXTINF:-1 tvg-id="Musavision.do@SD" tvg-logo="https://i.imgur.com/wMse6cT.png" group-title="General",Musavision (1080p)
 https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NaranjaTV.do@SD" tvg-logo="https://i.imgur.com/g7iFN3s.png" group-title="General",Naranja TV (720p)
@@ -702,6 +714,8 @@ https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8
 https://cdn.telepoder.online:3229/dash/stream.m3u8
 #EXTINF:-1 tvg-id="TeleProyectoTV.do@HD" tvg-logo="https://imgur.com/LmBxN5x.png" group-title="General",Tele Proyecto TV [Not 24/7]
 https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleRebelde.cu@SD" tvg-logo="https://i.imgur.com/M6wZzuz.png" group-title="Sports",Tele Rebelde (480p) [Not 24/7]
+https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
 #EXTINF:-1 tvg-id="TeleVariete.ht@SD" tvg-logo="https://i.imgur.com/0J5MzTB.png" group-title="General",Tele Variete
 https://acwstream.com/hb/chaine30/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleZoukla.mq@SD" tvg-logo="https://i.imgur.com/lWYKgPC.png" group-title="Music",Tele Zoukla
@@ -789,7 +803,7 @@ https://stream.castr.com/5da89a909db964293ad13301/live_3cb3e4400c2d11f19b89efdef
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_35cdedd0092a11f089a6e578a102a00d/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Televida.do@SD" tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="Religious",Televida (1080p) [Not 24/7]
-https://cnn.hostlagarto.com:8081/televida/playlist.m3u8
+https://cnn.hostlagarto.com/televida/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisionCaribbean.kn@SD" tvg-logo="https://i.imgur.com/Ogw0COv.png" group-title="General",Television Caribbean (1080p)
 https://live.kingdom-tv.com:3545/stream/play.m3u8
 #EXTINF:-1 tvg-id="TelevisiondelEste.do@SD" tvg-logo="https://i.imgur.com/mmjbcGr.png" group-title="News",Television del Este (1080p) [Not 24/7]

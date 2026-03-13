@@ -658,10 +658,11 @@ https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8
 https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="RacerSelect.us@SD" tvg-logo="https://i.imgur.com/CurtYvn.png" group-title="Sports",RACER Select (1080p)
 https://d85qrcmltdfp8.cloudfront.net/MAVTV_Select.m3u8
+#EXTINF:-1 tvg-id="RadarLampungTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/42/Logo_RadarTV_Lampung.png" http-referrer="https://radartvnews.com/live-streaming/" group-title="Undefined",Radar Lampung TV (480p)
+#EXTVLCOPT:http-referrer=https://radartvnews.com/live-streaming/
+https://www.streaming.radartv.co.id/hls/test.m3u8
 #EXTINF:-1 tvg-id="RadarTasikmalayaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="Undefined",Radar Tasikmalaya TV (720p) [Not 24/7]
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
-#EXTINF:-1 tvg-id="RadarLampungTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/42/Logo_RadarTV_Lampung.png" group-title="Undefined",Radar TV Lampung (480p) [Not 24/7]
-http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="RajawaliTV.id@SD" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="Undefined",Rajawali TV (576i)
 http://175.158.57.130:8888/stream/channelid/412436804
 #EXTINF:-1 tvg-id="RakyatBengkuluTV.id@SD" tvg-logo="https://i.imgur.com/5L2q081.png" http-referrer="https://youtv.live/" group-title="Undefined",Rakyat Bengkulu TV (720p)
@@ -734,7 +735,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTINF:-1 tvg-id="SCTV1.vn@SD" tvg-logo="https://i.imgur.com/UcMXcHF.png" group-title="Undefined",SCTV1 (720p)
 https://liveh12.vtvprime.vn/hls/SCTV1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV2.vn@SD" tvg-logo="https://i.imgur.com/8i5DXIg.png" group-title="Undefined",SCTV2 (720p)
-ttps://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8
+https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8
 #EXTINF:-1 tvg-id="SCTV4.vn@SD" tvg-logo="https://i.imgur.com/qkZhzQq.png" group-title="Undefined",SCTV4 (720p)
 https://liveh12.vtvprime.vn/hls/SCTV4/index.m3u8
 #EXTINF:-1 tvg-id="SCTV6.vn@SD" tvg-logo="https://i.imgur.com/2oOVS42.png" group-title="Undefined",SCTV6 (1080p) [Geo-blocked]
