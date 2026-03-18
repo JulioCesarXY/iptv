@@ -566,8 +566,6 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e290958
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon Latin America (720p)
 http://179.51.136.19:8000/play/a0q4/index.m3u8
-#EXTINF:-1 tvg-id="NickJrLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Kids",Nick Jr. Latin America (480p)
-http://38.199.6.1:17001/play/a0pb/index.m3u8
 #EXTINF:-1 tvg-id="NRBTV.us@SD" tvg-logo="https://i.imgur.com/2PL1Au7.png" group-title="Religious",NRB TV (480p)
 https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTV.us@East" tvg-logo="https://i.imgur.com/QtFM5Oo.png" group-title="General",NTD TV

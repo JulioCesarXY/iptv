@@ -33,6 +33,8 @@ https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
 #EXTINF:-1 tvg-id="24KZ.kz@SD" tvg-logo="https://24.kz/templates/khabar24/img/logo-new.png" group-title="News",24KZ
 https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
+#EXTINF:-1 tvg-id="24News.in@SD" tvg-logo="https://i.imgur.com/xraizkS.png" group-title="News",24 News (576p)
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-id="24TV.tr@SD" tvg-logo="https://i.imgur.com/8FO41es.png" http-user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="News",24 TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
@@ -1707,8 +1709,6 @@ https://ss2.tvrdomi.com:1936/vozzmedianetwork/vozzmedianetwork/playlist.m3u8
 https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
 #EXTINF:-1 tvg-id="TVRInfo.ro@SD" tvg-logo="https://i.imgur.com/7oE7ThR.png" group-title="News",TVR Info
 https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="TwentyFourNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TWENTY_FOUR/images/LOGO_HD/image.png" group-title="News",Twenty Four News (396p)
-https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-id="UMSATVULP.bo@SD" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412" http-referrer="https://tvu.umsa.bo/en-vivo" group-title="Culture;Education;News",UMSA TVU LP (720p)
 #EXTVLCOPT:http-referrer=https://tvu.umsa.bo/en-vivo
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8

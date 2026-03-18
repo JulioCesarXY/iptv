@@ -298,6 +298,8 @@ https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychan
 http://201.230.121.186:8000/play/a0fb/index.m3u8
 #EXTINF:-1 tvg-id="DNTV.ci@SD" tvg-logo="https://i.imgur.com/Pw1ifln.png" group-title="Entertainment",DNTV
 https://tv.num221tech.com:5443/LiveApp/streams/dntv.m3u8
+#EXTINF:-1 tvg-id="DocuBox.nl@SD" tvg-logo="https://i.imgur.com/pX4U9OG.png" group-title="Documentary",DocuBox
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc110/docuboxhdraw/docuboxhdraw.m3u8
 #EXTINF:-1 tvg-id="DocumentaryPlus.us@International" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="Documentary",Documentary+ International (1080p)
 https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DrGMedicalExaminer.pl@HD" tvg-logo="" group-title="General",Dr G Medical Examiner
@@ -376,6 +378,8 @@ https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us@SpainLatinAmerica" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Religious",EWTN Spain & Latin America (720p)
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionBox.nl@SD" tvg-logo="https://i.imgur.com/Taqj4yi.png" group-title="Lifestyle",FashionBox
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/278259/enc123/fashionboxhdraw/fashionboxhdraw.m3u8
 #EXTINF:-1 tvg-id="FashionTVEurope.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" group-title="Lifestyle",FashionTV Europe (1080p)
 https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVSecrets.fr@HD" tvg-logo="https://i.ibb.co/fVGJyCC8/w512.png" group-title="Lifestyle",FashionTV Secrets (1080p)
@@ -678,8 +682,6 @@ https://nhk.lls.pbs.org/index.m3u8
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 #EXTINF:-1 tvg-id="NickJr.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png" group-title="Kids",Nick Jr. (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0409/master.m3u8
-#EXTINF:-1 tvg-id="NickJrLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Kids",Nick Jr. Latin America (480p)
-http://38.199.6.1:17001/play/a0pb/index.m3u8
 #EXTINF:-1 tvg-id="NickComedyCentralPlus1.de@HD" tvg-logo="https://i.imgur.com/08ZUI9k.png" group-title="Comedy;Kids",Nick/Comedy Central +1 HD (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="Kids",Nickelodeon (576p)
@@ -838,7 +840,7 @@ https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/maste
 https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8
 #EXTINF:-1 tvg-id="RTL9.lu@SD" tvg-logo="https://i.imgur.com/nFqjVNW.png" group-title="Entertainment",RTL9 [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
-#EXTINF:-1 tvg-id="RTLCrime.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL_CRIME_Logo_2021_united_orange_rot_blau.svg/512px-RTL_CRIME_Logo_2021_united_orange_rot_blau.svg.png" group-title="Series",RTL Crime HD (1080p)
+#EXTINF:-1 tvg-id="RTLCrime.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/RTL_Crime_%28Netherlands%29_%282023%2C_stacked%29.svg" group-title="Series",RTL Crime HD (1080p)
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
 #EXTINF:-1 tvg-id="RTLSuper.de@SD" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="Undefined",RTL Super [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd

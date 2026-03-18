@@ -321,6 +321,8 @@ https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg
 https://voozmedia.fun/divinamourtv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="DNTV.ci@SD" tvg-logo="https://i.imgur.com/Pw1ifln.png" group-title="Entertainment",DNTV
 https://tv.num221tech.com:5443/LiveApp/streams/dntv.m3u8
+#EXTINF:-1 tvg-id="DocuBox.nl@SD" tvg-logo="https://i.imgur.com/pX4U9OG.png" group-title="Documentary",DocuBox
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc110/docuboxhdraw/docuboxhdraw.m3u8
 #EXTINF:-1 tvg-id="DocumentaryPlus.us@International" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="Documentary",Documentary+ International (1080p)
 https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DodomaTV.tz@SD" tvg-logo="https://i.imgur.com/bLq9eFa.png" group-title="General",Dodoma TV (360p) [Not 24/7]
@@ -395,6 +397,8 @@ https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FarajaTelevision.ug@SD" tvg-logo="https://i.imgur.com/NmnOGHI.jpg" group-title="General",Faraja Television (1080p) [Not 24/7]
 https://panel.freedomflixtv.org:3868/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="FashionBox.nl@SD" tvg-logo="https://i.imgur.com/Taqj4yi.png" group-title="Lifestyle",FashionBox
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/278259/enc123/fashionboxhdraw/fashionboxhdraw.m3u8
 #EXTINF:-1 tvg-id="FassoTVKankan.gn@SD" tvg-logo="https://i.imgur.com/xrV3Qrr.png" group-title="General",Fasso TV Kankan
 https://dvrfl06.bozztv.com/astv-fassotv/index.m3u8
 #EXTINF:-1 tvg-id="FebruaryChannel.ly@SD" tvg-logo="https://i.imgur.com/WdMIpsA.png" group-title="News",February Channel (1080p)

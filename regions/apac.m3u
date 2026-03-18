@@ -46,6 +46,8 @@ https://live.x2.co.th/live/13livetv-th.m3u8
 https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="24HorasInternacional.es@SD" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="News;Public",24 Horas Internacional [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
+#EXTINF:-1 tvg-id="24News.in@SD" tvg-logo="https://i.imgur.com/xraizkS.png" group-title="News",24 News (576p)
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-id="92NewsHD.pk@SD" tvg-logo="https://i.imgur.com/gp1Ao4s.jpeg" group-title="News",92 News HD (720p)
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="99TV.in@SD" tvg-logo="https://i.imgur.com/dZA4gel.png" group-title="News",99TV (720p)
@@ -991,6 +993,8 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 https://e.siar.us/live/dmtv.m3u8
 #EXTINF:-1 tvg-id="DMITV.id@SD" tvg-logo="https://i.postimg.cc/VvVgb6dN/logo-tawaf.png" group-title="Religious",DMI TV (576i)
 https://tvstreamcast.com/tawaftv.m3u8
+#EXTINF:-1 tvg-id="DocuBox.nl@SD" tvg-logo="https://i.imgur.com/pX4U9OG.png" group-title="Documentary",DocuBox
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc110/docuboxhdraw/docuboxhdraw.m3u8
 #EXTINF:-1 tvg-id="DocumentaryPlus.us@International" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="Documentary",Documentary+ International (1080p)
 https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DongNaiTV1.vn@SD" tvg-logo="https://i.imgur.com/oQyioVa.png" group-title="General;News",Đồng Nai 1 (480p) [Not 24/7]
@@ -1138,6 +1142,8 @@ http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8
 https://cdn-6.pishow.tv/live/10002/master.m3u8
 #EXTINF:-1 tvg-id="FamilyGekijyo.jp@SD" tvg-logo="https://i.imgur.com/PCx6Qz3.png" group-title="Family",Family Gekijo (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+#EXTINF:-1 tvg-id="FashionBox.nl@SD" tvg-logo="https://i.imgur.com/Taqj4yi.png" group-title="Lifestyle",FashionBox
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/278259/enc123/fashionboxhdraw/fashionboxhdraw.m3u8
 #EXTINF:-1 tvg-id="FatehTV.in@SD" tvg-logo="https://i.imgur.com/c4ItNkB.png" group-title="Religious",Fateh TV (576p)
 https://mumt05.tangotv.in/FATEHTV/index.m3u8
 #EXTINF:-1 tvg-id="FazalTV.pk@SD" tvg-logo="https://i.imgur.com/c0fvKia.png" group-title="Religious",Fazal TV (1080p)
@@ -3384,8 +3390,6 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
 #EXTINF:-1 tvg-id="TVSNJewellery.au@SD" tvg-logo="https://i.imgur.com/lmoAFm3.png" group-title="Shop",TVSN Jewellery (1080p)
 https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8
-#EXTINF:-1 tvg-id="TwentyFourNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TWENTY_FOUR/images/LOGO_HD/image.png" group-title="News",Twenty Four News (396p)
-https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-id="UChannel.id@SD" tvg-logo="https://i.imgur.com/qxkb0cy.png" http-referrer="https://www.u-channel.tv/" group-title="Undefined",U Channel (720p)
 #EXTVLCOPT:http-referrer=https://www.u-channel.tv/
 https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8
@@ -3471,8 +3475,8 @@ https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
 https://liveh12.vtvprime.vn/hls/VTV1_HD/index.m3u8
 #EXTINF:-1 tvg-id="VTV2.vn@HD" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="Undefined",VTV2 HD (1080p)
 https://liveh12.vtvprime.vn/hls/VTV2_HD/index.m3u8
-#EXTINF:-1 tvg-id="VTV3.vn@HD" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="Undefined",VTV3 HD (1080p)
-https://liveh12.vtvprime.vn/hls/VTV3_HD/index.m3u8
+#EXTINF:-1 tvg-id="VTV3.vn@HD" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="Undefined",VTV3 HD (1080p) [Geo-blocked]
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="VTV4.vn@HD" tvg-logo="https://i.imgur.com/WsLLmR2.png" group-title="Undefined",VTV4 HD (1080p)
 https://liveh12.vtvprime.vn/hls/VTV4_HD/index.m3u8
 #EXTINF:-1 tvg-id="VTV5.vn@HD" tvg-logo="https://i.imgur.com/Vnnna1C.png" group-title="Undefined",VTV5 HD (1080p)

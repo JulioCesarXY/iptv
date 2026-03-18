@@ -26,6 +26,8 @@ https://cdn-1.pishow.tv/live/391/master.m3u8
 https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="24HorasInternacional.es@SD" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="News;Public",24 Horas Internacional [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
+#EXTINF:-1 tvg-id="24News.in@SD" tvg-logo="https://i.imgur.com/xraizkS.png" group-title="News",24 News (576p)
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-id="92NewsHD.pk@SD" tvg-logo="https://i.imgur.com/gp1Ao4s.jpeg" group-title="News",92 News HD (720p)
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="99TV.in@SD" tvg-logo="https://i.imgur.com/dZA4gel.png" group-title="News",99TV (720p)
@@ -529,6 +531,8 @@ http://103.182.170.32:8888/play/a04g
 http://103.229.254.25:7001/play/a09r/index.m3u8
 #EXTINF:-1 tvg-id="DivyaDarshanTV.np@SD" tvg-logo="https://i.imgur.com/EwDQ12F.png" group-title="Religious",Divya Darshan TV (720p)
 http://live.divyadarshantv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DocuBox.nl@SD" tvg-logo="https://i.imgur.com/pX4U9OG.png" group-title="Documentary",DocuBox
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc110/docuboxhdraw/docuboxhdraw.m3u8
 #EXTINF:-1 tvg-id="DocumentaryPlus.us@International" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="Documentary",Documentary+ International (1080p)
 https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DroneTV.us@SD" tvg-logo="https://i.ibb.co/S71C9RJC/dronetv.webp" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Relax;Travel",DroneTV (1080p)
@@ -599,6 +603,8 @@ https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FaktMarathi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143038_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Fakt Marathi (720p) [Not 24/7]
 https://cdn-6.pishow.tv/live/10002/master.m3u8
+#EXTINF:-1 tvg-id="FashionBox.nl@SD" tvg-logo="https://i.imgur.com/Taqj4yi.png" group-title="Lifestyle",FashionBox
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/278259/enc123/fashionboxhdraw/fashionboxhdraw.m3u8
 #EXTINF:-1 tvg-id="FatehTV.in@SD" tvg-logo="https://i.imgur.com/c4ItNkB.png" group-title="Religious",Fateh TV (576p)
 https://mumt05.tangotv.in/FATEHTV/index.m3u8
 #EXTINF:-1 tvg-id="FazalTV.pk@SD" tvg-logo="https://i.imgur.com/c0fvKia.png" group-title="Religious",Fazal TV (1080p)
@@ -1850,8 +1856,6 @@ http://103.250.28.74:8000/play/a06e/index.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es@HD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Undefined",TVE Internacional Europe-Asia HD (1080p)
 https://siarlive.psce.pw/channel5
-#EXTINF:-1 tvg-id="TwentyFourNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TWENTY_FOUR/images/LOGO_HD/image.png" group-title="News",Twenty Four News (396p)
-https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-id="UdayaComedy.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_COMEDY/images/LOGO_HD/image.png" group-title="Comedy",Udaya Comedy (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0574/master.m3u8
 #EXTINF:-1 tvg-id="UdayaMovies.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_MOVIES/images/LOGO_HD/image.png" group-title="Movies",Udaya Movies (576p)

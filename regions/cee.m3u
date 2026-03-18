@@ -325,6 +325,8 @@ http://94.246.128.53:1935/tv/dlaCiebieTv/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-dash/dmsat.mpd
 #EXTINF:-1 tvg-id="DniproTV.ua@SD" tvg-logo="https://i.imgur.com/mbPTVh1.png" group-title="General",DniproTV (1080p)
 http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
+#EXTINF:-1 tvg-id="DocuBox.nl@SD" tvg-logo="https://i.imgur.com/pX4U9OG.png" group-title="Documentary",DocuBox
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc110/docuboxhdraw/docuboxhdraw.m3u8
 #EXTINF:-1 tvg-id="DocumentaryPlus.us@International" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="Documentary",Documentary+ International (1080p)
 https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DottoTV.ro@SD" tvg-logo="https://i.imgur.com/pfs882Z.png" group-title="News",Dotto TV (1080p)
@@ -431,6 +433,8 @@ https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 tvg-id="FashionLifeStyle.ru@SD" tvg-logo="https://i.imgur.com/ETmpllL.png" group-title="Lifestyle",FASHION & LIFESTYLE
 http://31.148.48.15/Fashion_One_HD/index.m3u8
+#EXTINF:-1 tvg-id="FashionBox.nl@SD" tvg-logo="https://i.imgur.com/Taqj4yi.png" group-title="Lifestyle",FashionBox
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/278259/enc123/fashionboxhdraw/fashionboxhdraw.m3u8
 #EXTINF:-1 tvg-id="FashionTVEurope.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" group-title="Lifestyle",FashionTV Europe (1080p)
 https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVSecrets.fr@HD" tvg-logo="https://i.ibb.co/fVGJyCC8/w512.png" group-title="Lifestyle",FashionTV Secrets (1080p)
@@ -800,6 +804,8 @@ https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc010/nicke
 https://live.noroc.tv/noroc/noroc.m3u8
 #EXTINF:-1 tvg-id="Nova.rs@SD" tvg-logo="https://i.imgur.com/sU8UPPY.png" group-title="General",Nova (1080p)
 https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
+#EXTINF:-1 tvg-id="NovaTV.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/960px-Nova_TV_Croatia_logo.png" group-title="General",Nova TV (1080p)
+https://str.gledamsport.com/proxy.php?c=nova&type=playlist&path=mono.m3u8
 #EXTINF:-1 tvg-id="NovaTVBrasov.ro@SD" tvg-logo="https://i.imgur.com/33Vn0Ij.png" group-title="General",Nova TV Brasov (576p) [Not 24/7]
 http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-id="Now90s00s.uk@Poland" tvg-logo="" group-title="Music",Now 90s00s (1080p)
@@ -908,6 +914,8 @@ https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?of
 https://owncast-jjg42-u20330.vm.elestio.app/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="ProfitNews.ro@SD" tvg-logo="https://i.imgur.com/eD4LBDV.png" group-title="News",Profit News (404p) [Not 24/7]
 https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Prva.rs@SD" tvg-logo="https://i.imgur.com/NA31Gtm.png" group-title="Undefined",Prva (1080p)
+http://51.83.135.95/Prva/index.m3u8
 #EXTINF:-1 tvg-id="PublikaTV.md@SD" tvg-logo="https://i.imgur.com/Vyx6wo5.png" group-title="News",Publika TV (720p)
 https://livebeta.publika.press/LIVE/P/6810.m3u8
 #EXTINF:-1 tvg-id="Puls2.pl@SD" tvg-logo="https://i.imgur.com/EOnzPiZ.png" group-title="Undefined",Puls 2 (1080p)

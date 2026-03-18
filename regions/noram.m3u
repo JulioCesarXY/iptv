@@ -1284,6 +1284,8 @@ https://tvpass.org/live/DisneyXDEast/hd
 https://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 tvg-id="DNJTV.pr@SD" tvg-logo="https://i.imgur.com/YqTcGJZ.png" group-title="Religious",DNJ TV (720p)
 https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8
+#EXTINF:-1 tvg-id="DocuBox.nl@SD" tvg-logo="https://i.imgur.com/pX4U9OG.png" group-title="Documentary",DocuBox
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc110/docuboxhdraw/docuboxhdraw.m3u8
 #EXTINF:-1 tvg-id="DocumentaryPlus.us@US" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="Documentary",Documentary+ (1080p)
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DocumentaryPlus.us@International" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="Documentary",Documentary+ International (1080p)
@@ -2735,8 +2737,6 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrato
 https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="NHRATV.us@SD" tvg-logo="https://i.imgur.com/jZgcm4k.png" group-title="Sports",NHRA TV (1080p)
 https://d265y4sk8257lt.cloudfront.net/nh.m3u8
-#EXTINF:-1 tvg-id="NickJrLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Kids",Nick Jr. Latin America (480p)
-http://38.199.6.1:17001/play/a0pb/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us@East" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="NickenEspanol.us@SD" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Kids",Nickelodeon en español
@@ -2935,7 +2935,7 @@ https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
 https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8
 #EXTINF:-1 tvg-id="WMPTDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" group-title="Undefined",PBS MPT Baltimore MD (WMPB) (1080p)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1 tvg-id="PBS.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/NJ_PBS_logo.png/512px-NJ_PBS_logo.png" group-title="Education",PBS National East (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="PBS.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" group-title="Education",PBS National East (1080p) [Geo-blocked]
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 tvg-id="PBSNature.us@SD" tvg-logo="https://i.imgur.com/Brry7cZ.png" group-title="Series",PBS Nature (1080p)
 https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
@@ -2986,7 +2986,7 @@ https://streamer2.nexgen.bz/04-PLUS/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAction.us@US" tvg-logo="https://i.imgur.com/tDapGal.png" group-title="Movies",Pluto TV Action
 https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
 #EXTINF:-1 tvg-id="AnimeAllDay.us@US" tvg-logo="https://i.imgur.com/bYZtd0G.png" group-title="Animation",Pluto TV Anime
-https://jmp2.uk/plu-62a2e8d8a1c8650007e95bac.m3u8
+https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
 #EXTINF:-1 tvg-id="PlutoTVBackcountry.us@SD" tvg-logo="https://i.imgur.com/KnlQzs7.png" group-title="Outdoor",Pluto TV Backcountry
 https://jmp2.uk/plu-5cabdf1437b88b26947346b2.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCars.us@SD" tvg-logo="https://i.imgur.com/Tm3VFmq.png" group-title="Auto",Pluto TV Cars

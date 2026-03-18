@@ -50,6 +50,8 @@ https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
 #EXTINF:-1 tvg-id="24KZ.kz@SD" tvg-logo="https://24.kz/templates/khabar24/img/logo-new.png" group-title="News",24KZ
 https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
+#EXTINF:-1 tvg-id="24News.in@SD" tvg-logo="https://i.imgur.com/xraizkS.png" group-title="News",24 News (576p)
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-id="24TV.tr@SD" tvg-logo="https://i.imgur.com/8FO41es.png" http-user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="News",24 TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
@@ -1448,6 +1450,8 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 https://e.siar.us/live/dmtv.m3u8
 #EXTINF:-1 tvg-id="DMITV.id@SD" tvg-logo="https://i.postimg.cc/VvVgb6dN/logo-tawaf.png" group-title="Religious",DMI TV (576i)
 https://tvstreamcast.com/tawaftv.m3u8
+#EXTINF:-1 tvg-id="DocuBox.nl@SD" tvg-logo="https://i.imgur.com/pX4U9OG.png" group-title="Documentary",DocuBox
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc110/docuboxhdraw/docuboxhdraw.m3u8
 #EXTINF:-1 tvg-id="DocumentaryPlus.us@International" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="Documentary",Documentary+ International (1080p)
 https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DongNaiTV1.vn@SD" tvg-logo="https://i.imgur.com/oQyioVa.png" group-title="General;News",Đồng Nai 1 (480p) [Not 24/7]
@@ -1677,6 +1681,8 @@ https://avr.host247.net/live/FarmodaTV/playlist.m3u8
 https://lenz.splus.ir/PLTV/88888888/224/3221226701/index.m3u8
 #EXTINF:-1 tvg-id="FashionLifeStyle.ru@SD" tvg-logo="https://i.imgur.com/ETmpllL.png" group-title="Lifestyle",FASHION & LIFESTYLE
 http://31.148.48.15/Fashion_One_HD/index.m3u8
+#EXTINF:-1 tvg-id="FashionBox.nl@SD" tvg-logo="https://i.imgur.com/Taqj4yi.png" group-title="Lifestyle",FashionBox
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/278259/enc123/fashionboxhdraw/fashionboxhdraw.m3u8
 #EXTINF:-1 tvg-id="FashionTVEurope.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" group-title="Lifestyle",FashionTV Europe (1080p)
 https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVSecrets.fr@HD" tvg-logo="https://i.ibb.co/fVGJyCC8/w512.png" group-title="Lifestyle",FashionTV Secrets (1080p)
@@ -5022,8 +5028,6 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-id="TVRI.id@Yogyakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="General",TVRI Yogyakarta (720p)
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
-#EXTINF:-1 tvg-id="TwentyFourNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TWENTY_FOUR/images/LOGO_HD/image.png" group-title="News",Twenty Four News (396p)
-https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-id="TYTTurk.tr@SD" tvg-logo="https://tytturk.com/upload/tyt-logo.png" group-title="Undefined",TYT Turk
 https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
 #EXTINF:-1 tvg-id="UChannel.id@SD" tvg-logo="https://i.imgur.com/qxkb0cy.png" http-referrer="https://www.u-channel.tv/" group-title="Undefined",U Channel (720p)
@@ -5160,8 +5164,8 @@ https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
 https://liveh12.vtvprime.vn/hls/VTV1_HD/index.m3u8
 #EXTINF:-1 tvg-id="VTV2.vn@HD" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="Undefined",VTV2 HD (1080p)
 https://liveh12.vtvprime.vn/hls/VTV2_HD/index.m3u8
-#EXTINF:-1 tvg-id="VTV3.vn@HD" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="Undefined",VTV3 HD (1080p)
-https://liveh12.vtvprime.vn/hls/VTV3_HD/index.m3u8
+#EXTINF:-1 tvg-id="VTV3.vn@HD" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="Undefined",VTV3 HD (1080p) [Geo-blocked]
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="VTV4.vn@HD" tvg-logo="https://i.imgur.com/WsLLmR2.png" group-title="Undefined",VTV4 HD (1080p)
 https://liveh12.vtvprime.vn/hls/VTV4_HD/index.m3u8
 #EXTINF:-1 tvg-id="VTV5.vn@HD" tvg-logo="https://i.imgur.com/Vnnna1C.png" group-title="Undefined",VTV5 HD (1080p)
