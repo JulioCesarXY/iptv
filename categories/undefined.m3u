@@ -771,6 +771,8 @@ https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
 https://d3s08lnvd4zcd7.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886061/master.m3u8
 #EXTINF:-1 tvg-id="BizimevTV.tr@SD" tvg-logo="https://i.imgur.com/eJa6sFY.png" group-title="Undefined",Bizimev TV (720p)
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Biznes24.pl@SD" tvg-logo="https://i.imgur.com/0yoFsuq.png" group-title="Undefined",Biznes 24
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc109/biznes24hdraw/biznes24hdraw.m3u8
 #EXTINF:-1 tvg-id="BiznetAdventure.id@SD" tvg-logo="https://i.imgur.com/ZREy4zM.png" group-title="Undefined",Biznet Adventure (1080p)
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Black Enterprise Streaming Network (1080p)
@@ -2408,6 +2410,18 @@ https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Undefined",Garv Punjab Gurbani (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/garv-punjab-gurbani/index.m3u8?ads.vf=3s3toJC4g3i
+#EXTINF:-1 tvg-id="GeminiComedy.in@SD" tvg-logo="" group-title="Undefined",Gemini Comedy (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0573/master.m3u8
+#EXTINF:-1 tvg-id="GeminiLife.in@SD" tvg-logo="" group-title="Undefined",Gemini Life (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0584/master.m3u8
+#EXTINF:-1 tvg-id="GeminiMovies.in@SD" tvg-logo="" group-title="Undefined",Gemini Movies (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0586/master.m3u8
+#EXTINF:-1 tvg-id="GeminiMovies.in@HD" tvg-logo="" group-title="Undefined",Gemini Movies HD (1080p)
+http://111.88.78.21:8000/play/a0zf/index.m3u8
+#EXTINF:-1 tvg-id="GeminiMusic.in@SD" tvg-logo="" group-title="Undefined",Gemini Music SD (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0589/master.m3u8
+#EXTINF:-1 tvg-id="GeminiTV.in@SD" tvg-logo="" group-title="Undefined",Gemini TV (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0568/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Generation Sitcoms (1080p)
 https://production-fastbpk.content.okast.tv/fa2e8c4385712f9aa35c5b79a2b4ac2d/channels/eec463a6-4364-473b-8d89-555acc5b8fb2/e36e4304-73ff-4f9f-8d38-e748576a1f51/media_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Génération Sitcoms
@@ -3415,6 +3429,8 @@ https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakute
 https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Love Stories TV (720p)
 https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
+#EXTINF:-1 tvg-id="LTV.cl@SD" tvg-logo="https://i.imgur.com/XHs06BX.png" group-title="Undefined",LTV (2160p) [Not 24/7]
+https://live.cdnlivecdn.com/live/c9fe062eed2978749aa00df6485940d298449f5e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Lucha Libre AAA
 https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Luksusfælden
@@ -6678,6 +6694,8 @@ https://jmp2.uk/plu-66ff1d5a565d3a000892bdcd.m3u8
 https://lotus.stingray.com/manifest/ose-237ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Stingray ZenLIFE (1080p)
 https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StopklatkaTV.pl@SD" tvg-logo="https://i.imgur.com/qqNsIkx.png" group-title="Undefined",Stopklatka TV
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc102/stopklatkatvhdraw/stopklatkatvhdraw.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Storage Wars by A&E
 https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Storage Wars LA (720p) [Geo-blocked]
@@ -6795,6 +6813,16 @@ https://dr4jwhk0sty71.cloudfront.net/scheduler/scheduleMaster/444.m3u8
 https://app.viloud.tv/hls/channel/f0aa5d1d897c28bc8abed7afa90979c7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Survivor
 https://jmp2.uk/plu-6874ac742704ca31d815b8ed.m3u8
+#EXTINF:-1 tvg-id="SuryaComedy.in@SD" tvg-logo="" group-title="Undefined",Surya Comedy (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0578/master.m3u8
+#EXTINF:-1 tvg-id="SuryaMovies.in@SD" tvg-logo="" group-title="Undefined",Surya Movies (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0567/master.m3u8
+#EXTINF:-1 tvg-id="SuryaMusic.in@SD" tvg-logo="" group-title="Undefined",Surya Music (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0579/master.m3u8
+#EXTINF:-1 tvg-id="SuryaTV.in@SD" tvg-logo="" group-title="Undefined",Surya TV (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0566/master.m3u8
+#EXTINF:-1 tvg-id="SuryaTV.in@HD" tvg-logo="" group-title="Undefined",Surya TV HD (1080p)
+https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="SuwannabhumiChannel.th@SD" tvg-logo="https://i.imgur.com/6AGKP0A.png" group-title="Undefined",Suwannabhumi Channel (720p)
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SvampBob Fyrkant
@@ -7830,6 +7858,8 @@ https://edge06.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVQuiModena.it@SD" tvg-logo="https://i.imgur.com/YfMVNDE.png" group-title="Undefined",TV Qui (Modena) (480p)
 https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRepublika.pl@SD" tvg-logo="https://i.imgur.com/ljpK6dZ.png" group-title="Undefined",TV Republika
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc120/tvrepublikahdraw/tvrepublikahdraw.m3u8
 #EXTINF:-1 tvg-id="TVRomana.sk@SD" tvg-logo="https://i.imgur.com/r7avFBX.png" group-title="Undefined",TV Romana (720p)
 http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRuzinov.sk@SD" tvg-logo="https://i.imgur.com/bUGuntH.png" group-title="Undefined",TV Ružinov (1080p) [Not 24/7]
@@ -8007,6 +8037,12 @@ https://jmp2.uk/plu-66448a5a8ce31100086ae45e.m3u8
 #EXTINF:-1 tvg-id="UBTVBrawijaya.id@SD" tvg-logo="https://i.imgur.com/BQIi7ko.png" http-referrer="https://tv.ub.ac.id" group-title="Undefined",UBTV Brawijaya (480p)
 #EXTVLCOPT:http-referrer=https://tv.ub.ac.id
 https://ubmedcom.siar.us/live/ubmedcom.m3u8
+#EXTINF:-1 tvg-id="UdayaComedy.in@SD" tvg-logo="" group-title="Undefined",Udaya Comedy (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0574/master.m3u8
+#EXTINF:-1 tvg-id="UdayaMusic.in@SD" tvg-logo="" group-title="Undefined",Udaya Music (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0588/master.m3u8
+#EXTINF:-1 tvg-id="UdayaTV.in@SD" tvg-logo="" group-title="Undefined",Udaya TV (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0569/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",UEFA Champions League
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 #EXTINF:-1 tvg-id="UESTV.cl@SD" tvg-logo="https://i.imgur.com/tAyiNZV.png" group-title="Undefined",UESTV (720p)
