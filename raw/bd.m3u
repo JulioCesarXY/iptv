@@ -43,3 +43,19 @@ https://bozztv.com/rongo/rongo-SangsadTV/index.m3u8
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 #EXTINF:-1 tvg-id="AnandaTV.bd@SD" tvg-logo="https://i.imgur.com/jkbo7Qe.png" group-title="Entertainment",Ananda TV (480p)
 http://103.99.249.139/anandatv/index.m3u8
+#EXTINF:-1 tvg-id="DeshTV.bd@SD" tvg-logo="https://i.imgur.com/ItrZok1.png" group-title="News",Desh TV (1080p)
+https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
+#EXTINF:-1 tvg-id="MohonaTV.bd@SD" tvg-logo="https://i.imgur.com/E6doEWH.png" group-title="General",Mohona TV (1080p)
+https://bozztv.com/rongo/rongo-MohonaTV/index.m3u8
+#EXTINF:-1 tvg-id="RTV.bd@SD" tvg-logo="https://i.imgur.com/yu8ugqt.png" group-title="General",RTV (1080p)
+https://bozztv.com/rongo/rongo-RTV/index.m3u8
+#EXTINF:-1 tvg-id="MovieBangla.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681" group-title="Movies",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-id="ATNNews.bd@SD" tvg-logo="https://i.imgur.com/4qZQKjo.png" group-title="News",ATN News (1080p)
+https://bozztv.com/rongo/rongo-ATNNews/index.m3u8
+#EXTINF:-1 tvg-id="News24.bd@SD" tvg-logo="https://i.imgur.com/fkTHh75.png" group-title="News",News 24 (1080p)
+https://bozztv.com/rongo/rongo-News24HD/index.m3u8
+#EXTINF:-1 tvg-id="Channel24.bd@SD" tvg-logo="https://i.imgur.com/4JLkaF7.png" group-title="News",Channel 24 (1080p)
+https://bozztv.com/rongo/rongo-Channel24HD/index.m3u8
+#EXTINF:-1 tvg-id="IndependentTV.bd@SD" tvg-logo="https://i.imgur.com/POXFhGN.png" group-title="News",Independent TV (1080p)
+https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8

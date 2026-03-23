@@ -259,6 +259,8 @@ https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-id="FTVOne.tw@SD" tvg-logo="https://i.imgur.com/HBT2o0I.png" group-title="General",FTV One (民視第一台) (720p) [Not 24/7]
 http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 tvg-id="FUELTV.pt@AU" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sports",Fuel TV (1080p)
+https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="JOCXDTV.jp@SD" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="General",Fuji TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
 #EXTINF:-1 tvg-id="FujiTVNEXT.jp@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Next-fujitv_logo.jpg/revision/latest" group-title="Entertainment",Fuji TV NEXT (544p)

@@ -491,6 +491,8 @@ https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-fr
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="FREEDOM.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png" group-title="News",Freedom (FREEДOM) (UATV) (720p)
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+#EXTINF:-1 tvg-id="FUELTV.pt@EMEA" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sports",FUEL TV (1080p)
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 #EXTINF:-1 tvg-id="Gametoon.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png" group-title="Entertainment",Gametoon
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc122/gametoonhdraw/gametoonhdraw.m3u8
 #EXTINF:-1 tvg-id="GDSTV.ge@SD" tvg-logo="https://i.imgur.com/gv61tFf.png" group-title="General",GDS TV
@@ -992,7 +994,7 @@ https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8
 https://ottst05.flexitv.sk/2827-tv-pc.m3u8
 #EXTINF:-1 tvg-id="RakosmenteTV.hu@SD" tvg-logo="https://i.imgur.com/n39a2DT.png" group-title="General",Rákosmente TV (720p)
 http://rakosmentetv.hu:8080/hls/rmtv.m3u8
-#EXTINF:-1 tvg-id="RakutenViki.es@Poland" tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="Undefined",Rakuten VIKI
+#EXTINF:-1 tvg-id="RakutenViki.us@Poland" tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="Entertainment;Series",Rakuten VIKI
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 #EXTINF:-1 tvg-id="RapsodiaTV.ro@SD" tvg-logo="https://i.imgur.com/mwMG7BB.png" group-title="Undefined",Rapsodia TV (576p)
 http://92.86.248.141:8080/ram/playlist.m3u8

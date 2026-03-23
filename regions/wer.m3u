@@ -683,6 +683,8 @@ https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
 https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="FS1Salzburg.at@SD" tvg-logo="https://i.imgur.com/74gMaPK.png" group-title="General",FS1 Salzburg (720p) [Not 24/7]
 http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 tvg-id="FUELTV.pt@EMEA" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sports",FUEL TV (1080p)
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 #EXTINF:-1 tvg-id="FullCustomGarage.us@UK" tvg-logo="https://i.imgur.com/tOhfx31.png" group-title="Auto",Full Custom Garage
 https://jmp2.uk/plu-5e78faa05a0e200007a6f487.m3u8
 #EXTINF:-1 tvg-id="FunRadio.fr@SD" tvg-logo="https://i.imgur.com/wgxuYsQ.png" group-title="Music",Fun Radio
@@ -1248,6 +1250,8 @@ https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
 https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8
 #EXTINF:-1 tvg-id="One.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/960px-One_2022.svg.png" group-title="Entertainment",One HD (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
+#EXTINF:-1 tvg-id="OnePiece.us@FR" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="Animation",One Piece
+https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8
 #EXTINF:-1 tvg-id="OOGTV.nl@SD" tvg-logo="https://i.imgur.com/WzxY0PL.png" group-title="General",OOG TV (720p)
 https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8
 #EXTINF:-1 tvg-id="OPENRotterdamTV.nl@SD" tvg-logo="https://i.imgur.com/nWahRAb.png" group-title="General",Open Rotterdam (480p) [Not 24/7]
@@ -1334,6 +1338,8 @@ https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8
 https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHistory.us@UK" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="Documentary",Pluto TV History
 https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHorror.us@DACH" tvg-logo="https://i.imgur.com/k6qttca.png" group-title="Movies",Pluto TV Horror
+https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHorror.us@UK" tvg-logo="https://i.imgur.com/k6qttca.png" group-title="Movies",Pluto TV Horror
 https://jmp2.uk/plu-612cda102f5f18000705e0bf.m3u8
 #EXTINF:-1 tvg-id="PlutoTVInvestigation.us@France" tvg-logo="https://i.imgur.com/8LdACfR.png" group-title="Documentary",Pluto TV Investigation

@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",48 Hours
-https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Aftershock
 https://jmp2.uk/plu-63e36b374e83e70008987c58.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",America's Funniest Home Videos
@@ -205,8 +203,6 @@ https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
 https://jmp2.uk/plu-62fb9ade112ca70007d8441d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Nosey
 https://jmp2.uk/plu-62e93d0a80d8d10008a0181e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",One Piece
-https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",OUTflix Movies
 https://jmp2.uk/plu-6368e15a51e9560007c592ed.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Perry Mason
@@ -239,8 +235,6 @@ https://jmp2.uk/plu-62bdb0bcd707b9000739d2e5.m3u8
 https://jmp2.uk/plu-693adae77f21340ef9746f56.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Hibernation Movies
 https://jmp2.uk/plu-66fe4f71b2ffb100080baae3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Horror
-https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV In Love
 https://jmp2.uk/plu-677f92205b68381e2db8cff2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Paranormal
@@ -391,5 +385,11 @@ https://jmp2.uk/plu-667d419415f35c0008942dd1.m3u8
 https://jmp2.uk/plu-62ea4b755e8e770007387b79.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Yo! MTV
 https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
+#EXTINF:-1 tvg-id="48Hours.us@CA" tvg-logo="https://i.imgur.com/Q7THHhX.png" group-title="Series",48 Hours
+https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
 #EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="News",CBS News 24/7 (720p)
 https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
+#EXTINF:-1 tvg-id="OnePiece.us@CA" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="Animation",One Piece
+https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHorror.us@CA" tvg-logo="https://i.imgur.com/k6qttca.png" group-title="Movies",Pluto TV Horror
+https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
