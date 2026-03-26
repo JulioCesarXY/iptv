@@ -31,7 +31,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
 https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:-1 tvg-id="24Kitchen.us@Serbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/960px-24Kitchen.png" group-title="Cooking",24Kitchen Serbia (720p)
 http://91.132.74.5:8000/play/a00a
-#EXTINF:-1 tvg-id="48Hours.us@US" tvg-logo="https://i.imgur.com/Q7THHhX.png" group-title="Series",48 Hours
+#EXTINF:-1 tvg-id="48Hours.us@US" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="Series",48 Hours
 https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 #EXTINF:-1 tvg-id="ABC.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="General",ABC
 http://41.205.93.154/ABC/index.m3u8
@@ -376,7 +376,7 @@ https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 #EXTINF:-1 tvg-id="IONPlus.us@East" tvg-logo="https://i.imgur.com/1dgCvNE.png" group-title="Entertainment",ION Plus (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
-#EXTINF:-1 tvg-id="IranNationalRevolutionTV.us" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iran-national-revolution-tv-us.png" group-title="Undefined",Iran National Revolution TV
+#EXTINF:-1 tvg-id="IranNationalRevolutionTV.us@HD" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iran-national-revolution-tv-us.png" group-title="Undefined",Iran National Revolution TV
 https://hls.irannrtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ItIsWrittenTV.us@SD" tvg-logo="https://i.imgur.com/0jgzoSF.png" group-title="Religious",It Is Written TV (1080p)
 https://itiswrittentv.akamaized.net/xR8gyATuHMVx69u9G79DXnpNRL/playlist.m3u8

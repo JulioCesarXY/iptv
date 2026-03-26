@@ -55,7 +55,7 @@ https://jmp2.uk/plu-6346937a46f9a2000889073d.m3u8
 https://jmp2.uk/plu-634690323ce5fa0007c621f2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",48 Hours
 https://jmp2.uk/plu-6346935b94aa8c0007c5b7a2.m3u8
-#EXTINF:-1 tvg-id="48Hours.us@UK" tvg-logo="https://i.imgur.com/Q7THHhX.png" group-title="Series",48 Hours
+#EXTINF:-1 tvg-id="48Hours.us@UK" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="Series",48 Hours
 https://jmp2.uk/plu-6299e5afdd5833000727e795.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",50 Cent Action
 https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
@@ -1328,6 +1328,8 @@ https://jmp2.uk/plu-62bdaf3470f09a000714a2f6.m3u8
 https://jmp2.uk/plu-611e71322f5f180007001dde.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Degrassi VIDAA TEST
 https://jmp2.uk/plu-67c0a90621445314490642c8.m3u8
+#EXTINF:-1 tvg-id="DejTV.ir@HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dej-tv.png" group-title="Undefined",Dej TV
+https://rdejhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Delicious Eats by Food Network
 https://jmp2.uk/plu-68bb16ba3efb41cd971f3ce6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Den gode gerning
@@ -2090,6 +2092,8 @@ https://jmp2.uk/plu-6909fc4b74601d957a380613.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Undefined",Haryana Beat (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/haryana-beat/index.m3u8?ads.vf=W4fqQJExwzu
+#EXTINF:-1 tvg-id="HauntTV.us@SD" tvg-logo="" group-title="Undefined",Haunt TV (1080p)
+https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",HauntTV
 https://jmp2.uk/plu-63934c218ef524000757b122.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hausmeister Krause
@@ -2565,6 +2569,8 @@ https://dmxcualdgbo80.cloudfront.net/b2c874a8_68b3_49cb_9435_0264a4d32e4a/hls/pl
 https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",K Stories by CJ ENM (1080p)
 https://d50a1g0nh14ou.cloudfront.net/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="KalemehTV.uk@HD" tvg-logo="https://i.imgur.com/RsKKULI.png" group-title="Religious",Kalemeh TV
+https://klmhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Undefined",Kalyan TV (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kalyan-tv/index.m3u8?ads.vf=N97igK1qjJK
@@ -2583,6 +2589,10 @@ https://jmp2.uk/plu-65cba715dc10a40008034917.m3u8
 https://jmp2.uk/plu-65cba7573ba51e00084d76e1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Key & Peele
 https://jmp2.uk/plu-65cba798d77d450008d056e5.m3u8
+#EXTINF:-1 tvg-id="KhabarbinTV.ir@HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/khabarbin-tv.png" group-title="Undefined",Khabarbin TV
+https://khbhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KhalijTV.ir@HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/khalij-tv.png" group-title="Undefined",Khalij TV
+https://khalijhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Kickin'it
 https://jmp2.uk/plu-659fbb566e4f6a0008b868e6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Kickin'it
@@ -3413,6 +3423,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://jmp2.uk/plu-681ba2ad93d3d19bcab47433.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NatureTime
 https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
+#EXTINF:-1 tvg-id="NatureTime.es@SD" tvg-logo="" group-title="Undefined",NatureTime (1080p)
+https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NatureTime Finland (1080p)
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NBA FAST Channel (720p)
@@ -3445,6 +3457,8 @@ https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
 https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
 #EXTINF:-1 tvg-id="NDTVProfit.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME/images/LOGO_HD/image.png" group-title="Business",NDTV Profit (1080p)
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Nesfejahan
+https://ncdn.telewebion.ir/nesfejahan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NESN Nation (1080p)
 https://d1yhx4ygpfwmgm.cloudfront.net/v1/fast/nesnsamsungtvplus/772bf582-9476-4a30-a4c4-ba1c0839f167.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Netlink TV (720p)
@@ -4914,6 +4928,8 @@ https://d3mznj2vub522l.cloudfront.net/playlist.m3u8
 https://d28efmnqar6ea8.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Series K Legacy (1080p)
 https://d2uvezlpjwbhrx.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SetarehTV.uk@HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/setareh-tv-uk.png" group-title="Undefined",Setareh TV
+https://setarehhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Settimo Cielo
 https://jmp2.uk/plu-6245d3792792150007e20634.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SFT Combat
@@ -5330,6 +5346,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tadka
 https://mumt03.tangotv.in/TADKA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Taftan
+https://ncdn.telewebion.ir/taftan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tandem
 https://jmp2.uk/plu-66a8c8b3d2d50d000821fc4c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Undefined",Tara Tv (360p)
@@ -5805,6 +5823,8 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/72
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Turbo
 https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TV1 Plus [Not 24/7]
+https://ncdn.telewebion.ir/tv1plus/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",TV7 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/TV7/DASH-FTA/TV7.mpd
@@ -6276,6 +6296,8 @@ https://jmp2.uk/plu-66b227b446762a000846c208.m3u8
 https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zarok TV Sorani (720p)
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ZedTV.ir@HD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zed-tv.png" group-title="Undefined",Zed TV
+https://zedhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zoey 101
 https://jmp2.uk/plu-63c69e6c4207be0007f73c22.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zona de Acción

@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DryBarComedyPlus.us@SD" tvg-logo="https://i.imgur.com/3N2C60N.png" group-title="Comedy",DryBar Comedy
 https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HauntTV.us@SD" tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" group-title="Entertainment",Haunt TV
+#EXTINF:-1 tvg-id="HauntTV.us@SD" tvg-logo="" group-title="Undefined",Haunt TV
 https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InWonder.nl@SD" tvg-logo="https://i.imgur.com/7kOhGef.png" group-title="Science",InWonder (720p)
 https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
