@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="JOAYDTV.jp@SD" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",ABC (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Animax (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 tvg-id="BSAsahi.jp@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Bs_Asahi_Logo.jpg/revision/latest/scale-to-width-down/512" group-title="General",BS Asahi (544p)
