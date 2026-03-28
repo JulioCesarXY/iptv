@@ -93,7 +93,5 @@ https://t2hls.wns.live/hls/stream.m3u8
 https://maxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TVITN.ir@SD" tvg-logo="https://i.imgur.com/U4sKHWy.png" group-title="Entertainment",TV ITN
 https://itnhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="VoATVPersian.us@SD" tvg-logo="https://i.imgur.com/TmqComb.png" group-title="News",VOA Persian
-https://voaphls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ZedTV.ir@HD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zed-tv.png" group-title="Undefined",Zed TV
 https://zedhls.wns.live/hls/stream.m3u8
