@@ -9,6 +9,8 @@ https://mumt02.tangotv.in/SAANGTV/index.m3u8
 https://mumt03.tangotv.in/1SNEWS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Anandam Abi TV (576p)
 https://mumt02.tangotv.in/ABITV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Anandam TV (576p)
+https://mumt02.tangotv.in/ANANDAMTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BS TV (576p)
 https://mumt02.tangotv.in/BSTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Chaukas TV (576p)
@@ -21,6 +23,10 @@ https://mumt01.tangotv.in/FASTMIX/index.m3u8
 https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Guarantee News (576p)
 https://mumt02.tangotv.in/GUARANTEENEWS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hindi Hits (576p)
+https://mumt01.tangotv.in/HINDIHITS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Josh TV (576p)
+https://mumt03.tangotv.in/JOSHTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Live Times (576p)
 https://mumt01.tangotv.in/LIVETIMES/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Maina TV (576p)
@@ -29,30 +35,24 @@ https://mumt03.tangotv.in/MAINATV/index.m3u8
 https://mumt03.tangotv.in/MATTITV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mojo TV (576p)
 https://mumt02.tangotv.in/MOJOTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Padharo Sa (576p)
+https://mumt03.tangotv.in/PADHAROSA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pankh (576p)
 https://mumt04.tangotv.in/PANKH/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pear TV (576p)
 https://mumt01.tangotv.in/PEARTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ragni TV (576p)
 https://mumt04.tangotv.in/RAGNITV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tadka (576p)
+https://mumt03.tangotv.in/TADKA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",UTV Anandam (576p)
 https://mumt02.tangotv.in/UTVANANDAM/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Anandam TV
-https://mumt02.tangotv.in/ANANDAMTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Classic Hits
 https://mumt03.tangotv.in/CLASSICHITS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Evergreen Hits
 https://mumt02.tangotv.in/EVERGREENHITS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hindi Hits
-https://mumt01.tangotv.in/HINDIHITS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Josh TV
-https://mumt03.tangotv.in/JOSHTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Padharo Sa
-https://mumt03.tangotv.in/PADHAROSA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Punjabi Beats
 https://mumt02.tangotv.in/PUNJABIBEATS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tadka
-https://mumt03.tangotv.in/TADKA/index.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="Music",7S Music (576p)
 https://mumt03.tangotv.in/7SMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="AadinathTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AADINATH_TV/images/LOGO_HD/image.png" group-title="Religious",Aadinath TV (576p)
@@ -163,7 +163,7 @@ https://mumt02.tangotv.in/MASTIII/index.m3u8
 https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8
 #EXTINF:-1 tvg-id="MBCTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s135691_ld_h15_aa.png?lock=720x540" group-title="General",MBC TV (576p)
 https://mumt03.tangotv.in/MBCTV/index.m3u8
-#EXTINF:-1 tvg-id="MelodyHits.ca@SD" tvg-logo="https://i.imgur.com/OOMkVrU.png" group-title="Music",Melody Hits
+#EXTINF:-1 tvg-id="MelodyHits.ca@SD" tvg-logo="https://i.imgur.com/OOMkVrU.png" group-title="Music",Melody Hits (576p)
 https://mumt03.tangotv.in/MELODYHITS/index.m3u8
 #EXTINF:-1 tvg-id="Mh1Music.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143539_ld_h15_aa.png?lock=720x540" group-title="Music",Mh 1 Music (576p)
 https://mumt04.tangotv.in/MHONE/index.m3u8
