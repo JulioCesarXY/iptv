@@ -79,19 +79,19 @@ https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
 https://tvpass.org/live/IFCEast/hd
 #EXTINF:-1 tvg-id="IFC.us@East" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="Movies",IFC East (360p) [Not 24/7]
 https://tvpass.org/live/IFCEast/sd
-#EXTINF:-1 tvg-id="KABCDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/960px-KABC-TV-Logo-2021.png" group-title="General",KABC-DT1 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="KABCDT1.us@SD" tvg-logo="" group-title="Undefined",KABC-DT1 (360p) [Not 24/7]
 https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
-#EXTINF:-1 tvg-id="KCBSDT1.us@SD" tvg-logo="https://i.imgur.com/RIFC1Y6.jpg" group-title="General",KCBS-DT1 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="KCBSDT1.us@SD" tvg-logo="" group-title="Undefined",KCBS-DT1 (1080p) [Not 24/7]
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
-#EXTINF:-1 tvg-id="KCBSDT1.us@SD" tvg-logo="https://i.imgur.com/RIFC1Y6.jpg" group-title="General",KCBS-DT1 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="KCBSDT1.us@SD" tvg-logo="" group-title="Undefined",KCBS-DT1 (360p) [Not 24/7]
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
-#EXTINF:-1 tvg-id="KNBCDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png" group-title="General",KNBC-DT1 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="KNBCDT1.us@SD" tvg-logo="" group-title="Undefined",KNBC-DT1 (1080p) [Not 24/7]
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
-#EXTINF:-1 tvg-id="KNBCDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png" group-title="General",KNBC-DT1 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="KNBCDT1.us@SD" tvg-logo="" group-title="Undefined",KNBC-DT1 (360p) [Not 24/7]
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
-#EXTINF:-1 tvg-id="KTTVDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="General",KTTV-DT1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="KTTVDT1.us@SD" tvg-logo="" group-title="Undefined",KTTV-DT1 (720p) [Not 24/7]
 https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
-#EXTINF:-1 tvg-id="KTTVDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="General",KTTV-DT1 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="KTTVDT1.us@SD" tvg-logo="" group-title="Undefined",KTTV-DT1 (360p) [Not 24/7]
 https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
 #EXTINF:-1 tvg-id="LifetimeMovies.us@East" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="Movies",Lifetime Movies East (720p) [Not 24/7]
 https://tvpass.org/live/LifetimeMoviesEast/hd
@@ -169,29 +169,29 @@ https://tvpass.org/live/tsn5/sd
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-id="USANetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Comedy;Movies;Series;Sports",USA Network East (360p) [Not 24/7]
 https://tvpass.org/live/USANetworkEast/sd
-#EXTINF:-1 tvg-id="WABCDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/960px-WABC_TV_New_2021.svg.png" group-title="Undefined",WABC-DT1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="WABCDT1.us@SD" tvg-logo="" group-title="Undefined",WABC-DT1 (720p) [Not 24/7]
 https://tvpass.org/live/WABCDT1/hd
-#EXTINF:-1 tvg-id="WABCDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/960px-WABC_TV_New_2021.svg.png" group-title="Undefined",WABC-DT1 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="WABCDT1.us@SD" tvg-logo="" group-title="Undefined",WABC-DT1 (360p) [Not 24/7]
 https://tvpass.org/live/WABCDT1/sd
-#EXTINF:-1 tvg-id="WCBSDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/960px-CBS_2.svg.png" group-title="Undefined",WCBS-DT1 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="WCBSDT1.us@SD" tvg-logo="" group-title="Undefined",WCBS-DT1 (360p) [Not 24/7]
 https://tvpass.org/live/WCBSDT1/sd
 #EXTINF:-1 tvg-id="WISDT2.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png" group-title="Undefined",WIS-DT2 (720p) [Not 24/7]
 https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
 #EXTINF:-1 tvg-id="WISDT2.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png" group-title="Undefined",WIS-DT2 (360p) [Not 24/7]
 https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
-#EXTINF:-1 tvg-id="WNBCDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/960px-WNBC_4_NY.svg.png" group-title="Undefined",WNBC-DT1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="WNBCDT1.us@SD" tvg-logo="" group-title="Undefined",WNBC-DT1 (720p) [Not 24/7]
 https://tvpass.org/live/WNBCDT1/hd
-#EXTINF:-1 tvg-id="WNBCDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/960px-WNBC_4_NY.svg.png" group-title="Undefined",WNBC-DT1 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="WNBCDT1.us@SD" tvg-logo="" group-title="Undefined",WNBC-DT1 (360p) [Not 24/7]
 https://tvpass.org/live/WNBCDT1/sd
-#EXTINF:-1 tvg-id="WNETDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" group-title="Undefined",WNET-DT1 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="WNETDT1.us@SD" tvg-logo="" group-title="Undefined",WNET-DT1 (1080p) [Not 24/7]
 https://tvpass.org/live/WNET/hd
-#EXTINF:-1 tvg-id="WNETDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" group-title="Undefined",WNET-DT1 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="WNETDT1.us@SD" tvg-logo="" group-title="Undefined",WNET-DT1 (360p) [Not 24/7]
 https://tvpass.org/live/WNET/sd
-#EXTINF:-1 tvg-id="WNJUDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="Undefined",WNJU-DT1 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="WNJUDT1.us@SD" tvg-logo="" group-title="Undefined",WNJU-DT1 (1080p) [Not 24/7]
 https://tvpass.org/live/TelemundoEast/hd
-#EXTINF:-1 tvg-id="WNJUDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="Undefined",WNJU-DT1 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="WNJUDT1.us@SD" tvg-logo="" group-title="Undefined",WNJU-DT1 (360p) [Not 24/7]
 https://tvpass.org/live/TelemundoEast/sd
-#EXTINF:-1 tvg-id="WNYWDT1.us@SD" tvg-logo="https://i.imgur.com/zZd9Tkt.png" group-title="Undefined",WNYW-DT1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="WNYWDT1.us@SD" tvg-logo="" group-title="Undefined",WNYW-DT1 (720p) [Not 24/7]
 https://tvpass.org/live/WNYWDT1/hd
-#EXTINF:-1 tvg-id="WNYWDT1.us@SD" tvg-logo="https://i.imgur.com/zZd9Tkt.png" group-title="Undefined",WNYW-DT1 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="WNYWDT1.us@SD" tvg-logo="" group-title="Undefined",WNYW-DT1 (360p) [Not 24/7]
 https://tvpass.org/live/WNYWDT1/sd
