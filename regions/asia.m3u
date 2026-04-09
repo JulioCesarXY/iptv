@@ -1000,6 +1000,9 @@ https://ch14.tv/live/ch4teenclip/playlist.m3u8
 https://app.viloud.tv/hls/channel/dcbf7a54c89ba12d98cc7c401c37f565.m3u8
 #EXTINF:-1 tvg-id="Channel5.th@SD" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="General",Channel 5 (1080p)
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel5International.ru@SD" tvg-logo="https://i.imgur.com/KPXMa3U.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Channel 5 International (576i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
 #EXTINF:-1 tvg-id="Channel7.th@SD" tvg-logo="https://i.imgur.com/SBCIwek.png" group-title="General",Channel 7 (1080p)
 https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
 #EXTINF:-1 tvg-id="Channel8.sg@SD" tvg-logo="https://i.imgur.com/6YPZc24.png" group-title="General",Channel 8
@@ -1649,6 +1652,8 @@ https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl@SD" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sports",FightBox (1080p)
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc002/fightboxhdraw/fightboxhdraw.m3u8
+#EXTINF:-1 tvg-id="EpicBhojpuri.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157803_ld_h15_aa.png?lock=720x540" group-title="Movies",Filamchi Bhojpuri (1080p)
+https://epiconvh.akamaized.net/live/filamchi/master.m3u8
 #EXTINF:-1 tvg-id="FilAmTVNetwork.us@HD" tvg-logo="https://i.imgur.com/nRiApdI.png" group-title="General",FilAmTV Network (1080p)
 https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmax.pk@SD" tvg-logo="https://i.imgur.com/eLmdZ6k.png" group-title="Movies",Filmax (576p)
@@ -3038,10 +3043,14 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png" group-title="Documentary",National Geographic Wild HD (1080p)
 http://103.157.248.140:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="NationalIranianCongressTV.us@SD" tvg-logo="https://iraniancongress.com/tv/logo.png" group-title="News",National Iranian Congress TV
+https://tv.iraniancongress.com/stream/tv.m3u8
 #EXTINF:-1 tvg-id="NaturalTV.tr@SD" tvg-logo="https://i.imgur.com/rfcJ674.png" group-title="Culture",Natural TV (720p) [Not 24/7]
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Navo.uz@SD" tvg-logo="https://i.imgur.com/7dZ64y9.png" group-title="General",Navo (576p)
 https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="EpicBharat.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158303_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Nazara (1080p)
+https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
 #EXTINF:-1 tvg-id="NBS.kr@SD" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="Education",NBS Korea Agricultural Broadcasting (720p)
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTV24x7.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_24X7/images/LOGO_HD/image.png" group-title="News",NDTV 24X7 (480p) [Not 24/7]
@@ -4086,6 +4095,8 @@ https://stream3.shopch.jp/HLS/master.m3u8
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ShoppingNT.kr@SD" tvg-logo="https://i.imgur.com/BgbJp5X.png" group-title="Shop",Shopping NT (720p)
 https://live.shoppingntmall.com/live/10011.m3u8
+#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png" group-title="Music",ShowBox (576p)
+http://116.90.120.151:8000/play/a0k2/index.m3u8
 #EXTINF:-1 tvg-id="ShraddhaTV.lk@SD" tvg-logo="https://i.imgur.com/sZ3fEMi.png" group-title="Undefined",Shraddha TV (480p)
 https://edge3-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/index.m3u8
 #EXTINF:-1 tvg-id="ShubhCinemaTV.in@SD" tvg-logo="https://i.imgur.com/RQhorAG.png" group-title="Movies",Shubh Cinema TV (720p)
@@ -4227,8 +4238,6 @@ http://103.157.248.140:8000/play/a00b/index.m3u8
 http://103.121.6.5:8000/play/a063/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movies",Star Movies HD (1080p)
 http://103.157.248.140:8000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 HD (1080p)
-http://ptu.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1Hindi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Hindi (576p)
 http://103.157.248.140:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1Tamil.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Tamil (576p)
@@ -4244,8 +4253,6 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
 #EXTINF:-1 tvg-id="StarTV.mn@SD" tvg-logo="https://i.imgur.com/R6hxJgl.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Star TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
-#EXTINF:-1 tvg-id="StarUtsav.in@SD" tvg-logo="https://i.imgur.com/H1jhHDl.png" group-title="Entertainment",Star Utsav (576p)
-http://116.90.120.151:8000/play/a0kc/index.m3u8
 #EXTINF:-1 tvg-id="StarUtsavMovies.in@SD" tvg-logo="https://i.imgur.com/k5QHfH2.png" group-title="Movies",Star Utsav Movies (576p)
 http://116.90.120.151:8000/play/a0ka/index.m3u8
 #EXTINF:-1 tvg-id="StarVijay.in@SD" tvg-logo="https://i.imgur.com/dZtJHAe.png" group-title="Entertainment",Star Vijay (576p)
@@ -4393,8 +4400,8 @@ https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/index.m3u8?ads.vf=n1xb6TPm9sa
 #EXTINF:-1 tvg-id="TabiiSpor6.tr@SD" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="Sports",Tabii Spor 6 (720p) [Geo-blocked]
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TahaTV.lb@SD" tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="Kids",Taha TV
-https://media1.livaat.com/static/TAHA_TV/playlist.m3u8
+#EXTINF:-1 tvg-id="TahaTV.lb@SD" tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="Kids",Taha TV (576p)
+https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
 #EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw@SD" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="General",Taiwan Indigenous TV (原住民電視) (720p)
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="TaiwanPlusTV.tw@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Taiwan_Plus.png" group-title="Undefined",Taiwan Plus TV (1080p)

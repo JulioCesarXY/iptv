@@ -231,7 +231,7 @@ https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
 https://pb-mfmqu5e0fq1lb.akamaized.net/Duck_Dynasty.m3u8
 #EXTINF:-1 tvg-id="ducktv.sk@SD" tvg-logo="https://i.imgur.com/gRFQ35W.png" group-title="Kids",ducktv (720p)
 https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ebony TV by Lionsgate (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="EbonyTVbyLionsgate.us" tvg-logo="https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png" group-title="Movies;Series",Ebony TV by Lionsgate (1080p) [Geo-blocked]
 https://pb-6csswagmy4nat.akamaized.net/Ebony_TV_by_Lionsgate.m3u8
 #EXTINF:-1 tvg-id="ElectricNow.us@SD" tvg-logo="" group-title="Entertainment",ElectricNOW (1080p) [Geo-blocked]
 https://pb-aexv6wqzkg929.akamaized.net/ElectricNOW.m3u8
@@ -403,7 +403,7 @@ https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8
 https://d1kt53vrikzr5o.cloudfront.net/v1/lol_lolnetwork_5/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca@4K" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Outdoor",Love Nature 4K (2160p) [Geo-blocked]
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Love Pets (1080p)
+#EXTINF:-1 tvg-id="LovePets.ca@US" tvg-logo="https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png" group-title="Documentary",Love Pets (1080p)
 https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8
 #EXTINF:-1 tvg-id="LuckyDog.us@SD" tvg-logo="https://i.imgur.com/1j4gwL3.png" group-title="Documentary",Lucky Dog (720p)
 https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8
@@ -497,7 +497,7 @@ https://pb-vt93jy06rfty1.akamaized.net/SONOS45.m3u8
 https://d14kyo3ex6k293.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="OutdoorAmerica.us@SD" tvg-logo="https://i.imgur.com/UKfimFD.png" group-title="Outdoor",Outdoor America (1080p)
 https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",OuterSphere (1080p)
+#EXTINF:-1 tvg-id="OuterSphere.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png" group-title="Movies;Series",OuterSphere (1080p)
 https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",OUTflix Movies (1080p)
 https://dg37ei3o66x3s.cloudfront.net/OutTV_US.m3u8
@@ -749,7 +749,7 @@ https://d2otd2h2i5t24h.cloudfront.net/Victory_National.m3u8
 https://d15svg0m77868y.cloudfront.net/v1/hemisphere_wapaplus_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="WaypointTV.us@SD" tvg-logo="https://i.imgur.com/9vvlJN9.png" group-title="Outdoor",Waypoint TV (1080p)
 https://djb4ma5fajjay.cloudfront.net/Waypoint_TV.m3u8
-#EXTINF:-1 tvg-id="WBTVDT1.us@SD" tvg-logo="" group-title="Undefined",WBTV News (720p)
+#EXTINF:-1 tvg-id="WBTV641.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="Undefined",WBTV News (720p)
 https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",WeatherNation Charlotte (720p)
 https://d16xlk626t29pt.cloudfront.net/ABR.m3u8
@@ -775,7 +775,7 @@ https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
 https://pb-41uwb26l8gvwx.akamaized.net/World_Poker_Tour.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",World’s Most Evil Killers (1080p) [Geo-blocked]
 https://pb-b62f663v8jteu.akamaized.net/Worlds_Most_Evil_Killers.m3u8
-#EXTINF:-1 tvg-id="WSOCDT1.us@SD" tvg-logo="" group-title="Undefined",WSOC Charlotte (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="WSOCTV91.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="Undefined",WSOC Charlotte (1080p) [Geo-blocked]
 https://d1q60ra9vxbqm1.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",WWE Superstar Central (1080p)
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8

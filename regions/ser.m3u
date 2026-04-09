@@ -459,6 +459,8 @@ https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
 https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 #EXTINF:-1 tvg-id="TVCreta.gr@SD" tvg-logo="https://i.imgur.com/CpIeJyt.png" group-title="Undefined",Creta (540p) [Not 24/7]
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 tvg-id="CrimenHistoria.es@SD" tvg-logo="https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png" group-title="Documentary",Crimen & Historia (720p)
+https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
 #EXTINF:-1 tvg-id="CristianaTV.es@SD" tvg-logo="https://i.imgur.com/FpkNIIG.jpg" group-title="Religious",Cristiana TV (576p)
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8
 #EXTINF:-1 tvg-id="CugatTV.es@SD" tvg-logo="https://i.imgur.com/0WQC25N.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Cugat TV (1080p)
@@ -538,6 +540,8 @@ https://liveingesta318.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8?DVR=
 https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="El33.es@Originals" tvg-logo="https://i.imgur.com/frKCBTN.png" group-title="Culture;Public",El 33 Originals (1080p) [Not 24/7]
 https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
+#EXTINF:-1 tvg-id="ElMueble.es@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d64983e2-55b1-410b-9599-98a28f7b94ba/Logo_ElMueble_1500x1000_AllWhite_-_Belen_Bruno.png" group-title="Lifestyle",El Mueble (720p)
+https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="General",El Toro TV (720p)
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-id="Elche7TV.es@SD" tvg-logo="https://i.imgur.com/tjI0dLx.png" group-title="Undefined",Elche 7 TV (576p)
@@ -779,8 +783,6 @@ https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 https://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 tvg-id="IntercomarcalTV.es@SD" tvg-logo="https://i.imgur.com/KLPSnAT.png" group-title="General",Intercomarcal TV (576p) [Not 24/7]
 https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
-#EXTINF:-1 tvg-id="InWild.it@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Inwild.png" group-title="Outdoor;Shop",INWILD (1080p) [Geo-blocked]
-https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IonianTV.gr@SD" tvg-logo="https://i.imgur.com/JILN3kS.png" group-title="General",Ionian Channel (1080p) [Not 24/7]
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IridaTV.gr@SD" tvg-logo="https://i.imgur.com/SAhG923.png" group-title="General",Irida TV
@@ -1036,6 +1038,10 @@ http://ventdelnord.tv:8080/mola/directe.m3u8
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:-1 tvg-id="MovieSmartTurk.tr@SD" tvg-logo="https://i.imgur.com/DWN9ulT.png" group-title="Movies",MovieSmart Turk (576p)
 http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk@IT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Animation;Kids",Mr. Bean Anime Italy (1080p)
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk@ES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Animation;Kids",Mr. Bean Anime Spain (1080p)
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 #EXTINF:-1 tvg-id="MTurkTV.tr@SD" tvg-logo="https://i.imgur.com/xj1gvrq.png" group-title="General",MTürk TV (1080p)
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVLebanon.lb@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png" group-title="General",MTV Lebanon (1080p)
@@ -1052,8 +1058,10 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="NaturalTV.tr@SD" tvg-logo="https://i.imgur.com/rfcJ674.png" group-title="Culture",Natural TV (720p) [Not 24/7]
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="NatureTime.ca@SD" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Documentary",NatureTime (1080p)
-https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="NatureTime.ca@ES" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Documentary",NatureTime (1080p)
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1 tvg-id="NatureTime.ca@SD" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Documentary",NatureTime Finland (1080p)
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NauticalChannel.it@SD" tvg-logo="https://i.imgur.com/2ByDyzL.png" group-title="Sports",Nautical Channel (720p)
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NeaTV.gr@SD" tvg-logo="https://i.imgur.com/nvNW8G7.png" group-title="General",Nea TV (720p)
@@ -1562,6 +1570,8 @@ https://stream.castr.com/651d8d36a57bf232bc830464/live_01fd9e80636111eebd0da35d4
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-id="Stereo5TV.it@SD" tvg-logo="https://i.imgur.com/sCDcYFW.png" group-title="Undefined",Stereo 5 TV (720p)
 https://stream1.aswifi.it/stereo5/live/index.m3u8
+#EXTINF:-1 tvg-id="StorieCriminali.es@IT" tvg-logo="https://images.pluto.tv/channels/66177d18c8311c0008d077d0/colorLogoPNG.png" group-title="Documentary",Storie Criminali
+https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
 #EXTINF:-1 tvg-id="STZTelebista.es@SD" tvg-logo="https://i.imgur.com/rFQuAEv.png" group-title="Music",STZ Telebista (1080p)
 https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 #EXTINF:-1 tvg-id="SunRTV.tr@SD" tvg-logo="https://i.imgur.com/64tph9N.png" group-title="Undefined",Sun RTV (720p) [Not 24/7]
@@ -1777,6 +1787,8 @@ https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TrabzonBuyuksehirBelediyesiTV.tr@FHD" tvg-logo="https://tbbweb.tv/img/logo.png" group-title="Undefined",Trabzon Buyuksehir Belediyesi TV (1080p)
 https://tv191.radyotelekom.com.tr:3612/stream/play.m3u8
+#EXTINF:-1 tvg-id="Trailers.es@UK" tvg-logo="https://i.imgur.com/RwZ1hCN.png" group-title="News",Trailers (1080p)
+https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8
 #EXTINF:-1 tvg-id="TrakyaTurk.tr@SD" tvg-logo="https://trakyaturktv.com/uploads/library/2024/04/unnamed1.jpg" group-title="General",Trakya Türk TV (720p)
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8
 #EXTINF:-1 tvg-id="Trece.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png" group-title="Religious",Trece TV (576p)

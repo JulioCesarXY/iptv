@@ -102,6 +102,8 @@ https://eu1.servers10.com:8081/8214/index.m3u8
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-50.playlist.m3u8
 #EXTINF:-1 tvg-id="MulticanalCatamayo.ec@SD" tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="General",Multicanal Catamayo (720p) [Not 24/7]
 https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon Latin America (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-33_480.m3u8
 #EXTINF:-1 tvg-id="Nortvision.ec@SD" tvg-logo="https://i.imgur.com/MLzcPgT.jpg" group-title="General",Nortvisión (720p)
 https://server.asilivehd.com:3242/live/nortvisionlive.m3u8
 #EXTINF:-1 tvg-id="NukaTV.ec@SD" tvg-logo="https://i.imgur.com/4r2Ycju.png" group-title="General",Ñuka TV (720p) [Not 24/7]
@@ -148,6 +150,8 @@ https://live.obslivestream.com/sonoondatv/index.m3u8
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
 #EXTINF:-1 tvg-id="Telemar.ec@SD" tvg-logo="https://i.imgur.com/0vX9oJF.png" group-title="General",Telemar (720p)
 https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
+#EXTINF:-1 tvg-id="TelepremierPlus.ec@SD" tvg-logo="https://i.imgur.com/F7ZPcvb.png" group-title="Entertainment",Telepremier Plus (1080p)
+http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
 #EXTINF:-1 tvg-id="Telerama.ec@SD" tvg-logo="https://i.imgur.com/whIRrjo.png" group-title="General",Telerama (240p) [Not 24/7]
 https://play.once.net.ec/telerama/live.tv/538.m3u8
 #EXTINF:-1 tvg-id="Telesucesos.ec@SD" tvg-logo="https://i.imgur.com/D1BBTv8.png" http-referrer="https://ticsbalancer.ticsecuador.com.ec:4444/TeleSucesos/play.html?name=UIO-HD" group-title="General",Telesucesos (720p) [Not 24/7]

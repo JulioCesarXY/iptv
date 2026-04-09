@@ -165,3 +165,5 @@ https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8
 #EXTINF:-1 tvg-id="VitoTVO.ec@SD" tvg-logo="https://i.imgur.com/QoJ2gD0.png" group-title="Undefined",VitoTVO (1080p)
 http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
+#EXTINF:-1 tvg-id="TelepremierPlus.ec@SD" tvg-logo="https://i.imgur.com/F7ZPcvb.png" group-title="Entertainment",Telepremier Plus (1080p)
+http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8

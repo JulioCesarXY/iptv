@@ -1115,6 +1115,8 @@ https://ncdn.telewebion.ir/nasim/live/playlist.m3u8
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:-1 tvg-id="NationalIranianCongressTV.us@SD" tvg-logo="https://iraniancongress.com/tv/logo.png" group-title="News",National Iranian Congress TV
+https://tv.iraniancongress.com/stream/tv.m3u8
 #EXTINF:-1 tvg-id="NaturalTV.tr@SD" tvg-logo="https://i.imgur.com/rfcJ674.png" group-title="Culture",Natural TV (720p) [Not 24/7]
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="NewFlix.ir@SD" tvg-logo="" group-title="Movies",Newflix
@@ -1543,8 +1545,8 @@ https://t2hls.wns.live/hls/stream.m3u8
 https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TabiiSpor6.tr@SD" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="Sports",Tabii Spor 6 (720p) [Geo-blocked]
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TahaTV.lb@SD" tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="Kids",Taha TV
-https://media1.livaat.com/static/TAHA_TV/playlist.m3u8
+#EXTINF:-1 tvg-id="TahaTV.lb@SD" tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="Kids",Taha TV (576p)
+https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
 #EXTINF:-1 tvg-id="Tamasha.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/960px-IRIB_tamashaTV.svg.png" group-title="Movies",Tamasha
 https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Tarab.sa@SD" tvg-logo="https://assets.mbcmood.com/channels/1738059679TARAB_Logo.png" group-title="Music",Tarab (1080p)

@@ -125,8 +125,6 @@ https://d35koolwpjpqaf.cloudfront.net/playlist.m3u8
 https://d1s7megtamek6r.cloudfront.net/Lifetime_Love_and_Drama.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Live PD Presents (1080p)
 https://d8o79xse42g9s.cloudfront.net/Live_PD_Presents.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Love Pets (1080p)
-https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mark Rober TV (1080p)
 https://d217xu4o9hejvm.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MeatEater (1080p)
@@ -149,8 +147,6 @@ https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ3000013FJ&channel
 https://d3p1t3yzbr6q5d.cloudfront.net/Novelas_Turcas.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Operation Repo (1080p)
 https://d14kyo3ex6k293.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",OuterSphere (1080p)
-https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",OUTflix Movies (1080p)
 https://dg37ei3o66x3s.cloudfront.net/OutTV_US.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",PBS Digital Studios (1080p)
@@ -253,8 +249,6 @@ https://pb-yu0ylzo7vk8v4.akamaized.net/Cheaters_SONO39.m3u8
 https://pb-nhrhhcia276e2.akamaized.net/Conan_OBrien_TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Dance Moms (1080p) [Geo-blocked]
 https://pb-z02izgi68rhao.akamaized.net/Dance_Moms.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ebony TV by Lionsgate (1080p) [Geo-blocked]
-https://pb-6csswagmy4nat.akamaized.net/Ebony_TV_by_Lionsgate.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Heartland (1080p) [Geo-blocked]
 https://pb-a0c87g3b3mtrw.akamaized.net/Heartland.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",History 365 (1080p) [Geo-blocked]
@@ -529,6 +523,8 @@ https://d265y4sk8257lt.cloudfront.net/nh.m3u8
 https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="OutdoorAmerica.us@SD" tvg-logo="https://i.imgur.com/UKfimFD.png" group-title="Outdoor",Outdoor America (1080p)
 https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="OuterSphere.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png" group-title="Movies;Series",OuterSphere (1080p)
+https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 #EXTINF:-1 tvg-id="Overtime.us@SD" tvg-logo="https://i.imgur.com/9S9k4IK.png" group-title="Sports",Overtime (1080p)
 https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8
 #EXTINF:-1 tvg-id="PBSNature.us@SD" tvg-logo="https://i.imgur.com/Brry7cZ.png" group-title="Series",PBS Nature (1080p)

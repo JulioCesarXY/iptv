@@ -614,6 +614,8 @@ https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 #EXTINF:-1 tvg-id="EMCITVAmerica.ca@SD" tvg-logo="" group-title="Religious",EMCI TV America (288p)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emciamerique.m3u8
+#EXTINF:-1 tvg-id="EnLenguadeSenasTV.py@SD" tvg-logo="https://i.imgur.com/oxPEZas.png" group-title="Education",En Lengua de Senas TV (720p)
+https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar@SD" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Culture",Encuentro (1080p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-19.playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeek.cl@SD" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Animation",EnerGeek (720p) [Not 24/7]
@@ -739,6 +741,8 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87a
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2 Latin America (480p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-41_480.m3u8
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History Latin America South (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8
 #EXTINF:-1 tvg-id="HolvoetTV.cl@SD" tvg-logo="https://i.imgur.com/9JKRO3R.png" group-title="Culture",Holvoet TV (Copiapó) (720p) [Not 24/7]
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HuascoTelevision.cl@SD" tvg-logo="https://i.imgur.com/Fo2DV70.png" group-title="General",Huasco Televisión (360p)
@@ -764,6 +768,8 @@ https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
 #EXTINF:-1 tvg-id="IntuitivaTV.pe@SD" tvg-logo="https://i.imgur.com/zcehR4M.png" group-title="General",Intuitiva TV (720p)
 https://video2.lhdserver.es/cableperu/live.m3u8
+#EXTINF:-1 tvg-id="IPNoticias.ar@SD" tvg-logo="https://i.imgur.com/dbu9nx4.png" group-title="News",IP Noticias (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8
 #EXTINF:-1 tvg-id="IslaTV.ve@SD" tvg-logo="https://i.imgur.com/l11Ixhi.jpeg" group-title="General",Isla TV (480p)
 https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
 #EXTINF:-1 tvg-id="ISTV.br@SD" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Education",ISTV (720p) [Not 24/7]
@@ -976,6 +982,8 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
 #EXTINF:-1 tvg-id="NativaTVSatipo.pe@SD" tvg-logo="https://i.imgur.com/ScCAgGB.png" group-title="General",Nativa TV Satipo (720p) [Not 24/7]
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+#EXTINF:-1 tvg-id="NatureTime.ca@LATAM" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Documentary",NatureTime
+https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
 #EXTINF:-1 tvg-id="NCTV.cl@SD" tvg-logo="https://i.imgur.com/oo5vDBv.png" group-title="News",NCTV (1080p)
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar@SD" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="General",NET TV (720p)
@@ -993,7 +1001,9 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrato
 https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="NickClassico.us@Brazil" tvg-logo="https://i.imgur.com/Crip6wT.png" group-title="Kids",Nickelodeon Clássico (720p)
 https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
-#EXTINF:-1 tvg-id="NickOnline.br@SD" tvg-logo="https://x1co.com.br/logo.png" group-title="Animation;Kids",NickOnline (576p)
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon Latin America (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-33_480.m3u8
+#EXTINF:-1 tvg-id="NickOnline.br@SD" tvg-logo="https://x1co.com.br:8443/logo.png" group-title="Animation;Kids",NickOnline (576p)
 https://x1co.com.br:8443/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NortenaTv.ve@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU" group-title="Entertainment",Norteña TV
 https://vs20.live.opencaster.com/nortena933fm_00010364/index.m3u8
@@ -1437,6 +1447,8 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26_720.m
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Telepacifico.co@SD" tvg-logo="https://i.imgur.com/39hy97J.png" group-title="General",Telepacífico (1080p) [Geo-blocked]
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+#EXTINF:-1 tvg-id="TelepremierPlus.ec@SD" tvg-logo="https://i.imgur.com/F7ZPcvb.png" group-title="Entertainment",Telepremier Plus (1080p)
+http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
 #EXTINF:-1 tvg-id="Telerama.ec@SD" tvg-logo="https://i.imgur.com/whIRrjo.png" group-title="General",Telerama (240p) [Not 24/7]
 https://play.once.net.ec/telerama/live.tv/538.m3u8
 #EXTINF:-1 tvg-id="Telesangil.co@SD" tvg-logo="https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png" group-title="General",Telesangil (720p)
@@ -1903,6 +1915,8 @@ http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 https://stream.vivotv.uy/hls/stream.m3u8
 #EXTINF:-1 tvg-id="VNP.pe@SD" tvg-logo="https://i.imgur.com/TOnknEW.png" group-title="News",VNP
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+#EXTINF:-1 tvg-id="Volver.ar@SD" tvg-logo="https://i.imgur.com/PYvSZMb.png" group-title="Undefined",Volver (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-74_480.m3u8
 #EXTINF:-1 tvg-id="VosyTV.ec@SD" tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Music",Vos y TV (720p) [Not 24/7]
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="VPItv.ve@SD" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="News",VPItv (1080p)

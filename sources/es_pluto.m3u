@@ -3,10 +3,6 @@
 https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CBS News 24/7 (720p)
 https://jmp2.uk/plu-6231ede1be5b460007f91bc1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Crimen & Historia (720p)
-https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",El Mueble (720p)
-https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",FailArmy (720p)
 https://jmp2.uk/plu-5f1abf5fafb5ee0007d4d0ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",FIFA+ (720p)
@@ -27,8 +23,6 @@ https://jmp2.uk/plu-6130d8dc943001000708548d.m3u8
 https://jmp2.uk/plu-604f81a49ef73300070e554f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Vergüenza ajena (720p)
 https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Nature Time (720p)
-https://jmp2.uk/plu-60dd6b1da79e4d0007309455.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Junior (720p)
 https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Kids (720p)
@@ -283,6 +277,10 @@ https://jmp2.uk/plu-604f8125c6669b00077f7699.m3u8
 https://jmp2.uk/plu-6080381ab7c9ea00074ec64c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Yu-Gi-Oh!
 https://jmp2.uk/plu-63eb96754e83e70008ab8941.m3u8
+#EXTINF:-1 tvg-id="CrimenHistoria.es@SD" tvg-logo="https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png" group-title="Documentary",Crimen & Historia (720p)
+https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
+#EXTINF:-1 tvg-id="ElMueble.es@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d64983e2-55b1-410b-9599-98a28f7b94ba/Logo_ElMueble_1500x1000_AllWhite_-_Belen_Bruno.png" group-title="Lifestyle",El Mueble (720p)
+https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
 #EXTINF:-1 tvg-id="OnePiece.us@Spain" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="Animation",One Piece
 https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHorror.us@Spain" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="Movies",Pluto TV Horror

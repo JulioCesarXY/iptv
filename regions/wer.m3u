@@ -153,6 +153,8 @@ https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BalkanRadioSalzburg.at@SD" tvg-logo="https://i.imgur.com/UDyxgXf.png" group-title="Entertainment",Balkan Radio Salzburg (480p)
 https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk@FR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Animation;Kids",Banijay Mr Bean Animé (1080p)
+https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAlba.uk@SD" tvg-logo="https://i.imgur.com/36KDxLg.png" group-title="General",BBC Alba (1080p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-id="BBCFour.uk@UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png" group-title="Culture;Documentary",BBC Four HD (1080p) [Geo-blocked]
@@ -1011,8 +1013,6 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mouv
 https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us@UK" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MovieSphere UK (1080p)
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MrBeanLiveAction.uk@SD" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="Comedy;Kids",Mr Bean Live Action (1080p)
-https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk@English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Animation;Kids",Mr. Bean Animated (1080p)
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MST3K.us@UK" tvg-logo="https://i.imgur.com/2LSdcga.png" group-title="Series",MST3K
@@ -1077,6 +1077,10 @@ https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8
 #EXTINF:-1 tvg-id="Naruto.us@Germany" tvg-logo="https://i.imgur.com/M8X3Kvc.png" group-title="Animation",Naruto (720p)
 https://jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8
+#EXTINF:-1 tvg-id="NatureTime.ca@UK" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Documentary",Nature Time (720p)
+https://jmp2.uk/plu-63d91c9c8795f30008678e62.m3u8
+#EXTINF:-1 tvg-id="NatureTime.ca@France" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Documentary",Nature Time France (1080p)
+https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",NBC News NOW (1080p)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
 #EXTINF:-1 tvg-id="NDRFernsehenInternational.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png" group-title="General",NDR Fernsehen International (720p)
@@ -1886,6 +1890,8 @@ https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 http://92.114.85.72:8000/play/a0lc
 #EXTINF:-1 tvg-id="ThatsTV.uk@SD" tvg-logo="https://i.imgur.com/rmdfcyG.png" group-title="Undefined",That's TV (576p)
 http://92.114.85.72:8000/play/a0lb
+#EXTINF:-1 tvg-id="TheChatShowChannel.uk@SD" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" group-title="Comedy;Series",The Chat Show Channel (1080p)
+https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="TheCyclingChannel.at@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpbjHW_j4DfsuAn4278ebtzhibMvY7KSOyow&s" group-title="Sports",The Cycling Channel
 https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 #EXTINF:-1 tvg-id="TheGrahamNortonShow.uk@SD" tvg-logo="https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png" group-title="Entertainment",The Graham Norton Show (1080p)
@@ -1947,6 +1953,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr@SD" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Music",Trace Urban (Australia) (1080p)
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Trailers.es@UK" tvg-logo="https://i.imgur.com/RwZ1hCN.png" group-title="News",Trailers (1080p)
+https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8
 #EXTINF:-1 tvg-id="Trek.fr@HD" tvg-logo="https://i.imgur.com/TcF53W4.png" group-title="Undefined",Trek HD (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
 #EXTINF:-1 tvg-id="CanalZ.be@SD" tvg-logo="https://i.imgur.com/qtiGLzZ.png" group-title="Business",Trends Z (1080p)
@@ -2093,6 +2101,8 @@ https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
 #EXTINF:-1 tvg-id="VoxAfrica.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Voxafrica-1.png/960px-Voxafrica-1.png" group-title="Undefined",VoxAfrica (720p)
 http://69.64.57.208/voxafrica/playlist.m3u8
+#EXTINF:-1 tvg-id="VoyagesSaveurs.es@FR" tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" group-title="Lifestyle;Travel",Voyages & Saveurs (720p)
+https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
 #EXTINF:-1 tvg-id="Radio1.be@SD" tvg-logo="https://i.ibb.co/pwCs0YY/512px-VRT-Radio-1-logo-svg.png" group-title="General",VRT Radio 1 (720p)
 https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
 #EXTINF:-1 tvg-id="Radio2.be@SD" tvg-logo="https://i.ibb.co/47mc8nJ/VRT-Radio-2-2022-svg.png" group-title="General",VRT Radio 2 (720p)

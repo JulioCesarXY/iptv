@@ -69,26 +69,16 @@ https://xumo-xumoent-ch824-d4q5c.fast.nbcuni.com/live/master.m3u8
 https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Wild West TV (1080p)
 https://linear-799.frequency.stream/dist/xumo/799/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Celebrity Name Game (1080p) [Geo-blocked]
-https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cook's Country Channel (1080p) [Geo-blocked]
 https://amg01420-amg01420c5-xumo-us-3817.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Designated Survivor (1080p) [Geo-blocked]
-https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Dog Whisperer with Cesar Millan (1080p) [Geo-blocked]
 https://amg01201-cinedigm-amg01201c30-xumo-us-2277.playouts.now.amagi.tv/cinedigm-dogwhisperer-hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ebony TV (1080p) [Geo-blocked]
-https://amg00353-lionsgatestudios-amg00353c11-xumo-us-2108.playouts.now.amagi.tv/EbonyTV-pl/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",FOX Sports (1080p) [Geo-blocked]
 https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",JTV Jewelry Love (1080p) [Geo-blocked]
 https://jewelrytv-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Latino Vibes (1080p) [Geo-blocked]
 https://amg00375-fusemedia-latinovibes-xumo-qyjhw.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Nash Bridges Channel (1080p) [Geo-blocked]
-https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",OuterSphere (1080p) [Geo-blocked]
-https://amg00353-amg00353c17-xumo-us-2554.playouts.now.amagi.tv/lionsgate-otspr-xumo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Property & Reno (1080p) [Geo-blocked]
 https://linear-476.frequency.stream/dist/xumo/476/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Real Disaster Channel (1080p) [Geo-blocked]
@@ -97,8 +87,6 @@ https://linear-475.frequency.stream/dist/xumo/475/hls/master/playlist.m3u8
 https://amg00732-salemnewsfast-amg00732c2-xumo-us-1316.playouts.now.amagi.tv/snc-xm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Supermarket Sweep (1080p) [Geo-blocked]
 https://amg00145-letsplayinc-supermarketswep-xumo-59bvy.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",The Conners (1080p) [Geo-blocked]
-https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",True History Channel (720p)
 https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BBC Impossible
@@ -117,6 +105,10 @@ https://amg01717-qvc-amg01717c3-xumo-us-2876.playouts.now.amagi.tv/playlist.m3u8
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BlackNewsChannel.us@SD" tvg-logo="https://i.imgur.com/oX5oR4d.png" group-title="News",Black News Channel (1080p)
 https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CelebrityNameGame.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/773232e1-5c36-490b-922e-e5be8ec12eb2/celebrityd5796a3e14bf45513f7b3071b90d030.png" group-title="Series",Celebrity Name Game (1080p) [Geo-blocked]
+https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8
+#EXTINF:-1 tvg-id="DesignatedSurvivor.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6f31f52b-2b65-49eb-91e5-52e07edd1927/DesignatedSurvivor_Plex_1500x1000_Logo_Dark.png" group-title="Series",Designated Survivor (1080p) [Geo-blocked]
+https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EKeepingUp.us@SD" tvg-logo="https://i.imgur.com/9F7VYDM.png" group-title="Entertainment",E! Keeping Up (1080p)
 https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="ElectricNow.us@SD" tvg-logo="" group-title="Entertainment",Electric Now (1080p)
@@ -133,6 +125,8 @@ https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenature
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us@US" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MovieSphere (1080p)
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NashBridges.us" tvg-logo="https://images.pluto.tv/channels/666021cccb3ea10008406866/colorLogoPNG.png" group-title="Series",Nash Bridges Channel (1080p) [Geo-blocked]
+https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCComedyVault.us@SD" tvg-logo="https://i.imgur.com/nydZWwg.png" group-title="Comedy",NBC Comedy Vault (1080p)
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us@SD" tvg-logo="https://i.imgur.com/U9CYaok.png" group-title="Series",Antiques Roadshow PBS (1080p)
@@ -143,6 +137,8 @@ https://xumo-fusebeats.amagi.tv/playlist.m3u8
 https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheBobRossChannel.us@SD" tvg-logo="https://i.imgur.com/gFHKCbZ.png" group-title="Series",The Bob Ross Channel (1080p)
 https://bobross-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bobross-xumo/CDN/master.m3u8
+#EXTINF:-1 tvg-id="TheConners.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3acd803e-a5e3-430c-a34e-508123d2bd95/TheConners_1500x1000_Logo_Dark.png" group-title="Comedy;Series",The Conners (1080p) [Geo-blocked]
+https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheJamieOliverChannel.us@SD" tvg-logo="https://i.imgur.com/4v93XUB.png" group-title="Lifestyle",The Jamie Oliver Channel (1080p)
 https://jamieoliver-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheYoungTurks.us@SD" tvg-logo="https://i.imgur.com/XDNXJCl.png" group-title="News",The Young Turks (TYT) (1080p) [Not 24/7]

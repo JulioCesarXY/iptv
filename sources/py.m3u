@@ -32,6 +32,8 @@ https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 #EXTINF:-1 tvg-id="E40.py@SD" tvg-logo="https://i.imgur.com/0RypDUY.png" http-referrer="https://www.estacion40.com.py/" group-title="Music",E40 (1080p)
 #EXTVLCOPT:http-referrer=https://www.estacion40.com.py/
 https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="EnLenguadeSenasTV.py@SD" tvg-logo="https://i.imgur.com/oxPEZas.png" group-title="Education",En Lengua de Senas TV (720p)
+https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8
 #EXTINF:-1 tvg-id="FarraPlay.py@SD" tvg-logo="https://i.imgur.com/bXWzstH.png" group-title="Music",Farra Play (720p) [Not 24/7]
 http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 tvg-id="Gen.py@SD" tvg-logo="https://i.imgur.com/vEMnZF4.png" http-referrer="https://www.gen.com.py/" group-title="General",Gen
