@@ -75,6 +75,8 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 https://panel.host-live.com:19360/20000/20000.m3u8
 #EXTINF:-1 tvg-id="PlanetaTV.pe@SD" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="Undefined",Planeta TV (720p) [Not 24/7]
 https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:-1 tvg-id="PrattelTV.pe@SD" tvg-logo="https://new.opencaster.com/uploads/logos/logo_244_1761928734.png" group-title="Music",Prattel TV
+https://vs20.live.opencaster.com/prattelpe_a2b8d350/index.m3u8
 #EXTINF:-1 tvg-id="Primavera15.pe@SD" tvg-logo="https://i.imgur.com/wsJ8Ag2.png" group-title="General",Primavera 15
 https://servilive.com:3538/live/v6qe84b6flive.m3u8
 #EXTINF:-1 tvg-id="RadioMaster.pe@HD" tvg-logo="https://i.imgur.com/AUoxyzP.png" group-title="Music",Radio Master (720p)
