@@ -456,8 +456,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 #EXTINF:-1 tvg-id="BTNTV.kr@SD" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="Religious",BTN TV (1080p)
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-#EXTINF:-1 tvg-id="BTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png" group-title="News",BTV (720p)
-https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
+#EXTINF:-1 tvg-id="BTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png" group-title="News",BTV (1080p)
+https://btv.secureswiftcontent.com/han/btv/btv10005r/srtoutput/manifest.m3u8
 #EXTINF:-1 tvg-id="BTVChattogram.bd@SD" tvg-logo="https://i.imgur.com/hvpyuek.png" group-title="Undefined",BTV Chattogram (1080p)
 https://bozztv.com/rongo/rongo-BTVChattagram/index.m3u8
 #EXTINF:-1 tvg-id="BTVNational.bd@SD" tvg-logo="https://i.imgur.com/5OE2FDt.png" group-title="Undefined",BTV National (1080p)
@@ -1425,7 +1425,7 @@ https://mumt03.tangotv.in/JAIHIND/index.m3u8
 #EXTINF:-1 tvg-id="JakTV.id@SD" tvg-logo="https://i.imgur.com/xyLLLOi.png" group-title="Undefined",Jak TV (720p)
 https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
 #EXTINF:-1 tvg-id="JakartaGlobeNewsChannel.id@SD" tvg-logo="https://i.postimg.cc/B6GFBy9C/In_Shot_20260121_203812695.png" group-title="News",Jakarta Globe News Channel (1080p)
-https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglobe/srtoutput/manifest.m3u8
+https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglober/srtoutput/manifest.m3u8
 #EXTINF:-1 tvg-id="JalshaMovies.in@HD" tvg-logo="https://i.imgur.com/25eWjX2.png" group-title="Movies",Jalsha Movies HD (1080p)
 http://103.229.254.25:7001/play/a0dt/index.m3u8
 #EXTINF:-1 tvg-id="JambiTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Jambi_TV.png" http-referrer="https://jambitv.co.id/live-tv/" group-title="General",Jambi TV (480p) [Not 24/7]
@@ -2782,6 +2782,8 @@ https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 http://103.121.6.5:8000/play/a063/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movies",Star Movies HD (1080p)
 http://103.157.248.140:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 HD (1080p)
+http://ptuf.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1Hindi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Hindi (576p)
 http://103.157.248.140:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1Tamil.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Tamil (576p)

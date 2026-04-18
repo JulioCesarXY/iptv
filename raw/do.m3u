@@ -76,8 +76,6 @@ https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 #EXTINF:-1 tvg-id="CieloTV.do@SD" tvg-logo="https://i.imgur.com/2PNw6BA.png" group-title="Religious",Cielo TV (1080p)
 https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
-#EXTINF:-1 tvg-id="CinevisionCanal19.do@SD" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="General",Cinevision Canal 19 (720p)
-https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/index.m3u8
 #EXTINF:-1 tvg-id="ClaroTelevisionDominicana.do@SD" tvg-logo="https://i.imgur.com/fJD7OxB.png" group-title="General",Claro Televisión Dominicana (360p)
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 #EXTINF:-1 tvg-id="ClaroVisionTV.do@SD" tvg-logo="https://i.imgur.com/MpTgJMJ.png" group-title="Entertainment",Claro Visión TV (720p)
@@ -211,8 +209,6 @@ https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
 https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8
 #EXTINF:-1 tvg-id="MakaoTV.do@SD" tvg-logo="https://i.imgur.com/asD5y7i.png" group-title="Music",Makao TV (360p)
 https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
-#EXTINF:-1 tvg-id="MakinaTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2951-294x165-FFFFFF.jpg" group-title="General",Makina TV [Not 24/7]
-https://vdopanel.jlahozconsulting.com/p/3303/live/makinalive.m3u8
 #EXTINF:-1 tvg-id="ManaclarTelevision.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3445-294x165-FFFFFF.jpg" group-title="General",Manaclar Television [Not 24/7]
 https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
 #EXTINF:-1 tvg-id="MarkaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3355-294x165-FFFFFF.jpg" group-title="General",Marka TV (720p) [Not 24/7]
@@ -508,3 +504,9 @@ https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 https://edge.essastream.com/aiontelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="LaSalvaciondelAlmaTV.do@SD" tvg-logo="https://www.zradios.com/files/1/1/9/11942-627.jpg" group-title="Religious",La Salvacion del Alma TV
 https://vs20.live.opencaster.com/lasalvaciondelalmatv_dfc663c0/index.m3u8
+#EXTINF:-1 tvg-id="MakinaTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2951-294x165-FFFFFF.jpg" group-title="General",Makina TV (720p) [Not 24/7]
+https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8
+#EXTINF:-1 tvg-id="CinevisionCanal19.do@SD" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="General",Cinevision Canal 19 (1080p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
+#EXTINF:-1 tvg-id="AltantoTV.do@SD" tvg-logo="https://i.imgur.com/KWvVLhc.png" group-title="General",Altanto TV (1080p) [Not 24/7]
+https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8

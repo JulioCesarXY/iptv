@@ -304,6 +304,8 @@ https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlsaciasTelevision.hn@SD" tvg-logo="https://i.imgur.com/SbuD1UW.png" group-title="General",Alsacias Televisión (ATV | Canal 28) (720p)
 https://s.emisoras.tv:8081/atv/index.m3u8
+#EXTINF:-1 tvg-id="AltantoTV.do@SD" tvg-logo="https://i.imgur.com/KWvVLhc.png" group-title="General",Altanto TV (1080p) [Not 24/7]
+https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8
 #EXTINF:-1 tvg-id="AlwaysFunnyVideos.us@SD" tvg-logo="https://i.imgur.com/vfdN5Xl.png" group-title="Series",Always Funny Videos (720p)
 https://d24l3uppudokci.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca@SD" tvg-logo="https://i.imgur.com/I0oPFTj.png" group-title="Religious",Amazing Discoveries TV (720p)
@@ -1041,8 +1043,8 @@ https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/C
 https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8
 #EXTINF:-1 tvg-id="CinevaultWesterns.us@SD" tvg-logo="https://i.imgur.com/K1W137J.png" group-title="Classic",Cinevault Westerns (720p)
 https://aegis-cloudfront-1.tubi.video/72b8dd6b-391b-401c-a3e4-03f9c29555c8/playlist.m3u8
-#EXTINF:-1 tvg-id="CinevisionCanal19.do@SD" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="General",Cinevision Canal 19 (720p)
-https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/index.m3u8
+#EXTINF:-1 tvg-id="CinevisionCanal19.do@SD" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="General",Cinevision Canal 19 (1080p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="Circle.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/960px-Circle_Network_logo.svg.png" group-title="Entertainment",Circle (1080p)
 https://circle-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CitricoTV.do@SD" tvg-logo="https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg" group-title="News",Citrico TV (480p) [Not 24/7]
@@ -2412,8 +2414,8 @@ https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
 #EXTINF:-1 tvg-id="MakaoTV.do@SD" tvg-logo="https://i.imgur.com/asD5y7i.png" group-title="Music",Makao TV (360p)
 https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
-#EXTINF:-1 tvg-id="MakinaTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2951-294x165-FFFFFF.jpg" group-title="General",Makina TV [Not 24/7]
-https://vdopanel.jlahozconsulting.com/p/3303/live/makinalive.m3u8
+#EXTINF:-1 tvg-id="MakinaTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2951-294x165-FFFFFF.jpg" group-title="General",Makina TV (720p) [Not 24/7]
+https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8
 #EXTINF:-1 tvg-id="ManaclarTelevision.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3445-294x165-FFFFFF.jpg" group-title="General",Manaclar Television [Not 24/7]
 https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
 #EXTINF:-1 tvg-id="MSTV.us@SD" tvg-logo="https://i.imgur.com/x0lJqSp.png" group-title="Education",Manatee Schools Television MSTV (Manatee County FL) (1080p)
@@ -4525,7 +4527,7 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 https://stream-us-east-1.getpublica.com/cl/260415d7g24jv4hnf3ahfafgog/318x234_424101_3_f.m3u8?i=513_2256
 #EXTINF:-1 tvg-id="WAVETV.bz@SD" tvg-logo="https://i.imgur.com/V8Hfgis.jpg" group-title="Music",WAVE TV (480p)
 https://streamer2.nexgen.bz/08-WAVE/index.m3u8
-#EXTINF:-1 tvg-id="WavezFM.aw@SD" tvg-logo="https://www.wavezfmaruba.com/WAVEZ.png" group-title="Undefined",Wavez FM
+#EXTINF:-1 tvg-id="WavezFM.aw@SD" tvg-logo="https://www.wavezfmaruba.com/WAVEZ.png" group-title="Music",Wavez FM
 https://vs20.live.opencaster.com/wavezfm1075aruba_37766c9d/index.m3u8
 #EXTINF:-1 tvg-id="WaypointTV.us@SD" tvg-logo="https://i.imgur.com/9vvlJN9.png" group-title="Outdoor",Waypoint TV (1080p)
 https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
