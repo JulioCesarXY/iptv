@@ -595,6 +595,8 @@ http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
 https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
 #EXTINF:-1 tvg-id="SETNews.tw@SD" tvg-logo="https://i.imgur.com/EGVbAvJ.png" group-title="News",SET News (三立新聞) (1080p) [Geo-blocked]
 http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 tvg-id="SevenChannel.mn@SD" tvg-logo="https://i.imgur.com/9Ld5ATz.png" group-title="General",Seven Channel (720p) [Not 24/7]
+https://xykt-fix.github.io/liveh42-syhtv-mn/7Channel_HD/03.m3u8
 #EXTINF:-1 tvg-id="ShaanxiAgroforestrySatelliteTV.cn@SD" tvg-logo="https://i.imgur.com/j4yT8ff.png" group-title="Undefined",Shaanxi Agroforestry Satellite TV
 http://49.113.179.174:4022/udp/238.125.4.154:5140
 #EXTINF:-1 tvg-id="ShandongEducationTV.cn@SD" tvg-logo="https://i.imgur.com/yb10kF0.png" group-title="Education",Shandong Education TV
