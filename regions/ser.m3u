@@ -472,6 +472,8 @@ https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="DehaTV.tr@SD" tvg-logo="https://i.imgur.com/Dlsm9XP.png" group-title="News",Deha TV (720p) [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8
+#EXTINF:-1 tvg-id="DellaTV.it@HD" tvg-logo="https://i.imgur.com/6lvQ3Xz.png" group-title="General",DellaTV (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
 #EXTINF:-1 tvg-id="DELTATV.gr@SD" tvg-logo="https://i.ibb.co/Nt79gnx/319386123-3050873715211949-6691293256713061450-n-1024x752.png" group-title="General",DELTA TV (720p)
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Deluxe139.it@SD" tvg-logo="https://i.imgur.com/NbsGekl.png" group-title="Undefined",Deluxe 139 (480p)
@@ -795,6 +797,8 @@ http://151.0.207.99:1935/italia7/italia7/playlist.m3u8
 https://fms.premio.link/fishingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="IuniorTV.it@SD" tvg-logo="https://i.imgur.com/FBOJnfT.png" group-title="Kids",Iunior TV (1080p)
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
+#EXTINF:-1 tvg-id="JimJamEurope.uk@SD" tvg-logo="https://i.imgur.com/ODhkYyx.png" group-title="Kids",JimJam Europe (576p)
+http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 tvg-id="Juwelo.it@SD" tvg-logo="https://i.imgur.com/T3r1khc.png" group-title="Shop",Juwelo Italia (480p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
 #EXTINF:-1 tvg-id="KairaliArabia.in@SD" tvg-logo="https://i.imgur.com/BBEfplL.png" group-title="General",Kairali Arabia (576p)

@@ -55,6 +55,8 @@ https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 http://80.194.62.172:50002/stream/channelid/1096333958
 #EXTINF:-1 tvg-id="EmanChannel.uk@SD" tvg-logo="https://i.imgur.com/ugn0DWe.png" group-title="Religious",Eman Channel (576p)
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-logo="https://i.imgur.com/9FMvaRK.png" group-title="Education",English Club TV (576i)
+https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ENTChannel.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Entertainment",ENT Channel (720p)
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="ENTFamily.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Entertainment",ENT Family (720p)
@@ -117,6 +119,8 @@ https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/
 http://80.194.62.172:50002/stream/channelid/95929545
 #EXTINF:-1 tvg-id="ITV2.uk@SD" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="General",ITV2 (1080p)
 http://80.194.62.172:50002/stream/channelid/404728797
+#EXTINF:-1 tvg-id="JimJamEurope.uk@SD" tvg-logo="https://i.imgur.com/ODhkYyx.png" group-title="Kids",JimJam Europe (576p)
+http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 tvg-id="KalsanTV.uk@SD" tvg-logo="https://i.imgur.com/AqyY1bR.png" group-title="Culture",Kalsan TV (576p)
 https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8
 #EXTINF:-1 tvg-id="KanshiTV.uk@SD" tvg-logo="https://i.imgur.com/w6uXMrK.png" group-title="Religious",Kanshi TV (720p) [Not 24/7]
@@ -215,6 +219,8 @@ https://tvwarehouse.r.worldssl.net/mystream.m3u8
 http://92.114.85.72:8000/play/a0bi
 #EXTINF:-1 tvg-id="UniversalSomaliTV.uk@SD" tvg-logo="https://i.imgur.com/awa4oas.png" group-title="Undefined",Universal Somali TV
 http://dvrfl05.bozztv.com/gin-universalsomali/index.m3u8
+#EXTINF:-1 tvg-id="UtsavBharat.uk@SD" tvg-logo="https://i.imgur.com/IQ2n0WY.png" group-title="Undefined",Utsav Bharat (576p)
+https://mini.allinonereborn.fun/tata.php?id=11779
 #EXTINF:-1 tvg-id="UW.uk@SD" tvg-logo="https://i.imgur.com/puBkpGj.png" group-title="Undefined",U&W
 http://92.114.85.72:8000/play/a0bj
 #EXTINF:-1 tvg-id="V2BEATTV.uk@SD" tvg-logo="https://i.imgur.com/PXGqyLn.png" group-title="Music",V2BEAT (720p) [Not 24/7]
@@ -223,5 +229,5 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 http://69.64.57.208/voxafrica/playlist.m3u8
 #EXTINF:-1 tvg-id="YAAAS.uk@HD" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-12/yaas-logo250x144.png" group-title="Kids",YAAAS! (720p) [Geo-blocked]
 https://jmp2.uk/stvp-GB340000289
-#EXTINF:-1 tvg-id="ZeeTVUK.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Zee_TV_Logo_2025.svg/960px-Zee_TV_Logo_2025.svg.png" group-title="Entertainment",Zee TV UK HD (720p)
-http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/ZEE/index.m3u8
+#EXTINF:-1 tvg-id="ZeeTVUK.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Zee_TV_Logo_2025.svg/960px-Zee_TV_Logo_2025.svg.png" group-title="Entertainment",Zee TV UK HD (1080p)
+https://mini.allinonereborn.fun/tata.php?id=11783

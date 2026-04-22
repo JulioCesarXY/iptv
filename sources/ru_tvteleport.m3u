@@ -135,8 +135,6 @@ http://31.148.48.15/Russkiy_illusion/index.m3u8
 http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 #EXTINF:-1 tvg-id="RUTV.ru@SD" tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="Music",RU.TV (576p)
 http://31.148.48.15/RU_TV/index.m3u8
-#EXTINF:-1 tvg-id="Ryzhiy.ru@SD" tvg-logo="https://i.imgur.com/acrU2IE.png" group-title="Kids",Рыжий (576p)
-http://31.148.48.15/Rizhiy/index.m3u8
 #EXTINF:-1 tvg-id="SanktPeterburg.ru@SD" tvg-logo="https://i.imgur.com/9At4oG7.png" group-title="Undefined",Санкт-Петербург (576p)
 http://31.148.48.15/Sankt_Peterburg/index.m3u8
 #EXTINF:-1 tvg-id="Saphire.ru@SD" tvg-logo="https://i.imgur.com/NMOBvle.png" group-title="Series",Сапфир (720p)
