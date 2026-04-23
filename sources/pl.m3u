@@ -9,6 +9,8 @@ https://lowa8026-cmyk.github.io/13Ulica.m3u8
 http://78.130.250.2:8023/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="BialogardzkaTelewizjaKablowa.pl@HD" tvg-logo="https://btk.bsmbialogard.pl/sites/default/files/inline-images/logo%20header2%282%29.png" group-title="Entertainment",Bialogardzka Telewizja Kablowa (1080p)
 https://bsmbialogard.pl/live/index.m3u8
+#EXTINF:-1 tvg-id="BTB3.pl@HD" tvg-logo="https://i.imgur.com/Z193940.png" group-title="General",BTB 3 (1080p)
+https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8
 #EXTINF:-1 tvg-id="BTB.pl@SD" tvg-logo="https://btb.j00r.us/images/logo_BTB.webp" group-title="General",BTB HD (1080p)
 https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8
 #EXTINF:-1 tvg-id="BTBInfo.pl@SD" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" group-title="Documentary;News",BTB Info (1080p)
@@ -21,6 +23,8 @@ https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8
 http://94.246.128.53:1935/tv/dlaCiebieTv/playlist.m3u8
 #EXTINF:-1 tvg-id="Echo24.pl@SD" tvg-logo="https://i.imgur.com/KPogWAG.png" group-title="General",Echo24 (720p)
 https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8
+#EXTINF:-1 tvg-id="Mango.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NewLogoMango.svg" group-title="Shop",Mango (1080p) [Geo-blocked]
+https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8
 #EXTINF:-1 tvg-id="NewTV.pl@SD" tvg-logo="https://i.imgur.com/fH8rKs3.png" group-title="General",NewTV (1080p)
 https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="NutaTV.pl@SD" tvg-logo="https://i.imgur.com/JHFUxDu.png" group-title="Music",Nuta TV
@@ -31,6 +35,8 @@ http://78.130.250.2:8023/play/a05t/index.m3u8
 http://78.130.250.2:8023/play/a065/index.m3u8
 #EXTINF:-1 tvg-id="Polsat.pl@SD" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="General",Polsat (1080p) [Geo-blocked]
 https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
+#EXTINF:-1 tvg-id="PolsatFilm.pl@SD" tvg-logo="https://i.imgur.com/wGH6shZ.png" group-title="Movies",Polsat Film (1080p) [Not 24/7]
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/6086/index.m3u8
 #EXTINF:-1 tvg-id="PolsatNews.pl@SD" tvg-logo="https://i.imgur.com/sx1yPuc.png" group-title="News",Polsat News (1080p) [Geo-blocked]
 https://cdn-s-playnow-live.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 #EXTINF:-1 tvg-id="PolsatNewsPolityka.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/960px-Polsat_News_Polityka_2024_gradient.svg.png" group-title="News",Polsat News Polityka (1080p) [Geo-blocked]

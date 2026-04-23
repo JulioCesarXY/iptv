@@ -1745,6 +1745,10 @@ http://dvrfl05.bozztv.com/gin-tvpirveli/index.m3u8
 https://ncdn.telewebion.ir/nava/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TVC.ge@SD" tvg-logo="https://sul.ge/images/televizia/tvc.png" group-title="General",TVC (1080p)
 http://31.146.5.178:8087/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalEurope.es@SD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Undefined",TVE Internacional Europe (576p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalEurope.es@HD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Undefined",TVE Internacional Europe HD (1080p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVMInternacional.mz@SD" tvg-logo="https://i.imgur.com/fRV6p50.png" group-title="General",TVM Internacional (480p) [Not 24/7]
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNET.tr@SD" tvg-logo="https://i.imgur.com/mQo8yWQ.png" group-title="Undefined",TVnet (720p)

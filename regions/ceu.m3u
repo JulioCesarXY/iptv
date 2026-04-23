@@ -181,6 +181,8 @@ https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8
 https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8
 #EXTINF:-1 tvg-id="BravoTV.hr@SD" tvg-logo="https://i.imgur.com/FN2J9hv.png" group-title="Music",Bravo! TV (1080p)
 https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8
+#EXTINF:-1 tvg-id="BTB3.pl@HD" tvg-logo="https://i.imgur.com/Z193940.png" group-title="General",BTB 3 (1080p)
+https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8
 #EXTINF:-1 tvg-id="BTB.pl@SD" tvg-logo="https://btb.j00r.us/images/logo_BTB.webp" group-title="General",BTB HD (1080p)
 https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8
 #EXTINF:-1 tvg-id="BTBInfo.pl@SD" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" group-title="Documentary;News",BTB Info (1080p)
@@ -722,6 +724,8 @@ https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8
 #EXTINF:-1 tvg-id="MakoiVarosiTelevizio.hu@SD" tvg-logo="https://i.imgur.com/PF3BP4X.png" group-title="General",Makói Városi (576p)
 http://makomedia.mikrohalo.hu/hls/makotv.m3u8
+#EXTINF:-1 tvg-id="Mango.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NewLogoMango.svg" group-title="Shop",Mango (1080p) [Geo-blocked]
+https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8
 #EXTINF:-1 tvg-id="MariaVisionItalia.it@SD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/maria-plus-vision-italia-mx-it.png" group-title="Religious",Maria Vision (1080p)
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
 #EXTINF:-1 tvg-id="MAX4.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Max4_logo.png/960px-Max4_logo.png" group-title="Movies",MAX4 (576p)
@@ -1015,6 +1019,8 @@ http://78.130.250.2:8023/play/a05t/index.m3u8
 https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:-1 tvg-id="Polsat1.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Polsat_1_2021_gradient.svg/960px-Polsat_1_2021_gradient.svg.png" group-title="General",Polsat 1 (1080p)
 http://78.130.250.2:8023/play/a065/index.m3u8
+#EXTINF:-1 tvg-id="PolsatFilm.pl@SD" tvg-logo="https://i.imgur.com/wGH6shZ.png" group-title="Movies",Polsat Film (1080p) [Not 24/7]
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/6086/index.m3u8
 #EXTINF:-1 tvg-id="PolsatNews.pl@SD" tvg-logo="https://i.imgur.com/sx1yPuc.png" group-title="News",Polsat News (1080p) [Geo-blocked]
 https://cdn-s-playnow-live.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 #EXTINF:-1 tvg-id="PolsatNewsPolityka.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/960px-Polsat_News_Polityka_2024_gradient.svg.png" group-title="News",Polsat News Polityka (1080p) [Geo-blocked]
@@ -1762,6 +1768,10 @@ http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 http://78.130.250.2:8023/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="TVCSuper.pl@SD" tvg-logo="https://radiopolska.pl/files/thumb/32049b3594ccdd5/300" group-title="Undefined",TVC Super
 http://78.130.250.2:8023/play/a03w/index.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalEurope.es@SD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Undefined",TVE Internacional Europe (576p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalEurope.es@HD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Undefined",TVE Internacional Europe HD (1080p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVKStella.pl@SD" tvg-logo="https://www.tvkstella.pl/img/poster.png" group-title="General;News",TVK Stella (576p)
 https://stream.tvkstella.pl/stella/stella.m3u8
 #EXTINF:-1 tvg-id="TVL.it@SD" tvg-logo="https://i.imgur.com/2wkSHNI.png" group-title="Undefined",TVL (720p) [Not 24/7]

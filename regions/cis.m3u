@@ -553,6 +553,10 @@ https://live.teleradiocom.tj/6/3m.m3u8
 https://live.teleradiocom.tj/14/3m.m3u8
 #EXTINF:-1 tvg-id="TVNord.md@SD" tvg-logo="https://i.imgur.com/86JYRVH.png" group-title="News",TV-Nord (1080p)
 https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalEurope.es@SD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Undefined",TVE Internacional Europe (576p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalEurope.es@HD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Undefined",TVE Internacional Europe HD (1080p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVMInternacional.mz@SD" tvg-logo="https://i.imgur.com/fRV6p50.png" group-title="General",TVM Internacional (480p) [Not 24/7]
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRMoldova.md@SD" tvg-logo="https://i.imgur.com/wDe9gL2.png" group-title="General",TVR Moldova (720p) [Geo-blocked] [Not 24/7]

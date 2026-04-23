@@ -1007,12 +1007,14 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrato
 https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="NickClassico.us@Brazil" tvg-logo="https://i.imgur.com/Crip6wT.png" group-title="Kids",Nickelodeon Clássico (720p)
 https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
+#EXTINF:-1 tvg-id="NickelodeonWeb.br@SD" tvg-logo="https://i.ibb.co/TxV7nwLw/20260420-172534.png" group-title="Animation;Kids",Nickelodeon Web (576p)
+https://vs20.live.opencaster.com/nickelodeonbrasil_68f1743d/index.m3u8
 #EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://x1co.com.br:8443/logo.png" group-title="Animation;Kids",NickOnline (720p)
 https://x1co.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NickOnline.br@SD" tvg-logo="https://x1co.com.br:8443/logo.png" group-title="Animation;Kids",NickOnline SD (320p)
 https://sd.x1co.com.br
 #EXTINF:-1 tvg-id="NickOnlineSpongebob.br@HD" tvg-logo="https://x1co.com.br/logobob.png" group-title="Animation;Kids",NickOnline Spongebob (720p) [Not 24/7]
-https://x1co.com.br:2083/hls/stream.m3u8
+https://lowa8026-cmyk.github.io/Brazil/NickOnlineSpongebob.m3u8
 #EXTINF:-1 tvg-id="NickToonsBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png" group-title="Animation;Kids",NickToons Brasil (480p)
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="NortenaTv.ve@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU" group-title="Entertainment",Norteña TV
@@ -1076,9 +1078,8 @@ https://panel.host-live.com:19360/20004/20004.m3u8
 https://panel.host-live.com:19360/20000/20000.m3u8
 #EXTINF:-1 tvg-id="PantallaClasicaEC.ec@SD" tvg-logo="https://i.imgur.com/mhbERF9.jpg" group-title="Movies;Series",Pantalla Clásica EC (512p) [Not 24/7]
 https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
-#EXTINF:-1 tvg-id="ParaguayTV.py@SD" tvg-logo="https://i.imgur.com/fkK7i8g.png" http-referrer="https://www.paraguaytv.gov.py/" group-title="General",Paraguay TV (720p)
-#EXTVLCOPT:http-referrer=https://www.paraguaytv.gov.py/
-https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
+#EXTINF:-1 tvg-id="ParaguayTV.py@SD" tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="General",Paraguay TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8
 #EXTINF:-1 tvg-id="Paravision.py@SD" tvg-logo="https://i.imgur.com/yd9Dw2G.png" http-referrer="https://www.paravision.com.py/" group-title="General",Paravision
 #EXTVLCOPT:http-referrer=https://www.paravision.com.py/
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
