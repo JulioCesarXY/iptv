@@ -47,8 +47,6 @@ https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge3/b4u-music
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="BeautifulLifeTV.tw@SD" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="Religious",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us@Plus" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV + (2160p)
-https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@AsiaLiveEvent" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia Live Event (720p)
@@ -56,6 +54,8 @@ https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-id="BloombergTVMongolia.mn@SD" tvg-logo="https://i.imgur.com/OuogLHx.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Business",Bloomberg TV Mongolia HD (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
+#EXTINF:-1 tvg-id="BloombergTV.us@Plus" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV+ (2160p)
+https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="BreadTV.cn@SD" tvg-logo="https://bread-tv.com/uploads/allimg/241202/9_1836542371.png" group-title="Undefined",Bread TV面包台 (720p)
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="BRTVKakuChildrensChannel.cn@SD" tvg-logo="https://i.imgur.com/t8X4wPZ.png" group-title="Kids",BRTV Kaku Childrens Channel
@@ -254,7 +254,7 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id="FishingVision.jp@SD" tvg-logo="https://i.imgur.com/qX6nNOF.png" group-title="Outdoor",Fishing Vision (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
 #EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="News",France 24 English (1080p)
-https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="News",France 24 French (1080p)
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="FTV.tw@SD" tvg-logo="https://i.imgur.com/q8ahtbT.png" group-title="General",FTV (民視) (720p) [Not 24/7]

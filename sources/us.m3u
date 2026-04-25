@@ -169,8 +169,6 @@ https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 https://bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@LiveEvent" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV US Live Event (720p)
 https://bloomberg.com/media-manifest/streams/us-event.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us@Plus" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV + (2160p)
-https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@PoliticsLiveEvent" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV US Politics Live Event (720p)
 https://bloomberg.com/media-manifest/streams/politics.m3u8
 #EXTINF:-1 tvg-id="BMCHDTV.us@SD" tvg-logo="https://i.imgur.com/c9LiTz0.png" group-title="General",BMC-HD TV (720p)
@@ -274,8 +272,6 @@ http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8
 https://livestream.telvue.com/cvtv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CVTVChannel194.us@SD" tvg-logo="https://i.imgur.com/loGNYCc.png" group-title="General",CVTV Channel 194 (1080p)
 https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Dateline247.us@SD" tvg-logo="https://i.imgur.com/8mAJuut.png" group-title="Documentary",Dateline 24/7 (1080p)
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007
 #EXTINF:-1 tvg-id="Decades.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Decades_Logo.svg/960px-Decades_Logo.svg.png" group-title="Entertainment",Decades
 https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-decades/index.m3u8
 #EXTINF:-1 tvg-id="DerryTV17.us@SD" tvg-logo="https://i.imgur.com/MRR6UL3.png" group-title="Legislative",DerryTV 17 (720p)
@@ -432,8 +428,6 @@ https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="KDFW41.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="General",KDFW-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="KetchupTV.us@SD" tvg-logo="https://i.imgur.com/XRGioQX.png" group-title="Kids",Ketchup TV (720p)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13171
 #EXTINF:-1 tvg-id="KFTRDT461.us@HD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="Entertainment",KFTR-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 #EXTINF:-1 tvg-id="KIROTV71.us@HD" tvg-logo="https://i.imgur.com/suvT0TN.png" group-title="General",KIRO-DT1 (1080p)
@@ -496,8 +490,6 @@ https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
 https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
 #EXTINF:-1 tvg-id="LatinZone.us@SD" tvg-logo="https://i.imgur.com/duEDsne.png" group-title="Music",Latin Zone TV (720p)
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
-#EXTINF:-1 tvg-id="LegoChannel.us@SD" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",Lego Channel (1080p)
-https://jmp2.uk/stvp-GBBC4300005AL
 #EXTINF:-1 tvg-id="LGTV.us@SD" tvg-logo="https://i.imgur.com/d5w2pT4.png" group-title="Legislative",LGTV (1080p)
 https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Lifetime Latin America (720p)
@@ -580,14 +572,10 @@ https://livestream.telvue.com/natickpegasus2/f7b44cfafd5c52223d5498196c8a2e7b.sd
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-46_720.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us@SD" tvg-logo="https://i.imgur.com/5iT7hEa.png" group-title="Entertainment",NBCLX (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",NBC News NOW (1080p)
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="Sports",NBC Sports NOW (1080p)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 #EXTINF:-1 tvg-id="NBCUniverso.us@West" tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="Entertainment",NBC Universo West (720p)
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="NEWKPOP.us@SD" tvg-logo="https://i.imgur.com/B7ILXMc.png" group-title="Music",NEW K-POP (1080p)
-https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="News12Bronx.us@SD" tvg-logo="https://i.imgur.com/d6xQiaf.png" group-title="News",News12 Bronx [Geo-blocked]
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News12Brooklyn.us@SD" tvg-logo="https://i.imgur.com/fvcOzzK.png" group-title="News",News12 Brooklyn [Geo-blocked]

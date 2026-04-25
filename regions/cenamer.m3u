@@ -61,8 +61,8 @@ https://streamer1.nexgen.bz/ATN/index.m3u8
 https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8
 #EXTINF:-1 tvg-id="BHATV.bz@SD" tvg-logo="https://i.imgur.com/Nz5zM3H.png" group-title="Travel",BHA TV (1080p)
 https://streamer2.nexgen.bz/15-BHA/index.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us@Plus" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV + (2160p)
-https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us@Plus" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV+ (2160p)
+https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="BTVPanama.pa@SD" tvg-logo="https://i.imgur.com/CiYVtgB.png" group-title="General",BTV Panamá (720p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
 #EXTINF:-1 tvg-id="BTVWorld.bd@SD" tvg-logo="https://i.imgur.com/sSnrg7o.png" group-title="General",BTV World (1080p)
@@ -300,7 +300,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png" group-title="Sports",Fox Sports 3 Latin America (1080p)
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
 #EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="News",France 24 English (1080p)
-https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="News",France 24 Español (1080p)
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="News",France 24 French (1080p)

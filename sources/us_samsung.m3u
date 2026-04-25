@@ -529,8 +529,6 @@ https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest
 https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
 #EXTINF:-1 tvg-id="PBSTravel.us@SD" tvg-logo="https://i.imgur.com/A6GXhta.png" group-title="Lifestyle",PBS Travel (1080p)
 https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
-#EXTINF:-1 tvg-id="PGATour.us@SD" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",PGA Tour (1080p) [Geo-blocked]
-https://pb-783hpus5r91wv.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="pocketwatch.us@SD" tvg-logo="https://i.imgur.com/T0V90Lz.png" group-title="Kids",pocket.watch Game On (1080p)
 https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8
 #EXTINF:-1 tvg-id="Portlandia.us@SD" tvg-logo="https://i.imgur.com/I4KDvu9.png" group-title="Undefined",Portlandia (720p)
@@ -555,8 +553,6 @@ https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadi
 https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
 #EXTINF:-1 tvg-id="TED.us@SD" tvg-logo="https://i.imgur.com/KeIhwNP.png" group-title="Undefined",TED (1080p)
 https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8
-#EXTINF:-1 tvg-id="Teletubbies.uk@SD" tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="Kids",Teletubbies (720p)
-https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="TGJunior.us@SD" tvg-logo="https://i.imgur.com/aqane40.png" group-title="Kids",Toon Goggles Junior (720p)
 https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
 #EXTINF:-1 tvg-id="TheAsylum.us@US" tvg-logo="https://i.imgur.com/dx9tt1B.png" group-title="Series",The Asylum (1080p)

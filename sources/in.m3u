@@ -247,8 +247,8 @@ https://live.streamjo.com/eetlive/eettv.m3u8
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="EpicBharat.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540" group-title="Entertainment",Nazara (1080p)
 https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
-#EXTINF:-1 tvg-id="EpicBhojpuri.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" group-title="Movies",Filamchi Bhojpuri (1080p)
-https://epiconvh.akamaized.net/live/filamchi/master.m3u8
+#EXTINF:-1 tvg-id="EpicBhojpuri.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" group-title="Movies",Epic Bhojpuri (576p)
+http://103.72.101.252:8080/live/3384.m3u8
 #EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png" group-title="Music",Epic Music (720p)
 http://103.213.31.109:90/ShowBox/playlist.m3u8
 #EXTINF:-1 tvg-id="EpicTV.in@Digital" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png" group-title="Entertainment",Epic TV Digital (1080p)
@@ -406,6 +406,8 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
 #EXTINF:-1 tvg-id="KalaignarTV.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Kalaignar%20TV.png" group-title="General",Kalaignar TV (576p)
 http://103.72.101.252:8080/live/1209.m3u8
+#EXTINF:-1 tvg-id="KalikaTV.in@SD" tvg-logo="https://i.imgur.com/XWXFoJA.png" group-title="Music",Kalika TV (576p)
+http://server.applelive.in/kalikatv/kalikatv.m3u8
 #EXTINF:-1 tvg-id="KalingaTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KALINGA_TV/images/LOGO_HD/image.png" group-title="News",Kalinga TV (720p)
 https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="KannurVision.in@SD" tvg-logo="https://i.imgur.com/FCXqPer.png" group-title="News",Kannur Vision (1080p)

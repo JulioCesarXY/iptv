@@ -47,8 +47,6 @@ http://80.194.62.172:50002/stream/channelid/1940621521
 https://x.canlitvapp.com/u-channel-5/index.m3u8
 #EXTINF:-1 tvg-id="ChannelS.uk@SD" tvg-logo="https://i.imgur.com/hJxFLvF.png" group-title="Culture",Channel S (576p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCUK.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="Business;News",CNBC UK (1080p) [Geo-blocked]
-https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DeenTV.uk@SD" tvg-logo="https://i.imgur.com/Zp62Nbd.png" group-title="General",Deen TV (576p) [Not 24/7]
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 #EXTINF:-1 tvg-id="E4.uk@SD" tvg-logo="https://i.imgur.com/22MfjF4.png" group-title="Entertainment",E4 (1080p)
@@ -157,8 +155,6 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 https://sscsott.com/srt/noortvuk/index.m3u8
 #EXTINF:-1 tvg-id="Pop.uk@SD" tvg-logo="https://i.imgur.com/fGUlCY3.png" group-title="Undefined",Pop (1080p)
 https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
-#EXTINF:-1 tvg-id="PopUp.uk@SD" tvg-logo="https://i.imgur.com/GdSotmS.png" group-title="Kids",Pop Up (1080p) [Geo-blocked]
-https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8
 #EXTINF:-1 tvg-id="QVC.uk@SD" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="Shop",QVC UK (540p)
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
 #EXTINF:-1 tvg-id="QVCBeauty.uk@SD" tvg-logo="https://i.imgur.com/ZBHtqk1.png" group-title="Shop",QVC UK Beauty (540p)
@@ -227,7 +223,5 @@ http://92.114.85.72:8000/play/a0bj
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="VoxAfrica.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Voxafrica-1.png/960px-Voxafrica-1.png" group-title="Undefined",VoxAfrica (720p)
 http://69.64.57.208/voxafrica/playlist.m3u8
-#EXTINF:-1 tvg-id="YAAAS.uk@HD" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-12/yaas-logo250x144.png" group-title="Kids",YAAAS! (720p) [Geo-blocked]
-https://jmp2.uk/stvp-GB340000289
 #EXTINF:-1 tvg-id="ZeeTVUK.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Zee_TV_Logo_2025.svg/960px-Zee_TV_Logo_2025.svg.png" group-title="Entertainment",Zee TV UK HD (1080p)
 https://mini.allinonereborn.fun/tata.php?id=11783
